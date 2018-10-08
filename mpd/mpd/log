@@ -8718,3 +8718,4 @@ Oct 08 07:16 : client: [0] opened from 127.0.0.1:56156
 Oct 08 07:16 : avahi: Service 'Music Player' successfully established.
 Oct 08 09:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Oct 08 16:57 : player: played "Thomas Bergersen - Children of the Sun.m4a"
+Oct 08 17:37 : player: played "Thomas Bergersen - Children of the Sun.m4a"
