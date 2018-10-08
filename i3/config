@@ -1,0 +1,253 @@
+### Evan's i3 Config ###
+
+### General Settings ###
+set $mod Mod4
+new_window pixel 0
+new_float none
+
+hide_edge_borders none
+default_border none
+default_floating_border none
+###
+
+### Window Gaps ###
+gaps inner 10
+gaps outer 10
+###
+
+### Font Settings ###
+font xft:Hack 20
+#font pango: Fira Code 20
+###
+
+### Focus & Window & Navigation Commands ###
+
+## Toggle Fullscreen Mode - Focused Container ##
+bindsym $mod+Ctrl+j fullscreen toggle
+#
+
+## Toggle Resize Window Mode
+bindsym $mod+Ctrl+u mode "resize"
+##
+
+## Toggle Window Split ##
+bindsym $mod+z split toggle
+##
+
+## Kill Focused Window ##
+bindsym $mod+Ctrl+k kill
+##
+
+## Change Focus ##
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus right
+bindsym $mod+i focus up
+##
+
+## Move Focused Window
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move right
+bindsym $mod+Shift+i move up
+##
+
+## Set Workspace Names ##
+set $ws1 1
+set $ws2 2
+set $ws3 3
+set $ws4 4
+set $ws5 5
+set $ws6 6
+set $ws7 7
+set $ws8 8
+##
+
+## Cycle Through Workspaces ##
+bindsym $mod+n workspace next
+bindsym $mod+p workspace prev
+##
+
+## Switch to Specific Workspace ##
+bindsym $mod+a workspace $ws1
+bindsym $mod+s workspace $ws2
+bindsym $mod+d workspace $ws3
+bindsym $mod+f workspace $ws4
+bindsym $mod+q workspace $ws5
+bindsym $mod+w workspace $ws6
+bindsym $mod+e workspace $ws7
+bindsym $mod+r workspace $ws8
+##
+
+## Move Focused Container to Workspace ##
+bindsym $mod+Shift+a move container to workspace $ws1
+bindsym $mod+Shift+s move container to workspace $ws2
+bindsym $mod+Shift+d move container to workspace $ws3
+bindsym $mod+Shift+f move container to workspace $ws4
+bindsym $mod+Shift+q move container to workspace $ws5
+bindsym $mod+Shift+w move container to workspace $ws6
+bindsym $mod+Shift+e move container to workspace $ws7
+bindsym $mod+Shift+r move container to workspace $ws8
+##
+
+### Executing Applications ###
+
+## Terminal: urxvt
+bindsym $mod+Return exec urxvt
+##
+
+## Rofi
+bindsym $mod+Ctrl+a exec rofi -show run -font "Hack 20" -theme ~/.cache/wal/colors-rofi-dark.rasi
+##
+
+## Emacs
+bindsym $mod+Ctrl+s exec emacs
+##
+
+## Ranger
+#bindsym $mod+Ctrl+f exec terminal -e 'ranger'
+##
+
+## Qutebrowser
+bindsym $mod+Ctrl+d exec qutebrowser
+#bindsym $mod+Ctrl+d exec qutebrowser --qt-flag ignore-gpu-blacklist --qt-flag -enable-gpu-rasterization --qt-flag enable-native-gpu-memory-buffers --qt-flag num-raster-threads=4
+##
+
+## Zathura
+bindsym $mod+Ctrl+q exec zathura
+##
+
+## Office Suite (Libre Office?)
+##
+
+## DarkTable
+##
+
+## ImageViewer
+##
+
+## Gimp
+##
+
+### Scratchpad ###
+
+## Instantiate "dropdown" Scratchpad
+for_window [title="dropdown"] floating enable
+for_window [instance="dropdown"] move scratchpad
+exec_always --no-startup-id $HOME/_code/scripts/+tmux_dropdown
+exec_always --no-startup-id "urxvt -name dropdown -e tmux attach"
+
+#exec_always "urxvt -e wal -i /home/evan/pictures/wallpapers/wallpaper-blue-wave.jpg"
+
+##
+
+## Toggle Show/Hide Scratchpad ##
+bindsym $mod+u [instance="dropdown"] scratchpad show; [instance="dropdown"] resize set 2500 1080, move position center
+##
+
+# Focus follows mouse
+focus_follows_mouse yes
+
+### Open Specific Applications in Floating Mode ###
+for_window [title="alsamixer"] floating enable border pixel 1
+for_window [class="Calamares"] floating enable border normal
+for_window [class="Clipgrab"] floating enable
+for_window [title="File Transfer*"] floating enable
+for_window [class="Galculator"] floating enable border pixel 1
+for_window [class="GParted"] floating enable border normal
+for_window [title="i3_help"] floating enable sticky enable border normal
+for_window [class="Lightdm-gtk-greeter-settings"] floating enable
+for_window [class="Lxappearance"] floating enable sticky enable border normal
+for_window [class="Manjaro-hello"] floating enable
+for_window [class="Manjaro Settings Manager"] floating enable border normal
+for_window [title="MuseScore: Play Panel"] floating enable
+for_window [class="Nitrogen"] floating enable sticky enable border normal
+for_window [class="Oblogout"] fullscreen enable
+for_window [class="octopi"] floating enable
+for_window [title="About Pale Moon"] floating enable
+for_window [class="Pamac-manager"] floating enable
+for_window [class="Pavucontrol"] floating enable
+for_window [class="qt5ct"] floating enable sticky enable border normal
+for_window [class="Qtconfig-qt4"] floating enable sticky enable border normal
+for_window [class="Simple-scan"] floating enable border normal
+for_window [class="(?i)System-config-printer.py"] floating enable border normal
+for_window [class="Skype"] floating enable border normal
+for_window [class="Thus"] floating enable border normal
+for_window [class="Timeset-gui"] floating enable border normal
+for_window [class="(?i)virtualbox"] floating enable border normal
+for_window [class="Xfburn"] floating enable
+###
+
+### Resize Window Mode ###
+
+mode "resize" {
+        bindsym j resize shrink width 5 px or 5 ppt
+        bindsym k resize grow height 5 px or 5 ppt
+        bindsym l resize shrink height 5 px or 5 ppt
+        bindsym semicolon resize grow width 5 px or 5 ppt
+
+        # exit resize mode: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+###
+
+### Autostart applications ###
+exec_always --no-startup-id wal -R
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+#exec --no-startup-id xfce4-power-manager
+#exec --no-startup-id nitrogen --restore; sleep 1; compton -b
+exec_always --no-startup-id compton -b
+exec_always --no-startup-id ff-theme-util
+exec_always --no-startup-id fix_xcursor
+exec_always --no-startup-id xbindkeys -p
+exec_always --no-startup-id unclutter -idle 1.0 -root
+exec_always --no-startup-id $HOME/_code/scripts/+polybar
+
+exec --no-startup-id xautolock -time 10 -locker lock.sh
+
+#exec_always --no-startup-id $HOME/_code/scripts/+mpd
+#exec --no-startup-id mpd
+#exec --no-startup-id pamac-tray
+#exec --no-startup-id clipit
+#exec --no-startup-id blueman-applet
+#exec_always --no-startup-id sbxkb
+#exec --no-startup-id start_conky_maia
+#exec --no-startup-id start_conky_green
+#exec --no-startup-id xautolock -time 10 -locker blurlock
+
+###
+
+### Colors and Themes ###
+
+# Color palette used for the terminal ( ~/.Xresources file )
+set_from_resource $term_background background
+set_from_resource $term_foreground foreground
+set_from_resource $term_color0     color0
+set_from_resource $term_color1     color1
+set_from_resource $term_color2     color2
+set_from_resource $term_color3     color3
+set_from_resource $term_color4     color4
+set_from_resource $term_color5     color5
+set_from_resource $term_color6     color6
+set_from_resource $term_color7     color7
+set_from_resource $term_color8     color8
+set_from_resource $term_color9     color9
+set_from_resource $term_color10    color10
+set_from_resource $term_color11    color11
+set_from_resource $term_color12    color12
+set_from_resource $term_color13    color13
+set_from_resource $term_color14    color14
+set_from_resource $term_color15    color15
+
+# Theme colors
+# class                   border  backgr. text    indic.   child_border
+#  client.focused          #556064 #556064 #80FFF9 #FDF6E3
+  client.focused          #556064 #556064 #80FFF9 #FDF6E3
+  client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
+  client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
+  client.urgent           #CB4B16 #FDF6E3 #1ABC9C #268BD2
+  client.placeholder      #000000 #0c0c0c #ffffff #000000 
+  client.background       #2B2C2B
+###
+

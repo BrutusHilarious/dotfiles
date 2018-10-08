@@ -1,0 +1,187 @@
+;;; Polybar Config ;;;
+
+[colors]
+background = ${xrdb:color0:#222}
+background-alt = ${xrdb:color0:#222}
+foreground = ${xrdb:color7:#222}
+foreground-alt = ${xrdb:color7:#222}
+primary = ${xrdb:color1:#222}
+secondary = ${xrdb:color2:#222}
+alert = ${xrdb:color1}
+border = ${xrdb:color13}
+warning = #E74C3C
+
+[bar/top]
+include-file = ~/.config/polybar/top-bar
+
+[bar/bottom]
+include-file = ~/.config/polybar/bottom-bar
+
+[module/cpu]
+type = internal/cpu
+interval = 0.5
+
+label = %percentage%%
+label-foreground = ${colors.foreground-alt}
+
+format =  <label> 
+format-foreground = ${colors.secondary}
+
+[module/backlight]
+type = internal/backlight
+card = intel_backlight
+format = <ramp> <label>
+label = %percentage%%
+ramp-foreground = ${colors.secondary}
+ramp-0 = 
+
+[module/date]
+type = internal/date
+interval = 1.0
+
+time = %H:%M
+
+label = %time%
+label-foreground = ${colors.foreground-alt}
+
+format =  <label>
+format-foreground = ${colors.secondary}
+
+[module/filesystem]
+type = internal/fs
+interval = 10
+fixed-values = true
+
+mount-0 = /
+
+label-mounted = %percentage_used%%
+label-mounted-foreground = ${colors.foreground-alt}
+
+format-mounted =  <label-mounted>
+format-mounted-foreground = ${colors.secondary}
+
+[module/i3]
+type = internal/i3
+pin-workspaces = false
+strip-wsnumbers = false
+index-sort = true
+enable-click = false
+enable-scroll = false
+wrapping-scroll = false
+reverse-scroll = false
+
+fuzzy-match = false
+
+format = <label-state> <label-mode>
+
+label-mode = %mode%
+label-mode-padding = 2
+;label-mode-background = #e60053
+
+label-focused = %index%
+label-focused-foreground = ${colors.foreground-alt}
+label-focused-background = ${colors.secondary}
+label-focused-padding = 2
+
+label-unfocused = %index%
+label-unfocused-padding = 2
+
+label-visible = %index%
+;label-visible-underline = #555555
+label-visible-padding = 4
+
+label-urgent = %index%
+label-urgent-foreground = #000000
+label-urgent-background = #bd2c40
+label-urgent-padding = 4
+
+[module/memory]
+type = internal/memory
+interval = 2
+format-prefix = " "
+format-prefix-foreground = ${colors.secondary}
+
+label = %percentage_used%%
+
+[module/wlan]
+type = internal/network
+interface = wlp2s0
+interval = 2
+
+format-connected = <label-connected>
+label-connected = %essid%
+
+format-connected-prefix = " "
+format-connected-prefix-foreground = ${colors.secondary}
+
+format-disconnected = <label-disconnected>
+label-disconnected = %ifname%
+label-disconnected-foreground = #E74C3C
+
+[module/volume]
+type = internal/alsa
+format-volume-prefix = " "
+format-volume-prefix-foreground = ${colors.secondary}
+format-volume = <label-volume> 
+label-volume = %percentage%%
+label-volume-foreground = ${root.foreground}
+
+format-muted-foreground = ${colors.warning}
+label-muted =  MUTE 
+
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = ADP1
+full-at = 98
+format-charging = <animation-charging> <label-charging>
+format-discharging = <ramp-capacity> <label-discharging>
+format-full-prefix = " "
+format-full-prefix-foreground = ${colors.secondary}
+format-full-suffix = " "
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+
+ramp-capacity-foreground = ${colors.secondary}
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+
+animation-charging-foreground = ${colors.secondary}
+animation-charging-framerate = 750
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 60
+
+interval = 0.5
+
+format = <ramp> <label>
+format-warn = <ramp> <label-warn>
+
+label = %temperature-f%
+label-warn = %temperature-f%
+label-warn-foreground = ${colors.secondary}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+
+ramp-foreground = ${colors.secondary}
+
+[settings]
+screenchange-reload = true
+;compositing-background = xor
+;compositing-background = screen
+;compositing-foreground = source
+;compositing-border = over
+
+[global/wm]
+margin-top = 5
+margin-bottom = 5

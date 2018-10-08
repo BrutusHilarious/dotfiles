@@ -1,0 +1,8 @@
+
+### Do not copy Mtime ###
+--no-mtime
+###
+
+### Save everything in ~/downloads ###
+-o ~/downloads/%(title)s.%(ext)s
+###

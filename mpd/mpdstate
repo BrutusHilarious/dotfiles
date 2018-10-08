@@ -1,0 +1,32 @@
+sw_volume: 100
+audio_device_state:1:alsamixer-output
+audio_device_state:1:Visualizer feed
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Glitch Mob - See Without Eyes/02 The Glitch Mob - Take Me With You.mp3
+1:Glitch Mob - See Without Eyes/01 The Glitch Mob - Enter Formless.mp3
+2:Glitch Mob - See Without Eyes/02 The Glitch Mob - Take Me With You.mp3
+3:Glitch Mob - See Without Eyes/03 The Glitch Mob - Disintegrate Slowly.mp3
+4:Glitch Mob - See Without Eyes/04 The Glitch Mob - Keep On Breathing.mp3
+5:Glitch Mob - See Without Eyes/05 The Glitch Mob - Come Closer.mp3
+6:Glitch Mob - See Without Eyes/06 The Glitch Mob - I Could Be Anything.mp3
+7:Glitch Mob - See Without Eyes/07 The Glitch Mob - Interbeing.mp3
+8:Glitch Mob - See Without Eyes/08 The Glitch Mob - How Could This Be Wrong.mp3
+9:Glitch Mob - See Without Eyes/09 The Glitch Mob - Go Light.mp3
+10:Glitch Mob - See Without Eyes/10 The Glitch Mob - How Do I Get To Invincible.mp3
+11:Glitch Mob - See Without Eyes/11 The Glitch Mob - Way Out Is In.mp3
+12:ATT_Episode_XVI_Pt_2.mp3
+13:ATT_DescendingTheTower_-7.mp3
+14:classical-music-compilation.mp3
+15:Pyramid - The Phoenix.mp3
+16:stellardrone-billions.mp3
+17:TASCAM_0008.wav
+18:Thomas Bergersen - Children of the Sun.m4a
+playlist_end

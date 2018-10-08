@@ -1,0 +1,123 @@
+### Zathura Config ###
+
+#map [mode] <binding> <shortcut function> <argument>
+
+set guioptions ""
+set font "Fira Code 20"
+set adjust-open "best-fit"
+
+### Colors ###
+set highlight-color "#3498DB"
+set highlight-active-color "#e74c3c"
+
+set-default-bg "#000"
+set default-fg "#FFF"
+
+#set statusbar-bg "#000"
+#set statusbar-fg "#FFF"
+
+#set inputbar-bg "#000"
+#set inputbar-fg "#FFF"
+
+#set notification-bg "#2b303b"
+#set notification-fg "#c0c5ce"
+
+#set notification-error-bg "#343d46"
+#set notification-error-fg "#c0c5ce"
+
+#set notification-warning-bg #343d46"
+#set notification-warning-fg "#c0c5ce"
+
+#set recolor false
+
+#set recolor-darkcolor "#93a1a1"
+#set recolor-lightcolor "#073642"
+###
+
+## Keyboard Shortcuts
+
+# Abort (CTRL-g)
+# This Doesn't Work
+unmap [normal] Escape
+unmap [insert] Escape
+map <C-g> abort
+
+# Next Page
+unmap [normal] J
+map <C-v> navigate next
+
+# Previous Page
+unmap [normal] K
+map <A-v> navigate previous
+
+# Scroll Down
+unmap [normal] C-n
+map <C-n> scroll down
+
+# Scroll Up
+unmap [normal] C-p
+map <C-p> scroll up
+
+# Scroll Half Page - Down
+map <A-n> scroll half-down
+
+# Scroll Half Page - Up
+map <A-p> scroll half-pup
+
+# Navigate - First Page
+#unmap [normal] gg
+#map <A-,> scroll full-up
+
+# Navigate - Last Page
+#unmap [normal] G
+#map <A-.> scroll full-down
+
+# Top of Current Page
+
+# Bottom of Current Page
+
+# Navigate - Page Number
+
+# Adjust Window: Best fit (a)
+
+# Adjust Window: Width Mode (s)
+
+# Search for Text
+
+# Search for next result
+
+# Search for previous result
+
+# Open Document (o)
+#unmap [normal] o
+#map <C-f> open_document
+
+# Open Document (O) - Current Folder
+
+# Follow Links (f)
+
+# Display Link Target (F)
+
+# Enter Command (:)
+
+# Rotate by 90 degrees (r)
+
+# Reload Document (R)
+
+# Show index and switch to Index Mode (TAB)
+
+# Toggle Dual Page View (d)
+
+# Presentation Mode (F5)
+
+# Fullscreen Mode (F11)
+
+# Quit Zathura
+map <C-x> quit
+
+# key bindings
+# map <C-[> abort # Still doesn't work :(
+#map [normal]     <F11> toggle_fullscreen
+#map [fullscreen] <F11> toggle_fullscreen
+#map [normal]     <C-l> reload
+#map [fullscreen] <C-l> reload

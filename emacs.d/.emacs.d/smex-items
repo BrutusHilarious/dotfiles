@@ -1,0 +1,49 @@
+
+;; ----- smex-history -----
+(
+ helm-bookmarks
+ helm-M-x
+ writeroom-mode
+ smex
+ ido-find-file
+ helm-find-files
+ replace-string
+)
+
+;; ----- smex-data -----
+(
+ (cd . 1)
+ (package-list-packages . 2)
+ (ibuffer . 2)
+ (ido-switch-buffer . 3)
+ (visual-line-mode . 4)
+ (helm-find-files . 2)
+ (helm-find-files-up-one-level . 1)
+ (ido-up-directory . 1)
+ (grep . 1)
+ (transpose-paragraphs . 2)
+ (comment-box . 4)
+ (query-replace . 1)
+ (replace-string . 3)
+ (delete-duplicate-lines . 2)
+ (whitespace-mode . 2)
+ (whitespace-newline-mode . 2)
+ (whitespace-toggle-options . 1)
+ (view-lossage . 1)
+ (sort-lines . 3)
+ (zap-to-char . 1)
+ (flyspell-mode . 3)
+ (occur . 1)
+ (eshell . 1)
+ (dired . 1)
+ (bookmark-delete . 4)
+ (highlight-phrase . 4)
+ (highlight-changes-remove-highlight . 3)
+ (highlight-changes-mode . 2)
+ (unhighlight-regexp . 3)
+ (writeroom-mode . 4)
+ (helm-M-x . 3)
+ (ido-find-file . 1)
+ (smex . 1)
+ (helm-bookmarks . 1)
+)
