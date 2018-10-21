@@ -57,6 +57,8 @@
 
 (global-set-key (kbd "C-x C-b") 'eval-buffer)
 
+(global-set-key (kbd "C-j") 'emmet-expand-line)
+
 (require 'helm-config)
 ;(helm-mode 1)
 

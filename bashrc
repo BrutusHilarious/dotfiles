@@ -1,3 +1,4 @@
+# -*- mode: sh; -*-
 ### Evan's Bashrc ###
 
 ### Shopt Settings ###
@@ -34,6 +35,7 @@ alias ls="LC_ALL=C ls --color=auto -NX"
 alias la="ls -A"
 alias mpv="c;mpv"
 alias feh='feh -ZF -B "#000" --no-fehbg'
+alias ff="~/.firefox/firefox"
 ###
 
 ### Carbon Navigation ###
@@ -42,13 +44,15 @@ alias org="clear;cd ~/_orgs"
 alias ex="clear;cd ~/_nextcloud"
 alias ..="cd .."
 
+
+
 ### Music Aliases ###
 alias mp="clear; mpc pause"
 alias mpl="clear; mpc play"
 alias mn="clear; mpc next"
 alias mpr="clear; mpc prev"
 
-alias factorio="bash ~/games/factorio/start.sh"
+alias factorio="bash ~/_nextcloud/games/factorio/start.sh"
 
 # Editing Aliases #
 alias e="emacs -Q -nw --color"
