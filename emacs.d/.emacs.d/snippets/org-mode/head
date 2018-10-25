@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: head
+# key: <head
+# --
+#+TITLE: ${1:t}
+#+AUTHOR: Brutus Hilarious
+#+EMAIL: nil
+#+OPTIONS: toc:${2:t||nil} num:${3:t||nil} 

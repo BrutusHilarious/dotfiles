@@ -19,11 +19,13 @@
 (set-language-environment "UTF-8")
 (set-default-coding-systems 'utf-8)
 
+(add-to-list 'load-path
+              "~/.emacs.d/plugins/yasnippet")
+(require 'yasnippet)
+(yas-global-mode 1)
+
 (add-hook 'org-mode-hook #'org-bullets-mode)
 (add-hook 'org-mode-hook #'org-indent-mode)
-
-(add-to-list 'org-structure-template-alist
-	     '("el" "#+BEGIN_SRC emacs-lisp\n?\n#+END_SRC"))
 
 (org-babel-do-load-languages
  'org-babel-load-languages

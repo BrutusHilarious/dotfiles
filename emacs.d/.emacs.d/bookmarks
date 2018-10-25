@@ -2,7 +2,12 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("ORG: Carbon"
+(("org-capture-last-stored"
+ (filename . "~/.notes")
+ (front-context-string . "** TODO Tester\n ")
+ (rear-context-string)
+ (position . 9))
+("ORG: Carbon"
  (filename . "~/_org/carbon.org")
  (front-context-string . "* Broad Strokes\n")
  (rear-context-string)

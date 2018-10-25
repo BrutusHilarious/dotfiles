@@ -18536,3 +18536,809 @@ Oct 21 14:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 Oct 21 14:03 : ffmpeg/aac: Could not update timestamps for skipped samples.
 Oct 21 14:03 : player: played "OST - Inon Zur - Fallout 4/01 Fallout 4 Main Theme.m4a"
 Oct 21 14:07 : player: played "OST - Inon Zur - Fallout 4/02 The Commonwealth.m4a"
+Oct 21 15:51 : update: added Podcast - Ascending the Tower/ATT_Episode_XIX.mp3
+Oct 21 16:12 : player: played "Celldweller - Wish Upon A Blackstar/01 - The Arrival.mp3"
+Oct 21 16:15 : player: played "Celldweller - Wish Upon A Blackstar/02 - It Makes No Difference Who We Are.mp3"
+Oct 21 16:19 : player: played "Celldweller - Wish Upon A Blackstar/03 - Blackstar.mp3"
+Oct 21 16:23 : player: played "Celldweller - Wish Upon A Blackstar/04 - Louder Than Words.mp3"
+Oct 21 16:30 : player: played "Celldweller - Wish Upon A Blackstar/05 - The Lucky One.mp3"
+Oct 21 16:35 : player: played "Celldweller - Wish Upon A Blackstar/06 - Unshakeable.mp3"
+Oct 21 16:42 : player: played "Celldweller - Wish Upon A Blackstar/15 - Tainted.mp3"
+Oct 21 17:08 : player: played "Celldweller - Wish Upon A Blackstar/15 - Tainted.mp3"
+Oct 21 17:14 : player: played "Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3"
+Oct 21 17:15 : player: played "Celldweller - Wish Upon A Blackstar/17 - The Departure.mp3"
+Oct 21 17:18 : player: played "Hans Zimmer - Man of Steel/01 Hans Zimmer - Look To the Stars.mp3"
+Oct 21 17:20 : player: played "Hans Zimmer - Man of Steel/02 Hans Zimmer - Oil Rig.mp3"
+Oct 21 17:24 : player: played "Hans Zimmer - Man of Steel/03 Hans Zimmer - Sent Here For a Reason.mp3"
+Oct 21 17:28 : player: played "Hans Zimmer - Man of Steel/06 Hans Zimmer - If You Love These People.mp3"
+Oct 21 17:30 : client: [1] opened from 127.0.0.1:33878
+Oct 21 17:30 : client: [1] closed
+Oct 21 17:33 : client: [2] opened from 127.0.0.1:33892
+Oct 21 17:33 : client: [2] closed
+Oct 21 17:33 : client: [3] opened from 127.0.0.1:33896
+Oct 21 17:33 : client: [3] closed
+Oct 21 17:43 : player: played "Hans Zimmer - Man of Steel/08 Hans Zimmer - Terraforming.mp3"
+Oct 21 17:46 : player: played "Hans Zimmer - Man of Steel/09 Hans Zimmer - Tornado.mp3"
+Oct 21 17:49 : player: played "Hans Zimmer - Man of Steel/10 Hans Zimmer - You Die Or I Do.mp3"
+Oct 21 17:52 : player: played "Hans Zimmer - Man of Steel/11 Hans Zimmer - Launch.mp3"
+Oct 21 17:53 : player: played "Hans Zimmer - Man of Steel/12 Hans Zimmer - Ignition.mp3"
+Oct 21 17:54 : client: [4] opened from 127.0.0.1:34010
+Oct 21 17:54 : client: [4] closed
+Oct 21 18:29 : client: [5] opened from 127.0.0.1:34312
+Oct 21 18:29 : client: [5] closed
+Oct 21 18:29 : client: [6] opened from 127.0.0.1:34316
+Oct 21 18:29 : client: [6] closed
+Oct 21 18:29 : client: [7] opened from 127.0.0.1:34320
+Oct 21 18:29 : client: [7] closed
+Oct 21 18:30 : player: played "Hans Zimmer - Man of Steel/12 Hans Zimmer - Ignition.mp3"
+Oct 21 18:33 : player: played "Hans Zimmer - Man of Steel/13 Hans Zimmer - I Will Find Him.mp3"
+Oct 21 18:36 : client: [8] opened from 127.0.0.1:34330
+Oct 21 18:36 : client: [8] closed
+Oct 21 18:48 : player: played "Hans Zimmer - Man of Steel/14 Hans Zimmer - This Is Clark Kent.mp3"
+Oct 22 09:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 09:34 : client: [0] opened from 127.0.0.1:52912
+Oct 22 09:34 : avahi: Service 'Music Player' successfully established.
+Oct 22 11:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 11:44 : player: played "Celldweller - Wish Upon A Blackstar/15 - Tainted.mp3"
+Oct 22 11:49 : player: played "Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3"
+Oct 22 11:50 : player: played "Celldweller - Wish Upon A Blackstar/17 - The Departure.mp3"
+Oct 22 11:58 : player: played "Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3"
+Oct 22 11:59 : player: played "Celldweller - Wish Upon A Blackstar/17 - The Departure.mp3"
+Oct 22 12:02 : player: played "Hans Zimmer - Man of Steel/01 Hans Zimmer - Look To the Stars.mp3"
+Oct 22 12:14 : player: played "Celldweller - Wish Upon A Blackstar/15 - Tainted.mp3"
+Oct 22 13:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 13:23 : client: [0] opened from 127.0.0.1:46322
+Oct 22 13:23 : avahi: Service 'Music Player' successfully established.
+Oct 22 15:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 15:14 : player: played "Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3"
+Oct 22 15:15 : player: played "Celldweller - Wish Upon A Blackstar/17 - The Departure.mp3"
+Oct 22 15:16 : player: played "Hans Zimmer - Man of Steel/01 Hans Zimmer - Look To the Stars.mp3"
+Oct 23 15:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 15:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 15:36 : client: [0] opened from 127.0.0.1:60644
+Oct 23 15:36 : avahi: Service 'Music Player' successfully established.
+Oct 23 15:38 : player: played "Hans Zimmer - Man of Steel/01 Hans Zimmer - Look To the Stars.mp3"
+Oct 23 15:40 : player: played "Hans Zimmer - Man of Steel/02 Hans Zimmer - Oil Rig.mp3"
+Oct 23 15:44 : player: played "Hans Zimmer - Man of Steel/03 Hans Zimmer - Sent Here For a Reason.mp3"
+Oct 23 15:47 : player: played "Hans Zimmer - Man of Steel/04 Hans Zimmer - Dna.mp3"
+Oct 23 15:49 : player: played "Hans Zimmer - Man of Steel/05 Hans Zimmer - Goodbye My Son.mp3"
+Oct 23 15:53 : player: played "Hans Zimmer - Man of Steel/06 Hans Zimmer - If You Love These People.mp3"
+Oct 23 15:55 : player: played "Hans Zimmer - Man of Steel/07 Hans Zimmer - Krypton's Last.mp3"
+Oct 23 16:04 : player: played "Hans Zimmer - Man of Steel/08 Hans Zimmer - Terraforming.mp3"
+Oct 23 16:07 : player: played "Hans Zimmer - Man of Steel/09 Hans Zimmer - Tornado.mp3"
+Oct 23 16:11 : player: played "Hans Zimmer - Man of Steel/10 Hans Zimmer - You Die Or I Do.mp3"
+Oct 23 16:13 : player: played "Hans Zimmer - Man of Steel/02 Hans Zimmer - Oil Rig.mp3"
+Oct 23 16:16 : player: played "Hans Zimmer - Man of Steel/03 Hans Zimmer - Sent Here For a Reason.mp3"
+Oct 23 16:20 : player: played "Hans Zimmer - Man of Steel/04 Hans Zimmer - Dna.mp3"
+Oct 23 16:22 : player: played "Hans Zimmer - Man of Steel/05 Hans Zimmer - Goodbye My Son.mp3"
+Oct 23 16:25 : player: played "Hans Zimmer - Man of Steel/06 Hans Zimmer - If You Love These People.mp3"
+Oct 23 16:27 : player: played "Hans Zimmer - Man of Steel/07 Hans Zimmer - Krypton's Last.mp3"
+Oct 23 16:37 : player: played "Hans Zimmer - Man of Steel/08 Hans Zimmer - Terraforming.mp3"
+Oct 23 16:40 : player: played "Hans Zimmer - Man of Steel/09 Hans Zimmer - Tornado.mp3"
+Oct 23 16:46 : player: played "Hans Zimmer - Man of Steel/10 Hans Zimmer - You Die Or I Do.mp3"
+Oct 23 18:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 18:39 : avahi: Service 'Music Player' successfully established.
+Oct 23 18:39 : client: [0] opened from 127.0.0.1:50604
+Oct 23 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 18:44 : player: played "Hans Zimmer - Man of Steel/10 Hans Zimmer - You Die Or I Do.mp3"
+Oct 23 18:47 : player: played "Hans Zimmer - Man of Steel/09 Hans Zimmer - Tornado.mp3"
+Oct 23 18:59 : player: played "OST - Witcher 3 - Wild Hunt/01 The Trail.flac"
+Oct 23 19:01 : player: played "OST - Witcher 3 - Wild Hunt/02 Geralt of Rivia.flac"
+Oct 23 19:04 : player: played "OST - Witcher 3 - Wild Hunt/03 Eredin, King of the Hunt.flac"
+Oct 23 19:04 : player: played "OST - Witcher 3 - Wild Hunt/04 Wake Up, Ciri.flac"
+Oct 24 10:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 10:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 10:59 : client: [0] opened from 127.0.0.1:44838
+Oct 24 10:59 : avahi: Service 'Music Player' successfully established.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : update: added /TASCAM_0014.wav
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : update: added /TASCAM_0015.wav
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 11:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 13:06 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : update: added /Hyper - Spoiler.m4a
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/09 - Orphanage.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/23 - Blade Runner.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/13 - Pilot.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/21 - All the Best Memories Are Hers.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/10 - Furnace.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/15 - Can't Help Falling in Love.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/04 - Summer Wind (Remastered 2008).mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/11 - Someone Lived This.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/05 - Rain.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/16 - One For My Baby (And One More For The Road) (Remastered).mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/06 - Wallace.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/18 - That's Why We Believe.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/12 - Joi.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/02 - Sapper's Tree.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/17 - Hijack.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/07 - Memory.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/08 - Mesa.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/03 - Flight to LAPD.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/19 - Her Eyes Were Green.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/14 - Suspicious Minds.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/01 - 2049.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/24 - Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049).mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/20 - Sea Wall.mp3
+Oct 24 16:25 : update: added OST - Blade Runner 2049/Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)/22 - Tears In The Rain.mp3
+Oct 24 16:26 : update: added Misc Songs/Hyper - Spoiler.m4a
+Oct 24 23:33 : player: played "OST - Witcher 3 - Wild Hunt/04 Wake Up, Ciri.flac"
+Oct 25 10:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 25 10:28 : client: [0] opened from 127.0.0.1:56440
+Oct 25 10:28 : avahi: Service 'Music Player' successfully established.

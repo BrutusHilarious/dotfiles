@@ -53,6 +53,7 @@ alias mn="clear; mpc next"
 alias mpr="clear; mpc prev"
 
 alias factorio="bash ~/_nextcloud/games/factorio/start.sh"
+alias pia="/opt/pia/run.sh"
 
 # Editing Aliases #
 alias e="emacs -Q -nw --color"
