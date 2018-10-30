@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 98
 audio_device_state:1:alsamixer-output
 audio_device_state:1:Visualizer feed
-state: pause
-current: 52
-time: 37.012000
+state: play
+current: 6
+time: 4.063000
 random: 0
 repeat: 0
 single: 0
@@ -12,88 +12,14 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Incubus - A Crow Left of the Murder/14 Leech.mp3
-1:Incubus - A Crow Left of the Murder/13 Here In My Room.mp3
-2:Incubus - A Crow Left of the Murder/12 Smile Lines.mp3
-3:Incubus - A Crow Left of the Murder/11 Made For TV Movie.mp3
-4:Incubus - A Crow Left of the Murder/10 Zee Deveel.mp3
-5:Incubus - A Crow Left of the Murder/09 Priceless.mp3
-6:Incubus - A Crow Left of the Murder/08 Southern Girl.mp3
-7:Incubus - A Crow Left of the Murder/07 Pistola.mp3
-8:Incubus - A Crow Left of the Murder/06 Sick Sad Little World.mp3
-9:Incubus - A Crow Left of the Murder/05 Beware! Criminal.mp3
-10:Incubus - A Crow Left of the Murder/04 Talk Shows On Mute.mp3
-11:Incubus - A Crow Left of the Murder/03 Agoraphobia.mp3
-12:Incubus - A Crow Left of the Murder/02 A Crow Left Of The Murder.mp3
-13:Incubus - A Crow Left of the Murder/01 Megalomaniac.mp3
-14:Hans Zimmer - Man of Steel/17 Hans Zimmer - What Are You Going To Do When You Are Not Saving the World-.mp3
-15:Hans Zimmer - Man of Steel/16 Hans Zimmer - Flight.mp3
-16:Hans Zimmer - Man of Steel/15 Hans Zimmer - I Have So Many Questions.mp3
-17:Hans Zimmer - Man of Steel/14 Hans Zimmer - This Is Clark Kent.mp3
-18:Hans Zimmer - Man of Steel/13 Hans Zimmer - I Will Find Him.mp3
-19:Hans Zimmer - Man of Steel/12 Hans Zimmer - Ignition.mp3
-20:Hans Zimmer - Man of Steel/11 Hans Zimmer - Launch.mp3
-21:Hans Zimmer - Man of Steel/10 Hans Zimmer - You Die Or I Do.mp3
-22:Hans Zimmer - Man of Steel/09 Hans Zimmer - Tornado.mp3
-23:Hans Zimmer - Man of Steel/08 Hans Zimmer - Terraforming.mp3
-24:Hans Zimmer - Man of Steel/07 Hans Zimmer - Krypton's Last.mp3
-25:Hans Zimmer - Man of Steel/06 Hans Zimmer - If You Love These People.mp3
-26:Hans Zimmer - Man of Steel/05 Hans Zimmer - Goodbye My Son.mp3
-27:Hans Zimmer - Man of Steel/04 Hans Zimmer - Dna.mp3
-28:Hans Zimmer - Man of Steel/03 Hans Zimmer - Sent Here For a Reason.mp3
-29:Hans Zimmer - Man of Steel/02 Hans Zimmer - Oil Rig.mp3
-30:Hans Zimmer - Man of Steel/01 Hans Zimmer - Look To the Stars.mp3
-31:Celldweller - Wish Upon A Blackstar/17 - The Departure.mp3
-32:Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3
-33:Celldweller - Wish Upon A Blackstar/15 - Tainted.mp3
-34:Celldweller - Wish Upon A Blackstar/14 - Birthright.mp3
-35:Celldweller - Wish Upon A Blackstar/13 - Memories of a Girl I Haven't Met.mp3
-36:Celldweller - Wish Upon A Blackstar/12 - The Best It's Gonna Get.mp3
-37:Celldweller - Wish Upon A Blackstar/11 - The Seven Sisters.mp3
-38:Celldweller - Wish Upon A Blackstar/10 - Gift For You.mp3
-39:Celldweller - Wish Upon A Blackstar/09 - So Long Sentiment.mp3
-40:Celldweller - Wish Upon A Blackstar/08 - Eon.mp3
-41:Celldweller - Wish Upon A Blackstar/07 - I Can't Wait.mp3
-42:Celldweller - Wish Upon A Blackstar/06 - Unshakeable.mp3
-43:Celldweller - Wish Upon A Blackstar/05 - The Lucky One.mp3
-44:Celldweller - Wish Upon A Blackstar/04 - Louder Than Words.mp3
-45:Celldweller - Wish Upon A Blackstar/03 - Blackstar.mp3
-46:Celldweller - Wish Upon A Blackstar/02 - It Makes No Difference Who We Are.mp3
-47:Celldweller - Wish Upon A Blackstar/01 - The Arrival.mp3
-48:Glitch Mob - Drink the Sea/02 Bad Wings.mp3
-49:OST - Witcher 3 - Wild Hunt/01 The Trail.flac
-50:OST - Witcher 3 - Wild Hunt/02 Geralt of Rivia.flac
-51:OST - Witcher 3 - Wild Hunt/03 Eredin, King of the Hunt.flac
-52:OST - Witcher 3 - Wild Hunt/04 Wake Up, Ciri.flac
-53:OST - Witcher 3 - Wild Hunt/05 Aen Seidhe.flac
-54:OST - Witcher 3 - Wild Hunt/06 Commanding the Fury.flac
-55:OST - Witcher 3 - Wild Hunt/07 Emhyr var Emreis.flac
-56:OST - Witcher 3 - Wild Hunt/08 Spikeroog.flac
-57:OST - Witcher 3 - Wild Hunt/09 King Bran's Final Voyage.flac
-58:OST - Witcher 3 - Wild Hunt/10 Silver for Monsters....flac
-59:OST - Witcher 3 - Wild Hunt/11 Whispers of Oxenfurt.flac
-60:OST - Witcher 3 - Wild Hunt/12 The Nightingale.flac
-61:OST - Witcher 3 - Wild Hunt/13 City of Intrigues.flac
-62:OST - Witcher 3 - Wild Hunt/14 The Hunter's Path.flac
-63:OST - Witcher 3 - Wild Hunt/15 Widow-maker.flac
-64:OST - Witcher 3 - Wild Hunt/16 Kaer Morhen.flac
-65:OST - Witcher 3 - Wild Hunt/17 Eyes of the Wolf.flac
-66:OST - Witcher 3 - Wild Hunt/18 Witch Hunters.flac
-67:OST - Witcher 3 - Wild Hunt/19 ...Steel for Humans.flac
-68:OST - Witcher 3 - Wild Hunt/20 Fate Calls.flac
-69:OST - Witcher 3 - Wild Hunt/21 The Vagabond.flac
-70:OST - Witcher 3 - Wild Hunt/22 Cloak and Dagger.flac
-71:OST - Witcher 3 - Wild Hunt/23 Forged in Fire.flac
-72:OST - Witcher 3 - Wild Hunt/24 Yes, I Do....flac
-73:OST - Witcher 3 - Wild Hunt/25 Welcome, Imlerith.flac
-74:OST - Witcher 3 - Wild Hunt/26 Drink Up, There’s More!.flac
-75:OST - Witcher 3 - Wild Hunt/27 After the Storm.flac
-76:OST - Witcher 3 - Wild Hunt/28 Blood on the Cobblestones.flac
-77:OST - Witcher 3 - Wild Hunt/29 Farewell, Old Friend.flac
-78:OST - Witcher 3 - Wild Hunt/30 The Song of the Sword–Dancer.flac
-79:OST - Witcher 3 - Wild Hunt/31 The Hunt is Coming.flac
-80:OST - Witcher 3 - Wild Hunt/32 The Fields of Ard Skellig.flac
-81:OST - Witcher 3 - Wild Hunt/33 Ladies of the Woods.flac
-82:OST - Witcher 3 - Wild Hunt/34 Merchants of Novigrad.flac
-83:OST - Witcher 3 - Wild Hunt/35 Hunt or Be Hunted.flac
+0:OST - Blade Runner 2049 Vinyl/Blade Runner 2049 - Vinyl.mp3
+1:Misc Songs/Hyper - Spoiler.m4a
+2:PL - Grunt/05 We're In This Together.mp3
+3:PL - Grunt/14 - The Catalyst.mp3
+4:PL - Grunt/Bad Wolves - Zombie.m4a
+5:PL - Grunt/imagine-music-clair-de-lune.m4a
+6:PL - Grunt/Man of Steel OST - Hans Zimmer - Arcade [Extended].m4a
+7:PL - Grunt/Pyramid - The Phoenix.mp3
+8:PL - Grunt/Thomas Bergersen - Children of the Sun.m4a
+9:Recordings - Tabletop - KOTR/KOTR - 10-22-18 - The Episode With the Great Music.mp3
 playlist_end

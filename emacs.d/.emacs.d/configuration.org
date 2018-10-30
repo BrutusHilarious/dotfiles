@@ -18,8 +18,8 @@
   (size-indication-mode t)
   (global-visual-line-mode t)
   ;(toggle-truncate-lines t)
-  ;(global-hl-line-mode +1)
-  ;(set-face-background 'hl-line "#F13333")
+  (global-hl-line-mode 1)
+  ;(set-face-background 'hl-line "#FFF")
 #+END_SRC
 
 ** Use Fancy Lambdas
@@ -29,6 +29,7 @@
 #+END_SRC
 
 * Programming Environments
+
 #+BEGIN_SRC emacs-lisp
   (setq-default tab-width 2)
 #+END_SRC
@@ -101,9 +102,9 @@
 * Package: Scrolling: Golden Ratio
 
 #+BEGIN_SRC emacs-lisp
-(require 'golden-ratio-scroll-screen)
-(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
-(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+;(require 'golden-ratio-scroll-screen)
+;(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
+;(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
 #+END_SRC
 
 * Magit

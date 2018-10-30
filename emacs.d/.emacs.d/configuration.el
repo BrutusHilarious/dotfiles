@@ -9,8 +9,8 @@
 (size-indication-mode t)
 (global-visual-line-mode t)
 ;(toggle-truncate-lines t)
-;(global-hl-line-mode +1)
-;(set-face-background 'hl-line "#F13333")
+(global-hl-line-mode 1)
+;(set-face-background 'hl-line "#FFF")
 
 (global-prettify-symbols-mode t)
 
@@ -53,9 +53,9 @@
 (add-hook 'ido-setup-hook #'bind-ido-keys)
 ;https://emacs.stackexchange.com/questions/3729/how-do-i-bind-keys-in-ido
 
-(require 'golden-ratio-scroll-screen)
-(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
-(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+;(require 'golden-ratio-scroll-screen)
+;(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
+;(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
 
 (global-set-key (kbd "C-x C-b") 'eval-buffer)
 

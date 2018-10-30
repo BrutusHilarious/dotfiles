@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: spell
+# key: sp
+# --
+/$1/
+
+*Casting Time:* $2
+*Range:* $3
+*Components:* $4
+*Duration:* $5
+
+$6
