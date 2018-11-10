@@ -1,3 +1,4 @@
+
 #+TITLE: Emacs Config
 #+AUTHOR: Brutus Hilarious
 #+EMAIL: nil
@@ -99,12 +100,45 @@
 ;https://emacs.stackexchange.com/questions/3729/how-do-i-bind-keys-in-ido
 #+END_SRC
 
+* Python
+
+#+BEGIN_SRC emacs-lisp
+;(add-hook 'python-mode-hook 'guess-style-guess-tabs-mode)
+;(add-hook 'python-mode-hook (lambda ()
+;(guess-style-guess-tab-width)))
+;;; Indentation for python
+(setq-default indent-tabs-mode nil)
+;(add-hook 'python-mode-hook
+;	    (lambda ()
+;		    (setq-default tab-width 1)
+;	    (add-to-list 'write-file-functions 'delete-trailing-whitespace)))
+#+END_SRC
+
+* Package: Elpy
+#+BEGIN_SRC emacs-lisp
+;(elpy-enable)
+#+END_SRC
+* Package: Aggressive Indent Mode
+#+BEGIN_SRC emacs-lisp
+(global-aggressive-indent-mode 1)
+#+END_SRC
+
+* Package: AutoPep8
+#+BEGIN_SRC emacs-lisp
+(require 'py-autopep8)
+(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
+#+END_SRC
+* Package: Flycheck
+#+BEGIN_SRC emacs-lisp
+;(require 'flycheck)
+;(global-flycheck-mode t)
+#+END_SRC
 * Package: Scrolling: Golden Ratio
 
 #+BEGIN_SRC emacs-lisp
-;(require 'golden-ratio-scroll-screen)
-;(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
-;(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+(require 'golden-ratio-scroll-screen)
+(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
+(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
 #+END_SRC
 
 * Magit
@@ -168,11 +202,10 @@
     (newline)))
 
 (global-set-key (kbd "C-S-o")
-		'my/insert-line-before) 
+		'my/insert-line-before)
 #+END_SRC
 
 * Package Config
-asdf
 
 #+BEGIN_SRC emacs-lisp
 (setq package-archives

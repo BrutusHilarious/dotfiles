@@ -362,7 +362,7 @@
    `(helm-mu-contacts-name-face ((t (:foreground ,foreground :background ,background))))
 
    ;; hl-line-mode
-   `(hl-line-face ((t (:background ,foreground))
+   `(hl-line-face ((t (:background ,background))
                    (t :weight bold)))
    `(hl-line ((t (:background ,background)) ; old emacsen
               (t :weight bold)))

@@ -53,9 +53,29 @@
 (add-hook 'ido-setup-hook #'bind-ido-keys)
 ;https://emacs.stackexchange.com/questions/3729/how-do-i-bind-keys-in-ido
 
-;(require 'golden-ratio-scroll-screen)
-;(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
-;(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+;(add-hook 'python-mode-hook 'guess-style-guess-tabs-mode)
+;(add-hook 'python-mode-hook (lambda ()
+;(guess-style-guess-tab-width)))
+;;; Indentation for python
+(setq-default indent-tabs-mode nil)
+;(add-hook 'python-mode-hook
+;	    (lambda ()
+;		    (setq-default tab-width 1)
+;	    (add-to-list 'write-file-functions 'delete-trailing-whitespace)))
+
+;(elpy-enable)
+
+(global-aggressive-indent-mode 1)
+
+(require 'py-autopep8)
+(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
+
+;(require 'flycheck)
+;(global-flycheck-mode t)
+
+(require 'golden-ratio-scroll-screen)
+(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
+(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
 
 (global-set-key (kbd "C-x C-b") 'eval-buffer)
 

@@ -2,63 +2,132 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/home/evan/.config/" . "qutebrowser/")
+ ("/home/evan/_code/project-py-spellbook/" . "__pycache__/")
+ ("/home/evan/_nextcloud/tabletop/dnd5e/" . "char-moon-moon/")
+ ("/etc/" . "NetworkManager/")
+ ("/home/evan/.emacs.d/snippets/" . "org-mode/")
+ ("/home/evan/_code/" . "project-py-spellbook/")
+ ("/home/evan/.config/" . "polybar/")
  ("/home/evan/_nextcloud/tabletop/campaigns/" . "tinker-thunder/")
- ("/home/evan/_nextcloud/tabletop/" . "campaigns/")
+ ("/home/evan/_nextcloud/tabletop/" . "dnd5e/")
  ("/home/evan/_nextcloud/" . "tabletop/")
- ("/home/evan/.emacs.d/" . "themes/")
- ("/home/evan/" . "_org/")
+ ("/home/evan/.emacs.d/" . "snippets/")
+ ("/home/evan/" . ".emacs.d/")
  ("/home/" . "evan/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
  "/home/evan/_org/"
- "/home/evan/.config/"
+ "/home/evan/_code/project-py-spellbook/"
  "/home/evan/.emacs.d/"
- "/home/evan/.config/qutebrowser/"
- "/home/evan/"
+ "/home/evan/.emacs.d/emacs-for-python/"
  "/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/"
+ "/home/evan/.config/"
+ "/home/evan/.emacs.d/snippets/org-mode/"
+ "/home/evan/_code/scratch-bullets-wiki/"
+ "/home/evan/_code/project-basic-ruleset/"
+ "/home/evan/_code/project-password/"
+ "/home/evan/.config/qutebrowser/"
+ "/home/evan/_code/scripts/"
  "/home/evan/.emacs.d/themes/"
+ "/home/evan/_nextcloud/tabletop/dnd5e/char-moon-moon/"
+ "/home/evan/_code/project-spellbook/"
+ "/home/evan/_code/project-spellbook/css/"
+ "/home/evan/templates/"
+ "/home/evan/.config/polybar/"
+ "/home/evan/"
+ "/home/evan/.config/autostart/"
+ "/etc/NetworkManager/"
+ "/home/evan/downloads/"
+ "/home/evan/_code/project-homepage/"
 )
 
 ;; ----- ido-work-file-list -----
 (
  "logins.org"
- "notes-emacs.org"
- "compton.conf"
- "init.el"
- "carbon.org"
+ "oneshot.org"
+ "monsters.org"
+ "scratch-phone.py"
  "configuration.org"
- "kshatriya.org"
- "config.py"
- "book-python-automate.org"
- "alt5e.org"
+ "phb.org"
+ "char-moon-moon-hex.org"
+ "epy-init.el"
+ "scratch-py-spellbook.org"
+ "cp-tinker.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/evan/_org/" (23471 55471 676645 949000) "alt5e.org" "tt-ranger-cohort.org" "notes-python.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "xcurriculum.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" ".#tt-alternate-rules.org" "carbon.org" ".#minis-storm.org" "order.org" "kshatriya.org" "xdisicpline.org" "notes-cmus.org" ".#alt5e.org_archive" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "writing-star-wars.org" "job-history.org" "book-wimhoff.org" "writing-scratch.org" "shopping.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
+ ("/home/evan/_org/" (23524 38932 748705 706000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "oneshot.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" ".#tt-alternate-rules.org" "carbon.org" "phb.org" ".#minis-storm.org" "order.org" "xdisicpline.org" "notes-cmus.org" "empire.org" ".#alt5e.org_archive" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "test.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
 
- ("/home/evan/" (23473 194 421810 785000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".xinitrc" "games/" ".elinks/" "./" ".wine/" ".gnupg/" ".pia_manager/" ".vimrc" ".ncmpcpp/" ".audacity-data/" ".scribus/" ".inputrc" "gog_com-Factorio_1.desktop" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" "podcasts/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" ".bash_logout" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" "init.el" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitconfig" ".viminfo" ".profile" ".bashrc")
+ ("/home/evan/" (23525 42691 894691 585000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".xinitrc" ".elinks/" "./" ".firefox/" ".wine/" ".gnupg/" "py-autopep8.el" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".scribus/" ".inputrc" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
 
- ("/home/evan/.config/" (23471 51440 473389 139000) "nitrogen/" "kritadisplayrc" "Trolltech.conf" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "./" "zathura/" "Kvantum/" "transmission/" "youtube-dl/" "volumeicon/" "cmus/" "kitty/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "ranger/" "wal/" "PrivateInternetAccess/" "libfm/" "epdfview/" "libreoffice/" "mpd/" "QtProject.conf" "chromium/" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "menus/" "xfce4/" "neofetch/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/")
+ ("/home/evan/_code/project-py-spellbook/" (23523 25661 663838 40000) ".git/" "../" "./" "main.py" "index.org" "spellbook.py" "#index.org#" "__pycache__/" "scratch-phone.py" "scratch-py-spellbook.org")
 
- ("/home/evan/.emacs.d/" (23471 56009 699969 70000) "auto-save-list/" ".cache/" "../" "smex-items" "./" "url/" "network-security.data" "init.el~" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "#configuration.org#" "eshell/" "ido.last" ".#configuration.org" "themes/" "init.el" "configuration.org")
+ ("/home/evan/.emacs.d/" (23523 18490 620640 834000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "emacs-for-python/" "url/" "network-security.data" "init.el~" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org" "configuration.org_archive")
 
- ("/home/evan/.config/qutebrowser/" (23471 46598 533481 54000) "config.py" "../" "./" "qsettings/" "backup-quickmarks" "autoconfig.yml" "bookmarks/" "config.py~" "quickmarks")
+ ("/home/evan/downloads/" (23519 17110 482634 741000) "Sunshine.mp4" "Gladiator.mp4" "krohne-theme/" "BvS.mkv" "BladeRunner.mp4" "../" "./")
 
- ("/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/" (23467 58335 116930 255000) "sb-roosevelt-june.png" "../" "session-12/" "./" "pdf-thunder-recap.pdf" "maps/" "statblocks-session-10/" "cp-tinker.org_archive" "ch-whitney.org" "roosevelt.org" "blue-dragon-lair-magic-items.odt" "index.org" "arbor lignum malleo.pdf" "cp-tinker.org" "tink-txt-pages-recap.txt" "ho-high-forest.pdf" "giant-blessings.odt" "ch-tim.org" "gercid.org" "arbor warhammer.odt")
+ ("/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/" (23519 46147 580661 664000) "sb-roosevelt-june.png" "../" "session-12/" "./" "pdf-thunder-recap.pdf" "maps/" "statblocks-session-10/" "cp-tinker.org_archive" "ch-whitney.org" "roosevelt.org" "blue-dragon-lair-magic-items.odt" "index.org" "arbor lignum malleo.pdf" "cp-tinker.org" "tink-txt-pages-recap.txt" "ho-high-forest.pdf" "giant-blessings.odt" "ch-tim.org" "gercid.org" "arbor warhammer.odt")
+
+ ("/home/evan/.emacs.d/emacs-for-python/" (23519 18849 112601 736000) "epy-init.el" ".git/" "snippets/" "../" "./" "epy-setup.el" "extensions/" "ChangeLog" "doc/" "python-libs/" "epy-editing.el" "epy-python.el" "README.org" "scripts/" "COPYING" "epy-bindings.el" "CONTRIBUTORS" ".gitignore" "epy-completion.el" "epy-nose.el")
+
+ ("/home/evan/.config/" (23517 13363 632861 85000) "nitrogen/" "kritadisplayrc" "Trolltech.conf" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "inkscape/" "./" "zathura/" "Kvantum/" "sublime-text-3/" "transmission/" "youtube-dl/" "volumeicon/" "cmus/" "Mullvad VPN/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "ranger/" "wal/" "PrivateInternetAccess/" "libfm/" "epdfview/" "libreoffice/" "mpd/" "QtProject.conf" "chromium/" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "vlc/" "menus/" "xfce4/" "neofetch/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/" "scribus/")
+
+ ("/home/evan/_code/project-password/" (23514 26516 184477 4000) ".git/" "../" "./" "pw.py" "README.md")
+
+ ("/home/evan/_code/scratch-bullets-wiki/" (23513 55209 655176 385000) "../" "./" "bulletPointAdder.py")
+
+ ("/home/evan/_code/" (23513 54806 588517 369000) "dotfiles/" "../" "css-solarized-everything/" "./" "qutebrowser-userstyles.css" "project-homepage/" "harry-emacs/" "python-date/" "project-basic-ruleset/" "scratch-spellbook/" "rogue-master/" "scripts/" "project-password/" "project-py-spellbook/" "scratch-bullets-wiki/")
+
+ ("/home/evan/.emacs.d/themes/" (23513 51057 305255 208000) "../" "./" "xresources-theme.el~" "xresources-theme.el")
+
+ ("/home/evan/_code/project-py-spellbook/__pycache__/" (23513 53813 698536 217000) "../" "./" "spellbook.cpython-37.pyc")
+
+ ("/home/evan/.config/qutebrowser/" (23513 41184 672109 287000) "config.py" "../" "./" "qsettings/" "backup-quickmarks" "autoconfig.yml" "bookmarks/" "config.py~" "quickmarks")
+
+ ("/etc/NetworkManager/" (23508 58437 409076 34000) "dnsmasq-shared.d/" "NetworkManager.conf" "../" "./" "system-connections/" "conf.d/" "dispatcher.d/" "dnsmasq.d/" "VPN/")
+
+ ("/home/evan/_nextcloud/tabletop/dnd5e/char-moon-moon/" (23509 12278 632041 530000) "../" "./" "mm-table-tent.pdf" "pdf-mm-backstory.pdf" "moon-moon-table-tent.pdf" "moonorg.org" "pdf-mm-old-features.pdf" "pdf-mm-hex.pdf" "mm-backstory.pdf" "items.org" "pdf-pages-mm-hex-features.pdf")
+
+ ("/home/evan/_code/project-spellbook/css/" (23508 44748 112669 230000) "../" "./" "style.css")
+
+ ("/home/evan/_code/project-spellbook/" (23508 50488 285893 597000) "../" "test.html" "index.html" "./" "css/" "spellbook.html" "spellbook.org")
+
+ ("/home/evan/_nextcloud/tabletop/dnd5e/" (23473 64908 529460 93000) "rise-of-tiamat/" "core-dmg.pdf" "../" "pdf-ho-waterdeep.pdf" "tomb-of-annihilation/" "pdf-svardborg-lodges.pdf" "./" "adventure-cos.pdf" "pdf-thunder-recap.pdf" "supplement-ua-ranger.pdf" "storm-kings-thunder/" "supplement-xanthar.pdf" "supplement-rot.pdf" "hoard-of-the-dragon-queen/" "csv-dmxp.csv" "map-faerun-swordcoast-nw.pdf" "supplement-ee.pdf" "misc-isometric-map.jpeg" "supplement-sage-advice.pdf" "core-phb.pdf" "old-character-sheet-5e.pdf" "tales-yawning-portal/" "libre-moon-moon-al.odt" "pdf-svardborg.pdf" "adventure-oota.pdf" "supplement-character-ua-ranger.pdf" "supplement-pota.pdf" "errata-phb.pdf" "adventure-skt.pdf" "supplement-scag.pdf" "adventure-typ.pdf" "statblocks/" "supplement-volo.pdf" "core-mm.pdf" "adventurers-league/" "princes-of-the-apocalypse/" "tinker-magic-items.pdf" "Sword-Coast-Map_HighRes.jpg" "char-moon-moon/" "sotsc-map2.jpg" "supplement-tortle.pdf" "logsheet.pdf" "MM_MonstersCR.pdf" "adventure-pota.pdf")
+
+ ("/home/evan/_nextcloud/tabletop/" (23508 50714 35889 313000) "../" "campaigns/" "./" "city-of-mist/" "dungeon-world/" "warhammer40k/" "tales-from-the-loop/" "dnd5e/" "cyberpunk-2020/" "adventures-in-middle-earth/" "vampire-the-masquerade/")
+
+ ("/home/evan/_nextcloud/" (23500 55383 950899 844000) "../" "documents/" "games/" "./" "languages/" "books/" "fitness/" "politics/" "tabletop/")
+
+ ("/home/evan/.emacs.d/snippets/org-mode/" (23507 27577 679877 199000) "title" "embedded" "figure" "../" "entry" "setup" "include" "elisp" "rv_image_background" "./" "verse" "matrix" "email" "ipython" "rv_background" "uml" "keywords" "style" "spell" "videos" "python" "head" "author" "table" "links" "img" "date" "quote" "exampleblock" "images" "dot" "options" "html" "center" "export" "description" "language")
+
+ ("/home/evan/_code/project-basic-ruleset/" (23507 23020 443297 42000) "../" "./" "index.org")
+
+ ("/home/evan/.config/polybar/" (23456 50234 470341 664000) "../" "./" "bottom-bar" "top-bar" "config")
+
+ ("/home/evan/.config/autostart/" (23446 45371 409525 903000) "../" "./" "pia_manager.desktop")
+
+ ("/etc/" (23504 42045 593324 394000) "iptables/" "mkinitcpio.d/" "iproute2/" "securetty" "cron.daily/" "udev/" "xml/" "bash.bash_logout" "modules-load.d/" "Muttrc" "services" "i3/" "udisks2/" "mpd.conf" "vdpau_wrapper.cfg" "login.defs" "locale.conf" "Muttrc.gpg.dist" "openswap.conf" "polkit-1/" "cups/" "anacrontab" "timezone" "ifplugd/" "mtab" "topdefaultrc" "openvpn/" "nfsmount.conf" "crypttab" "libnl/" "ts.conf" "rpc" "lightdm/" "logrotate.conf" "mail.rc" "ndctl/" "UPower/" "ld.so.cache" "systemd/" "resolv.conf.pacnew" "mke2fs.conf" "arch-release" "cgrules.conf" "manjaro-firefox-kde.ini" "opt/" "os-release" "motd" "pacman.conf.pacnew" "gshadow-" "man_db.conf" "gssproxy/" "sudoers.d/" "request-key.conf" "host.conf" "cgconfig.conf" "exports.d/" "initcpio/" "resolv.conf.bak" "sensors3.conf" "rc_maps.cfg" "manjaro-thunderbird.ini" "rsyncd.conf" "foomatic/" "hosts" ".updated" "php/" "shadow-" "depmod.d/" "krb5.conf" "vpnc/" "adjtime" "dnsmasq.conf" "passwd-" "nscd.conf" "security/" "logrotate.d/" "yaourtrc" "manjaro-firefox.ini" "lsb-release" "issue" "shells.pacnew" "nanorc" "profile.d/" "machine-id" "fonts/" "gimp/" "request-key.d/" "dbus-1/" "pacman-mirrors.conf" "xattr.conf" "cron.monthly/" "X11/" "avahi/" "slsh.rc" "pcmcia/" ".pwd.lock" "nginx/" "cpufreq-bench.conf" "resolv.conf" "group" "zsh/" "ppp/" "bluetooth/" "pacman.d/" "conf.d/" "lvm/" "cron.weekly/" "fstab" "pacman-mirrors.conf.pacnew" "environment" "geoclue/" "pam.d/" "wpa_supplicant/" "updatedb.conf" "sensors.d/" "netctl/" "shadow" "resolvconf.conf" "libpaper.d/" "Muttrc.dist" "NetworkManager/" "signond.conf" "gshadow.pacnew" "passwd.pacnew" "lightdm.conf.save" "ca-certificates/" "alternatives/" "group-" "libao.conf" "ImageMagick-6/" "manjaro-release" "fprintd.conf" "exports" "tmpfiles.d/" "group.pacnew" "hostname" "ssl/" "pacman.conf" "fuse.conf" "pulse/" "vconsole.conf" "netconfig" "mime.types" "xinetd.d/" "hosts.pacnew" "ld.so.conf" "rhashrc" "i3status.conf" "sysctl.d/" "tor/" "ntp.conf" "dhcpcd.conf" "ufw/" "nfs.conf" "libblockdev/" "cron.hourly/" "skel/" "protocols" "libreoffice/" "gufw/" "default/" "healthd.conf" "cgsnapshot_blacklist.conf" "pamac.conf" "xdg/" "crypttab.pacnew" "ethertypes" "bash.bashrc" "mpv/" "gtk-3.0/" "gshadow" "kernel/" "shells" "cupshelpers/" "shadow.pacnew" "ssh/" "drirc" "mailcap" "modprobe.d/" "idmapd.conf" "gss/" "mdadm.conf" "rc_keymaps/" "manjaro-firefox-developer-edition.ini" "printcap" "cron.deny" "binfmt.d/" "cifs-utils/" "apparmor.d/" "trusted-key.key" "hp/" "passwd" "openldap/" "locale.gen.pacnew" "gai.conf" "gconf/" "profile" "vimrc" "sane.d/" "bindresvport.blacklist" "ld.so.conf.d/" "makepkg.conf" "dpkg/" "gtk-2.0/" "grub.d/" "ImageMagick-7/" "syslog-ng/" "inputrc" "locale.gen" "fstab.pacnew" "localtime" "mkinitcpio.conf" "cron.d/" "wgetrc" "papersize" "nsswitch.conf" "sudoers" "pkcs11/" "acpi/" "../" "./")
+
+ ("/home/evan/_code/project-homepage/" (23500 63527 867411 915000) "../" "index.html" "./" "css/" "js/")
+
+ ("/home/evan/.emacs.d/snippets/" (23500 61938 574108 751000) "makefile-bsdmake-mode/" "js3-mode/" "ruby-mode/" "dart-mode/" "php-mode/" "../" "yaml-mode/" "lua-mode/" "org-mode/" "faust-mode/" "groovy-mode/" "terraform-mode/" "cc-mode/" "./" "markdown-mode/" "lisp-mode/" "scala-mode/" "csharp-mode/" "ensime-mode/" "html-mode/" "rst-mode/" "nxml-mode/" "git-commit-mode/" "erc-mode/" "swift-mode/" "c-lang-common/" "d-mode/" "go-mode/" "nasm-mode/" "m4-mode/" "kotlin-mode/" "powershell-mode/" "nesc-mode/" "ned-mode/" "sql-mode/" "snippet-mode/" "c-mode/" "cmake-mode/" "erlang-mode/" "hy-mode/" "web-mode/" "cider-repl-mode/" "enh-ruby-mode/" "latex-mode/" "perl-mode/" "f90-mode/" "typerex-mode/" "js-mode/" "python-mode/" "elixir-mode/" "applescript-mode/" "antlr-mode/" "makefile-mode/" "conf-unix-mode/" "typescript-mode/" "css-mode/" "lisp-interaction-mode/" "udev-mode/" "rust-mode/" "prog-mode/" "js2-mode/" "cperl-mode/" "emacs-lisp-mode/" "protobuf-mode/" "tuareg-mode/" "java-mode/" "cpp-omnet-mode/" "octave-mode/" "nix-mode/" "c++-mode/" "bibtex-mode/" "clojure-mode/" "chef-mode/" "text-mode/" "makefile-automake-mode/" "makefile-gmake-mode/" "dix-mode/" "nsis-mode/" "haskell-mode/" "sh-mode/" "apples-mode/" "bazel-mode/" "malabar-mode/")
+
+ ("/home/evan/_nextcloud/backup.config/" (23456 46959 820403 827000) "nitrogen/" "kritadisplayrc" "Trolltech.conf" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "./" "zathura/" "Kvantum/" "transmission/" "youtube-dl/" "volumeicon/" "cmus/" "kitty/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "ranger/" "wal/" "PrivateInternetAccess/" "libfm/" "epdfview/" "libreoffice/" "mpd/" "QtProject.conf" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "menus/" "xfce4/" "neofetch/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/")
+
+ ("/home/evan/_code/scripts/" (23500 51125 764314 10000) "../" "dotbackup" "dennisritchie" "./" "scr-dot-backup" "script" "flash" "lock.sh" "+screencast" "backlight" "+polybar" "+tmux_dropdown" "+neofetch" "+killxmon" "+mpd")
+
+ ("/home/evan/templates/" (23483 54605 23847 184000) "../" "index.html" "./")
+
+ ("/home/evan/.config/mpv/" (23344 48804 73635 401000) "../" "./")
+
+ ("/home/evan/.cfg/" (23474 4391 879364 811000) "HEAD" "../" "./" "hooks/" "objects/" "info/" "index" "logs/" "COMMIT_EDITMSG" "refs/" "config" "branches/" "description")
+
+ ("/home/" (23474 3312 209385 306000) "../" "./" "evan/")
 
  ("/home/evan/_nextcloud/tabletop/campaigns/" (23358 46571 374294 377000) "../" "./" "tinker-thunder/")
-
- ("/home/evan/_nextcloud/tabletop/" (23423 42630 521231 11000) "../" "campaigns/" "./" "city-of-mist/" "._.DS_Store" ".DS_Store" "dungeon-world/" "warhammer40k/" "tales-from-the-loop/" "dnd5e/" "cyberpunk-2020/" "adventures-in-middle-earth/" "vampire-the-masquerade/")
-
- ("/home/evan/_nextcloud/" (23456 46968 187070 336000) "../" "documents/" "./" "backup.config/" "languages/" "books/" "fitness/" "politics/" "tabletop/")
-
- ("/home/evan/.emacs.d/themes/" (23463 47149 675651 380000) "../" "./" "xresources-theme.el~" "xresources-theme.el")
-
- ("/home/" (23335 54317 245617 660000) "../" "./" "evan/")
 )
 
 ;; ----- ido-unc-hosts-cache -----

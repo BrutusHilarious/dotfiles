@@ -9,7 +9,7 @@ c.content.cookies.store = False
 #css = '~/_code/qutebrowser-userstyles.css'
 #c.content.user_stylesheets = css
 
-c.content.pdfjs = True
+#c.content.pdfjs = True
 
 c.messages.timeout = 1000
 
