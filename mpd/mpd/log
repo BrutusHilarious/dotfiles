@@ -30438,3 +30438,458 @@ Nov 10 09:12 : exception: OutputThread could not get realtime scheduling, contin
 Nov 10 09:12 : client: [0] opened from 127.0.0.1:40184
 Nov 10 09:12 : avahi: Service 'Music Player' successfully established.
 Nov 10 12:27 : player: played "Explosions in the Sky/Friday Night Lights/06. Sonho Dourado.mp3"
+Nov 10 12:30 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 10 12:37 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 12:42 : player: played "OST - John Wick 2/Suits Maps And Guns (John Wick Chapter 2 OST).mp3"
+Nov 10 12:45 : player: played "OST - John Wick 2/Sumo Showdown (John Wick Chapter 2 OST).mp3"
+Nov 10 12:46 : player: played "OST - John Wick 2/Walk To Museum (John Wick Chapter 2 OST).mp3"
+Nov 10 12:49 : player: played "OST - John Wick 2/Wick In Rome (John Wick Chapter 2 OST).mp3"
+Nov 10 12:53 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 12:58 : player: played "OST - John Wick 2/Suits Maps And Guns (John Wick Chapter 2 OST).mp3"
+Nov 10 13:02 : player: played "OST - John Wick 2/Sumo Showdown (John Wick Chapter 2 OST).mp3"
+Nov 10 13:03 : player: played "OST - John Wick 2/Walk To Museum (John Wick Chapter 2 OST).mp3"
+Nov 10 13:05 : player: played "OST - John Wick 2/Wick In Rome (John Wick Chapter 2 OST).mp3"
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 10 14:25 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 10 14:26 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 14:31 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 10 14:33 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 10 14:45 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 10 14:46 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 15:16 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 10 15:17 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 15:21 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 10 15:24 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 10 15:29 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 10 15:34 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 10 15:42 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 10 15:43 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 15:48 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 10 17:21 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 10 17:22 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 10 18:05 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 11 04:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 04:56 : client: [0] opened from 127.0.0.1:58478
+Nov 11 04:56 : avahi: Service 'Music Player' successfully established.
+Nov 11 11:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 13:06 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 11 13:08 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 11 13:12 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 11 13:15 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 11 13:20 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 11 13:25 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 11 15:13 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 11 15:14 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 11 15:18 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 11 15:21 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 11 15:26 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 11 15:31 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 11 15:35 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 11 15:36 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 11 15:55 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 11 15:57 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 11 16:36 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 04:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 12 04:16 : client: [0] opened from 127.0.0.1:53274
+Nov 12 04:16 : avahi: Service 'Music Player' successfully established.
+Nov 12 06:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 12 06:55 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 12 06:57 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 07:01 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 07:03 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 07:22 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 12 07:23 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 07:27 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 07:30 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 07:35 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 12 07:40 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 12 07:45 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 12 07:46 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 07:50 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 07:53 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 07:58 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 12 08:03 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 12 08:06 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 08:11 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 08:13 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 08:45 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 08:50 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 08:52 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 08:58 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 12 09:02 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 12 09:06 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 12 09:08 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 09:12 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 09:15 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 09:20 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 12 09:25 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 12 09:41 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 12 09:43 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 12 09:47 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 12 09:49 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 12 09:55 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 12 15:14 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 13 15:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 15:49 : client: [0] opened from 127.0.0.1:40510
+Nov 13 15:49 : avahi: Service 'Music Player' successfully established.
+Nov 13 16:12 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 13 16:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 16:28 : client: [0] opened from 127.0.0.1:33098
+Nov 13 16:28 : avahi: Service 'Music Player' successfully established.
+Nov 13 16:40 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 13 18:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 18:29 : avahi: Service 'Music Player' successfully established.
+Nov 13 18:29 : client: [0] opened from 127.0.0.1:50260
+Nov 13 18:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 18:35 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 13 18:36 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 13 18:44 : player: played "Misc Songs/Daniel Pemberton - Take You Down.m4a"
+Nov 13 18:48 : player: played "Misc Songs/Hans Zimmer - Gotham's Reckoning (Bane's theme) (The Dark Knight Rises Soundtrack).m4a"
+Nov 14 00:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 14 00:06 : client: [0] opened from 127.0.0.1:43636
+Nov 14 00:06 : avahi: Service 'Music Player' successfully established.
+Nov 14 11:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 14 11:35 : client: [0] opened from 127.0.0.1:50872
+Nov 14 11:35 : avahi: Service 'Music Player' successfully established.
+Nov 14 18:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 14 18:58 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 14 18:59 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 14 19:04 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 14 19:06 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 14 19:12 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 14 19:16 : player: played "PL - Grunt/Bad Wolves - Zombie.m4a"
+Nov 14 19:20 : player: played "Misc Songs/Daniel Pemberton - Take You Down.m4a"
+Nov 14 19:24 : player: played "Misc Songs/Hans Zimmer - Gotham's Reckoning (Bane's theme) (The Dark Knight Rises Soundtrack).m4a"
+Nov 15 09:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 09:45 : client: [0] opened from 127.0.0.1:52118
+Nov 15 09:45 : avahi: Service 'Music Player' successfully established.
+Nov 15 10:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 10:56 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 15 10:57 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 15 11:02 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 15 11:04 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 15 11:19 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 15 11:22 : player: played "Misc Songs/Daniel Pemberton - Take You Down.m4a"
+Nov 15 13:15 : player: played "Misc Songs/Hans Zimmer - Gotham's Reckoning (Bane's theme) (The Dark Knight Rises Soundtrack).m4a"
+Nov 16 08:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 08:32 : client: [0] opened from 127.0.0.1:32974
+Nov 16 08:32 : avahi: Service 'Music Player' successfully established.
+Nov 16 09:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 13:20 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 16 13:27 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 16 13:27 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 17 07:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 07:40 : client: [0] opened from 127.0.0.1:35510
+Nov 17 07:40 : avahi: Service 'Music Player' successfully established.
+Nov 17 07:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 07:43 : player: played "OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3"
+Nov 17 07:44 : player: played "OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3"
+Nov 17 07:49 : player: played "PL - Grunt/Hyper - Spoiler.m4a"
+Nov 17 07:51 : player: played "PL - Grunt/Thomas Bergersen - Children of the Sun.m4a"
+Nov 17 07:57 : player: played "PL - Grunt/14 - The Catalyst.mp3"
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : update: added /rpg-keepers-00-00-00-ogremoch.m4a
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Nov 17 08:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.

@@ -53,6 +53,35 @@
 (add-hook 'ido-setup-hook #'bind-ido-keys)
 ;https://emacs.stackexchange.com/questions/3729/how-do-i-bind-keys-in-ido
 
+(setq org-use-fast-todo-selection t)
+(setq org-treat-S-cursor-todo-selection-as-state-change nil)
+
+(setq org-directory "~/_org")
+(setq org-default-notes-file "~/_org/capture.org")
+
+(global-set-key (kbd "C-c c") 'org-capture)
+
+(setq org-capture-templates
+      (quote 
+       (("t" "todo" entry (file "~/_org/capture.org") "* TODO %?"))
+
+       ))
+
+(setq org-todo-keywords
+      (quote ((sequence "TODO(t)" "NEXT(n)" "|" "DONE(d)")
+              (sequence "WAITING(w@/!)" "HOLD(h@/!)" "|" "CANCELLED(c@/!)"))))
+
+(setq org-todo-keyword-faces
+;custom colors here
+      (quote (("TODO" :foreground "red" :weight bold)
+              ("NEXT" :foreground "blue" :weight bold)
+              ("DONE" :foreground "forest green" :weight bold)
+              ("WAITING" :foreground "orange" :weight bold)
+              ("HOLD" :foreground "magenta" :weight bold)
+              ("CANCELLED" :foreground "forest green" :weight bold))))
+
+(setq org-agenda-files (list "~/org/agenda.org"))
+
 ;(add-hook 'python-mode-hook 'guess-style-guess-tabs-mode)
 ;(add-hook 'python-mode-hook (lambda ()
 ;(guess-style-guess-tab-width)))

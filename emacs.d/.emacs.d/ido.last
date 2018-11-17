@@ -2,11 +2,12 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/evan/_code/scratch-spellbook/" . "css/")
  ("/home/evan/_code/project-py-spellbook/" . "__pycache__/")
  ("/home/evan/_nextcloud/tabletop/dnd5e/" . "char-moon-moon/")
  ("/etc/" . "NetworkManager/")
  ("/home/evan/.emacs.d/snippets/" . "org-mode/")
- ("/home/evan/_code/" . "project-py-spellbook/")
+ ("/home/evan/_code/" . "scratch-spellbook/")
  ("/home/evan/.config/" . "polybar/")
  ("/home/evan/_nextcloud/tabletop/campaigns/" . "tinker-thunder/")
  ("/home/evan/_nextcloud/tabletop/" . "dnd5e/")
@@ -19,8 +20,12 @@
 ;; ----- ido-work-directory-list -----
 (
  "/home/evan/_org/"
- "/home/evan/_code/project-py-spellbook/"
+ "/home/evan/.i3/"
+ "_org/"
+ "/home/evan/_code/scratch-spellbook/css/"
+ "/home/evan/_code/scratch-spellbook/"
  "/home/evan/.emacs.d/"
+ "/home/evan/_code/project-py-spellbook/"
  "/home/evan/.emacs.d/emacs-for-python/"
  "/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/"
  "/home/evan/.config/"
@@ -45,29 +50,39 @@
 
 ;; ----- ido-work-file-list -----
 (
- "oneshot.org"
- "monsters.org"
- "scratch-phone.py"
- "configuration.org"
+ "logins.org"
  "phb.org"
  "char-moon-moon-hex.org"
- "epy-init.el"
- "scratch-py-spellbook.org"
- "cp-tinker.org"
- "compton.conf"
+ "config"
+ "oneshot.org"
+ "style.css"
+ "index.html"
+ "oneshot.html"
+ "configuration.org"
+ "org-guide.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/evan/_org/" (23523 43818 316826 706000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "oneshot.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" ".#tt-alternate-rules.org" "carbon.org" "phb.org" ".#minis-storm.org" "order.org" "xdisicpline.org" "notes-cmus.org" "empire.org" ".#alt5e.org_archive" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "test.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
+ ("/home/evan/_org/" (23531 39080 628250 667000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "oneshot.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" ".#tt-alternate-rules.org" "carbon.org" "phb.org" ".#minis-storm.org" "order.org" "oneshot.html" "xdisicpline.org" "style.css" "notes-cmus.org" "empire.org" "capture.org" "#char-moon-moon-hex.org_archive#" "journal.org" ".#alt5e.org_archive" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" ".#char-moon-moon-hex.org_archive" "test.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
 
- ("/home/evan/" (23524 25605 398958 698000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".xinitrc" ".elinks/" "./" ".firefox/" ".wine/" ".gnupg/" "py-autopep8.el" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".scribus/" ".inputrc" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
+ ("/home/evan/" (23532 20202 577144 949000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".xinitrc" ".elinks/" "./" ".firefox/" ".wine/" ".gnupg/" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".scribus/" ".inputrc" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
+
+ ("/home/evan/.i3/" (23453 3501 106693 769000) "tmux-server-19415.log" "../" "./" "tmux-client-19413.log" "config")
+
+ ("/home/evan/downloads/" (23528 29510 944279 874000) "Julius Evola, 'A Message to the Youth' (1950).mp4" "meme-woke-centrism.jpg" "Sunshine.mp4" "Ant-Man And The Wasp (2018) [BluRay] [1080p] [YTS.AM]/" "Avatar.mp4" "Gladiator.mp4" "The History of Unix, Rob Pike.mkv" "krohne-theme/" "BvS.mkv" "Jonathan Bowden - Never Apologise (Updated).webm" "previewH9VLSZ.pdf" "BladeRunner.mp4" "../" "./")
+
+ ("/home/evan/_code/project-spellbook/" (23523 32564 923706 996000) ".git/" "../" "./" "main.py" "index.org" "spellbook.py" "#index.org#" "__pycache__/" "scratch-phone.py" "scratch-py-spellbook.org")
+
+ ("/home/evan/.emacs.d/" (23528 29518 344279 733000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "url/" "py-autopep8.el" "network-security.data" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org")
+
+ ("/home/evan/_code/scratch-spellbook/css/" (23508 44748 112669 230000) "../" "./" "style.css")
+
+ ("/home/evan/_code/scratch-spellbook/" (23508 50488 285893 597000) "../" "test.html" "index.html" "./" "css/" "spellbook.html" "spellbook.org")
+
+ ("/home/evan/_code/" (23527 5562 729675 900000) "dotfiles/" "../" "./" "qutebrowser-userstyles.css" "project-homepage/" "harry-emacs/" "python-date/" "project-basic-ruleset/" "scratch-spellbook/" "scripts/" "spacemacs-rogue-theme/" "project-password/" "project-spellbook/")
 
  ("/home/evan/_code/project-py-spellbook/" (23523 25661 663838 40000) ".git/" "../" "./" "main.py" "index.org" "spellbook.py" "#index.org#" "__pycache__/" "scratch-phone.py" "scratch-py-spellbook.org")
-
- ("/home/evan/.emacs.d/" (23523 18490 620640 834000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "emacs-for-python/" "url/" "network-security.data" "init.el~" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org" "configuration.org_archive")
-
- ("/home/evan/downloads/" (23519 17110 482634 741000) "Sunshine.mp4" "Gladiator.mp4" "krohne-theme/" "BvS.mkv" "BladeRunner.mp4" "../" "./")
 
  ("/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/" (23519 46147 580661 664000) "sb-roosevelt-june.png" "../" "session-12/" "./" "pdf-thunder-recap.pdf" "maps/" "statblocks-session-10/" "cp-tinker.org_archive" "ch-whitney.org" "roosevelt.org" "blue-dragon-lair-magic-items.odt" "index.org" "arbor lignum malleo.pdf" "cp-tinker.org" "tink-txt-pages-recap.txt" "ho-high-forest.pdf" "giant-blessings.odt" "ch-tim.org" "gercid.org" "arbor warhammer.odt")
 
@@ -78,8 +93,6 @@
  ("/home/evan/_code/project-password/" (23514 26516 184477 4000) ".git/" "../" "./" "pw.py" "README.md")
 
  ("/home/evan/_code/scratch-bullets-wiki/" (23513 55209 655176 385000) "../" "./" "bulletPointAdder.py")
-
- ("/home/evan/_code/" (23513 54806 588517 369000) "dotfiles/" "../" "css-solarized-everything/" "./" "qutebrowser-userstyles.css" "project-homepage/" "harry-emacs/" "python-date/" "project-basic-ruleset/" "scratch-spellbook/" "rogue-master/" "scripts/" "project-password/" "project-py-spellbook/" "scratch-bullets-wiki/")
 
  ("/home/evan/.emacs.d/themes/" (23513 51057 305255 208000) "../" "./" "xresources-theme.el~" "xresources-theme.el")
 
@@ -92,8 +105,6 @@
  ("/home/evan/_nextcloud/tabletop/dnd5e/char-moon-moon/" (23509 12278 632041 530000) "../" "./" "mm-table-tent.pdf" "pdf-mm-backstory.pdf" "moon-moon-table-tent.pdf" "moonorg.org" "pdf-mm-old-features.pdf" "pdf-mm-hex.pdf" "mm-backstory.pdf" "items.org" "pdf-pages-mm-hex-features.pdf")
 
  ("/home/evan/_code/project-spellbook/css/" (23508 44748 112669 230000) "../" "./" "style.css")
-
- ("/home/evan/_code/project-spellbook/" (23508 50488 285893 597000) "../" "test.html" "index.html" "./" "css/" "spellbook.html" "spellbook.org")
 
  ("/home/evan/_nextcloud/tabletop/dnd5e/" (23473 64908 529460 93000) "rise-of-tiamat/" "core-dmg.pdf" "../" "pdf-ho-waterdeep.pdf" "tomb-of-annihilation/" "pdf-svardborg-lodges.pdf" "./" "adventure-cos.pdf" "pdf-thunder-recap.pdf" "supplement-ua-ranger.pdf" "storm-kings-thunder/" "supplement-xanthar.pdf" "supplement-rot.pdf" "hoard-of-the-dragon-queen/" "csv-dmxp.csv" "map-faerun-swordcoast-nw.pdf" "supplement-ee.pdf" "misc-isometric-map.jpeg" "supplement-sage-advice.pdf" "core-phb.pdf" "old-character-sheet-5e.pdf" "tales-yawning-portal/" "libre-moon-moon-al.odt" "pdf-svardborg.pdf" "adventure-oota.pdf" "supplement-character-ua-ranger.pdf" "supplement-pota.pdf" "errata-phb.pdf" "adventure-skt.pdf" "supplement-scag.pdf" "adventure-typ.pdf" "statblocks/" "supplement-volo.pdf" "core-mm.pdf" "adventurers-league/" "princes-of-the-apocalypse/" "tinker-magic-items.pdf" "Sword-Coast-Map_HighRes.jpg" "char-moon-moon/" "sotsc-map2.jpg" "supplement-tortle.pdf" "logsheet.pdf" "MM_MonstersCR.pdf" "adventure-pota.pdf")
 

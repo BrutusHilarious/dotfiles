@@ -1,9 +1,9 @@
-sw_volume: 96
+sw_volume: 100
 audio_device_state:1:alsamixer-output
 audio_device_state:1:Visualizer feed
 state: play
-current: 14
-time: 4.121000
+current: 0
+time: 4.167000
 random: 0
 repeat: 0
 single: 0
@@ -12,27 +12,12 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:OST - John Wick 2/A Job To Do (John Wick- Chapter 2 OST).mp3
-1:OST - John Wick 2/Back In The Ground (John Wick Chapter 2 OST).mp3
-2:OST - John Wick 2/Catacombs (John Wick Chapter 2 OST).mp3
-3:OST - John Wick 2/Coronation - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3
-4:OST - John Wick 2/Fountain Foes (John Wick Chapter 2 OST).mp3
-5:OST - John Wick 2/Guns & Turtlenecks (John Wick Chapter 2 OST).mp3
-6:OST - John Wick 2/John Wick Chapter 2 Soundtrack - Le Castle Vania - John Wick Mode (Club Scene Music).mp3
-7:OST - John Wick 2/John Wick Reckoning (John Wick- Chapter 2 OST).mp3
-8:OST - John Wick 2/Knives On A Train (John Wick Chapter 2 OST).mp3
-9:OST - John Wick 2/La Vendetta (John Wick- Chapter 2 OST).mp3
-10:OST - John Wick 2/Man Of Focus (John Wick Chapter 2 OST).mp3
-11:OST - John Wick 2/Mirror Mayhem (John Wick Chapter 2 OST).mp3
-12:OST - John Wick 2/Missing Helen (John Wick Chapter 2 OST).mp3
-13:OST - John Wick 2/Peace And Vodka (John Wick Chapter 2 OST).mp3
-14:OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3
-15:OST - John Wick 2/Presto Museum Battle (John Wick Chapter 2 OST).mp3
-16:OST - John Wick 2/Razor Bath (John Wick Chapter 2 OST).mp3
-17:OST - John Wick 2/Santino (John Wick Chapter 2 OST).mp3
-18:OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3
-19:OST - John Wick 2/Suits Maps And Guns (John Wick Chapter 2 OST).mp3
-20:OST - John Wick 2/Sumo Showdown (John Wick Chapter 2 OST).mp3
-21:OST - John Wick 2/Walk To Museum (John Wick Chapter 2 OST).mp3
-22:OST - John Wick 2/Wick In Rome (John Wick Chapter 2 OST).mp3
+0:OST - John Wick 2/Plastic Heart - feat. Ciscandra Nostalghia (John Wick- Chapter 2 OST).mp3
+1:OST - John Wick 2/Shark Chevelle (John Wick Chapter 2 OST).mp3
+2:PL - Grunt/Hyper - Spoiler.m4a
+3:PL - Grunt/Thomas Bergersen - Children of the Sun.m4a
+4:PL - Grunt/14 - The Catalyst.mp3
+5:PL - Grunt/Bad Wolves - Zombie.m4a
+6:Misc Songs/Daniel Pemberton - Take You Down.m4a
+7:Misc Songs/Hans Zimmer - Gotham's Reckoning (Bane's theme) (The Dark Knight Rises Soundtrack).m4a
 playlist_end
