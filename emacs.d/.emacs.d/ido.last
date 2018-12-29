@@ -7,25 +7,29 @@
  ("/home/evan/_nextcloud/tabletop/dnd5e/" . "char-moon-moon/")
  ("/etc/" . "NetworkManager/")
  ("/home/evan/.emacs.d/snippets/" . "org-mode/")
- ("/home/evan/_code/" . "date-picker/")
+ ("/home/evan/_code/" . "scripts/")
  ("/home/evan/.config/" . "polybar/")
  ("/home/evan/_nextcloud/tabletop/campaigns/" . "tinker-thunder/")
  ("/home/evan/_nextcloud/tabletop/" . "campaigns/")
  ("/home/evan/_nextcloud/" . "tabletop/")
- ("/home/evan/.emacs.d/" . "snippets/")
- ("/home/evan/" . "downloads/")
+ ("/home/evan/.emacs.d/" . "themes/")
+ ("/home/evan/" . "_org/")
  ("/home/" . "evan/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/evan/_org/"
  "/home/evan/"
+ "/home/evan/.i3/"
+ "/home/evan/_org/"
+ "/home/evan/.config/"
+ "/home/evan/.config/ranger/"
+ "/etc/xdg/"
+ "/home/evan/.emacs.d/themes/"
+ "/home/evan/_code/scripts/"
  "/home/evan/_code/date-picker/"
  "/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/"
  "/home/evan/_code/oneshot/"
- "/home/evan/.config/"
- "/home/evan/.i3/"
  "_org/"
  "/home/evan/_code/scratch-spellbook/css/"
  "/home/evan/_code/scratch-spellbook/"
@@ -37,8 +41,6 @@
  "/home/evan/_code/project-basic-ruleset/"
  "/home/evan/_code/project-password/"
  "/home/evan/.config/qutebrowser/"
- "/home/evan/_code/scripts/"
- "/home/evan/.emacs.d/themes/"
  "/home/evan/_nextcloud/tabletop/dnd5e/char-moon-moon/"
  "/home/evan/_code/project-spellbook/"
  "/home/evan/_code/project-spellbook/css/"
@@ -52,33 +54,41 @@
 
 ;; ----- ido-work-file-list -----
 (
- "nrx.org"
- "index.html"
- "todos.org"
- "books.org"
- "agenda.org"
- ".bash_history"
  ".bashrc"
- "notes-emacs.org"
+ "config"
+ "todos.org"
+ "carbon.org"
+ "compton.conf"
+ "rc.conf"
+ "xresources-theme.el"
+ "agenda.org"
  "logins.org"
- "ebay.org"
+ "dotbackup"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/evan/_org/" (23585 15748 956481 471000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "mindset.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "todos.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" "carbon.org" "phb.org" "order.org" "xdisicpline.org" "notes-cmus.org" "empire.org" "capture.org" "journal.org" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "ebay.org" "test.org" "zweihander.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
+ ("/home/evan/" (23591 41212 818885 714000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".gtk-bookmarks" ".xinitrc" ".elinks/" "./" ".firefox/" ".gnupg/" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".scribus/" "Mail/" ".inputrc" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" ".python_history-06708.tmp" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
 
- ("/home/evan/downloads/" (23585 15039 179828 279000) "Prisoners (2013) [1080p]/" "Encounters At The End Of The World 2007 BRRip/" "epubs/" "www.torrenting.com  - Venom.2018.1080p.HDRip.X264-EVO/" "movies/" "The World According To Dick Cheney Trailer.mp4" "zweihander/" "The.World.According.to.Dick.Cheney.720p.HDTV.x264-EVOLVE [PublicHD]/" "So You STILL Wanna Be a Cop.mkv" "Dick Cheney - A Heartbeat Away.mkv" "latin_mass_101.pdf" "scythe.jpg" "Uechi-ryu hand conditioning 2.webm" "So You Wanna Be A Cop Huh.mkv" "IMG_0970.MOV" "../" "./")
+ ("/home/evan/.i3/" (23590 43928 410622 513000) "../" "./" "config")
 
- ("/home/evan/" (23585 15604 419817 549000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".gtk-bookmarks" ".xinitrc" ".elinks/" "index.html" "./" ".firefox/" ".gnupg/" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".scribus/" ".inputrc" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" ".python_history-06708.tmp" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
+ ("/home/evan/_org/" (23590 43247 60635 447000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "mindset.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "todos.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" "carbon.org" "phb.org" "order.org" ".#carbon.org" "xdisicpline.org" "notes-cmus.org" "empire.org" "capture.org" "journal.org" "lang-latin.org" "book-foundation-training.org" "#carbon.org#" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "ebay.org" "test.org" "zweihander.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
 
- ("/home/evan/.config/qutebrowser/" (23580 24201 347198 794000) "config.py" "../" "./" "qsettings/" "backup-quickmarks" "autoconfig.yml" "bookmarks/" "config.py~" "quickmarks")
+ ("/home/evan/downloads/" (23590 22608 564360 560000) "lecture-ttc-formal-logic/" "lecture-ttc-ancient-greece/" "View of Jupiter from NASA's Juno spacecraft.mkv" "television/" "epubs/" "BMV_Documentation_List.pdf" "meme-ya-novel.jpg" "books-kindle-mobi/" "SSPUSADV.pdf" "video-python-kvs/" "films/" "The Orville Season 1 Complete 720p HDTV x264 [i_c]/" "pictures/" "Golden Eagle killing wolves..mkv" "Win10_English_x64.iso" "The Revenant _ 'A World Unseen' Documentary _ 20th Century FOX.mkv" "latin_mass_101.pdf" "Crypto101.pdf" "Uechi-ryu hand conditioning 2.webm" "Simple Bank Statement 20181201054906.pdf" "2018-12-25-082145_2560x1440_scrot.png" "../" "./")
 
- ("/home/evan/.emacs.d/" (23580 63139 468222 211000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "url/" "py-autopep8.el" "network-security.data" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org")
+ ("/home/evan/.emacs.d/" (23590 34894 264127 341000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "url/" "py-autopep8.el" "network-security.data" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org")
+
+ ("/home/evan/.config/" (23590 36265 120767 985000) "nitrogen/" "Mousepad/" "kritadisplayrc" "Trolltech.conf" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "inkscape/" "./" "zathura/" "Kvantum/" "sublime-text-3/" "transmission/" "netsurf/" "youtube-dl/" "volumeicon/" "cmus/" "Mullvad VPN/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "ranger/" "wal/" "PrivateInternetAccess/" "viewnior/" "libfm/" "epdfview/" "libreoffice/" "mpd/" "QtProject.conf" "chromium/" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "vlc/" "menus/" "xfce4/" "neofetch/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/" "calibre/" "scribus/")
+
+ ("/home/evan/.config/ranger/" (23456 49718 17018 136000) "../" "./" "devicons.py~" "__pycache__/" "plugins/" "scope.sh" "rc.conf")
+
+ ("/etc/xdg/" (23565 52599 9483 898000) "kglobalaccel.categories" "sonnet.categories" "kiconthemes.categories" "autostart/" "kcrash.categories" "../" "kitemmodels.categories" "kcoreaddons.categories" "kwallet.categories" "kauth.categories" "systemd/" "./" "attica.categories" "kxmlgui.categories" "kconfigwidgets.categories" "accept-languages.codes" "kservice.categories" "kjobwidgets.categories" "purpose.categories" "solid.categories" "ui/" "kbookmarks.categories" "kshorturifilterrc" "kwindowsystem.categories" "compton.conf" "user-dirs.defaults" "kdbusaddons.categories" "karchive.categories" "libfm/" "compton.conf.example" "dfc/" "knotifications.categories" "okular.categories" "kio.categories" "user-dirs.conf" "kcodecs.categories" "menus/" "kactivities.categories" "xfce4/" "pcmanfm/" "kpackage.categories")
+
+ ("/etc/" (23590 24602 907656 35000) "iptables/" "mkinitcpio.d/" "iproute2/" "securetty" "cron.daily/" "udev/" "xml/" "bash.bash_logout" "modules-load.d/" "Muttrc" "services" "audit/" "i3/" "udisks2/" "mpd.conf" "vdpau_wrapper.cfg" "login.defs" "locale.conf" "Muttrc.gpg.dist" "openswap.conf" "polkit-1/" "cups/" "anacrontab" "timezone" "ifplugd/" "mtab" "topdefaultrc" "openvpn/" "nfsmount.conf" "crypttab" "libnl/" "ts.conf" "rpc" "lightdm/" "logrotate.conf" "mail.rc" "ndctl/" "UPower/" "ld.so.cache" "systemd/" "resolv.conf.pacnew" "mke2fs.conf" "arch-release" "cgrules.conf" "manjaro-firefox-kde.ini" "opt/" "os-release" "motd" "pacman.conf.pacnew" "gshadow-" "man_db.conf" "gssproxy/" "sudoers.d/" "request-key.conf" "host.conf" "cgconfig.conf" "exports.d/" "initcpio/" "resolv.conf.bak" "sensors3.conf" "rc_maps.cfg" "manjaro-thunderbird.ini" "rsyncd.conf" "foomatic/" "hosts" ".updated" "php/" "shadow-" "depmod.d/" "krb5.conf" "vpnc/" "adjtime" "dnsmasq.conf" "passwd-" "nscd.conf" "security/" "logrotate.d/" "yaourtrc" "manjaro-firefox.ini" "lsb-release" "issue" "shells.pacnew" "nanorc" "profile.d/" "machine-id" "fonts/" "gimp/" "request-key.d/" "dbus-1/" "pacman-mirrors.conf" "xattr.conf" "cron.monthly/" "X11/" "avahi/" "slsh.rc" "pcmcia/" ".pwd.lock" "nginx/" "cpufreq-bench.conf" "resolv.conf" "group" "zsh/" "ppp/" "bluetooth/" "pacman.d/" "conf.d/" "lvm/" "cron.weekly/" "fstab" "pacman-mirrors.conf.pacnew" "environment" "geoclue/" "pam.d/" "wpa_supplicant/" "audisp/" "updatedb.conf" "sensors.d/" "netctl/" "shadow" "resolvconf.conf" "libpaper.d/" "Muttrc.dist" "NetworkManager/" "signond.conf" "gshadow.pacnew" "passwd.pacnew" "lightdm.conf.save" "ca-certificates/" "alternatives/" "group-" "libao.conf" "ImageMagick-6/" "manjaro-release" "fprintd.conf" "exports" "tmpfiles.d/" "group.pacnew" "hostname" "ssl/" "pacman.conf" "fuse.conf" "pulse/" "vconsole.conf" "netconfig" "mime.types" "libaudit.conf" "xinetd.d/" "hosts.pacnew" "ld.so.conf" "rhashrc" "i3status.conf" "sysctl.d/" "tor/" "ntp.conf" "dhcpcd.conf" "ufw/" "nfs.conf" "libblockdev/" "cron.hourly/" "skel/" "protocols" "libreoffice/" "gufw/" "default/" "healthd.conf" "cgsnapshot_blacklist.conf" "pamac.conf" "xdg/" "crypttab.pacnew" "ethertypes" "bash.bashrc" "mpv/" "gtk-3.0/" "gshadow" "kernel/" "shells" "alsa/" "cupshelpers/" "shadow.pacnew" "ssh/" "drirc" "mailcap" "modprobe.d/" "idmapd.conf" "gss/" "mdadm.conf" "rc_keymaps/" "manjaro-firefox-developer-edition.ini" "printcap" "cron.deny" "binfmt.d/" "cifs-utils/" "apparmor.d/" "trusted-key.key" "hp/" "passwd" "openldap/" "locale.gen.pacnew" "gai.conf" "gconf/" "profile" "vimrc" "sane.d/" "bindresvport.blacklist" "ld.so.conf.d/" "makepkg.conf" "dpkg/" "gtk-2.0/" "grub.d/" "ImageMagick-7/" "syslog-ng/" "inputrc" "locale.gen" "fstab.pacnew" "localtime" "mkinitcpio.conf" "cron.d/" "wgetrc" "papersize" "nsswitch.conf" "sudoers" "pkcs11/" "acpi/" "../" "./")
+
+ ("/home/evan/.config/qutebrowser/" (23586 46869 519914 613000) "config.py" "../" "./" "qsettings/" "backup-quickmarks" "autoconfig.yml" "bookmarks/" "config.py~" "quickmarks")
 
  ("/home/evan/_code/scratch-spellbook/" (23565 9056 653643 794000) "../" "test.html" "./" "css/" "spellbook.html" "spellbook.org")
-
- ("/home/evan/.config/" (23574 30493 766253 612000) "nitrogen/" "Mousepad/" "kritadisplayrc" "Trolltech.conf" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "inkscape/" "./" "zathura/" "Kvantum/" "sublime-text-3/" "transmission/" "netsurf/" "youtube-dl/" "volumeicon/" "cmus/" "Mullvad VPN/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "ranger/" "wal/" "PrivateInternetAccess/" "viewnior/" "libfm/" "epdfview/" "libreoffice/" "mpd/" "QtProject.conf" "chromium/" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "vlc/" "menus/" "xfce4/" "neofetch/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/" "scribus/")
 
  ("/home/evan/_code/date-picker/" (23565 11025 563606 419000) "../" "index.html" "./" "picker.js")
 
@@ -93,8 +103,6 @@
  ("/home/evan/_nextcloud/tabletop/campaigns/" (23528 29059 550955 109000) "../" "./" "xan-oneshot.odt" "pdf-oneshot.pdf" "tinker-thunder/")
 
  ("/home/evan/_code/oneshot/" (23536 8329 197413 469000) "../" "./" "oneshot.html" "style.css")
-
- ("/home/evan/.i3/" (23453 3501 106693 769000) "tmux-server-19415.log" "../" "./" "tmux-client-19413.log" "config")
 
  ("/home/evan/_code/project-spellbook/" (23523 32564 923706 996000) ".git/" "../" "./" "main.py" "index.org" "spellbook.py" "#index.org#" "__pycache__/" "scratch-phone.py" "scratch-py-spellbook.org")
 
@@ -129,8 +137,6 @@
  ("/home/evan/.config/polybar/" (23456 50234 470341 664000) "../" "./" "bottom-bar" "top-bar" "config")
 
  ("/home/evan/.config/autostart/" (23446 45371 409525 903000) "../" "./" "pia_manager.desktop")
-
- ("/etc/" (23504 42045 593324 394000) "iptables/" "mkinitcpio.d/" "iproute2/" "securetty" "cron.daily/" "udev/" "xml/" "bash.bash_logout" "modules-load.d/" "Muttrc" "services" "i3/" "udisks2/" "mpd.conf" "vdpau_wrapper.cfg" "login.defs" "locale.conf" "Muttrc.gpg.dist" "openswap.conf" "polkit-1/" "cups/" "anacrontab" "timezone" "ifplugd/" "mtab" "topdefaultrc" "openvpn/" "nfsmount.conf" "crypttab" "libnl/" "ts.conf" "rpc" "lightdm/" "logrotate.conf" "mail.rc" "ndctl/" "UPower/" "ld.so.cache" "systemd/" "resolv.conf.pacnew" "mke2fs.conf" "arch-release" "cgrules.conf" "manjaro-firefox-kde.ini" "opt/" "os-release" "motd" "pacman.conf.pacnew" "gshadow-" "man_db.conf" "gssproxy/" "sudoers.d/" "request-key.conf" "host.conf" "cgconfig.conf" "exports.d/" "initcpio/" "resolv.conf.bak" "sensors3.conf" "rc_maps.cfg" "manjaro-thunderbird.ini" "rsyncd.conf" "foomatic/" "hosts" ".updated" "php/" "shadow-" "depmod.d/" "krb5.conf" "vpnc/" "adjtime" "dnsmasq.conf" "passwd-" "nscd.conf" "security/" "logrotate.d/" "yaourtrc" "manjaro-firefox.ini" "lsb-release" "issue" "shells.pacnew" "nanorc" "profile.d/" "machine-id" "fonts/" "gimp/" "request-key.d/" "dbus-1/" "pacman-mirrors.conf" "xattr.conf" "cron.monthly/" "X11/" "avahi/" "slsh.rc" "pcmcia/" ".pwd.lock" "nginx/" "cpufreq-bench.conf" "resolv.conf" "group" "zsh/" "ppp/" "bluetooth/" "pacman.d/" "conf.d/" "lvm/" "cron.weekly/" "fstab" "pacman-mirrors.conf.pacnew" "environment" "geoclue/" "pam.d/" "wpa_supplicant/" "updatedb.conf" "sensors.d/" "netctl/" "shadow" "resolvconf.conf" "libpaper.d/" "Muttrc.dist" "NetworkManager/" "signond.conf" "gshadow.pacnew" "passwd.pacnew" "lightdm.conf.save" "ca-certificates/" "alternatives/" "group-" "libao.conf" "ImageMagick-6/" "manjaro-release" "fprintd.conf" "exports" "tmpfiles.d/" "group.pacnew" "hostname" "ssl/" "pacman.conf" "fuse.conf" "pulse/" "vconsole.conf" "netconfig" "mime.types" "xinetd.d/" "hosts.pacnew" "ld.so.conf" "rhashrc" "i3status.conf" "sysctl.d/" "tor/" "ntp.conf" "dhcpcd.conf" "ufw/" "nfs.conf" "libblockdev/" "cron.hourly/" "skel/" "protocols" "libreoffice/" "gufw/" "default/" "healthd.conf" "cgsnapshot_blacklist.conf" "pamac.conf" "xdg/" "crypttab.pacnew" "ethertypes" "bash.bashrc" "mpv/" "gtk-3.0/" "gshadow" "kernel/" "shells" "cupshelpers/" "shadow.pacnew" "ssh/" "drirc" "mailcap" "modprobe.d/" "idmapd.conf" "gss/" "mdadm.conf" "rc_keymaps/" "manjaro-firefox-developer-edition.ini" "printcap" "cron.deny" "binfmt.d/" "cifs-utils/" "apparmor.d/" "trusted-key.key" "hp/" "passwd" "openldap/" "locale.gen.pacnew" "gai.conf" "gconf/" "profile" "vimrc" "sane.d/" "bindresvport.blacklist" "ld.so.conf.d/" "makepkg.conf" "dpkg/" "gtk-2.0/" "grub.d/" "ImageMagick-7/" "syslog-ng/" "inputrc" "locale.gen" "fstab.pacnew" "localtime" "mkinitcpio.conf" "cron.d/" "wgetrc" "papersize" "nsswitch.conf" "sudoers" "pkcs11/" "acpi/" "../" "./")
 
  ("/home/evan/_code/project-homepage/" (23500 63527 867411 915000) "../" "index.html" "./" "css/" "js/")
 

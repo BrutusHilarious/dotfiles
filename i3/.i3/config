@@ -1,12 +1,12 @@
 ### Evan's i3 Config ###
-
+    
 ### General Settings ###
 set $mod Mod4
 new_window pixel 0
 new_float none
 
 hide_edge_borders none
-default_border none
+default_border pixel 2
 default_floating_border none
 ###
 
@@ -146,7 +146,9 @@ bindsym $mod+u [instance="dropdown"] scratchpad show; [instance="dropdown"] resi
 ##
 
 # Focus follows mouse
-focus_follows_mouse yes
+focus_follows_mouse no
+
+
 
 ### Open Specific Applications in Floating Mode ###
 for_window [title="alsamixer"] floating enable border pixel 1
@@ -193,16 +195,16 @@ mode "resize" {
 ###
 
 ### Autostart applications ###
-exec_always --no-startup-id wal -R
+exec --no-startup-id wal -R
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #exec --no-startup-id xfce4-power-manager
 #exec --no-startup-id nitrogen --restore; sleep 1; compton -b
 exec_always --no-startup-id compton -b
-exec_always --no-startup-id ff-theme-util
-exec_always --no-startup-id fix_xcursor
-exec_always --no-startup-id xbindkeys -p
-exec_always --no-startup-id unclutter -idle 1.0 -root
-exec_always --no-startup-id $HOME/_code/scripts/+polybar
+exec --no-startup-id ff-theme-util
+exec --no-startup-id fix_xcursor
+exec --no-startup-id xbindkeys -p
+exec --no-startup-id unclutter -idle 1.0 -root
+exec --no-startup-id $HOME/_code/scripts/+polybar
 
 exec --no-startup-id xautolock -time 10 -locker lock.sh
 
@@ -221,33 +223,54 @@ exec --no-startup-id xautolock -time 10 -locker lock.sh
 ### Colors and Themes ###
 
 # Color palette used for the terminal ( ~/.Xresources file )
-set_from_resource $term_background background
-set_from_resource $term_foreground foreground
-set_from_resource $term_color0     color0
-set_from_resource $term_color1     color1
-set_from_resource $term_color2     color2
-set_from_resource $term_color3     color3
-set_from_resource $term_color4     color4
-set_from_resource $term_color5     color5
-set_from_resource $term_color6     color6
-set_from_resource $term_color7     color7
-set_from_resource $term_color8     color8
-set_from_resource $term_color9     color9
-set_from_resource $term_color10    color10
-set_from_resource $term_color11    color11
-set_from_resource $term_color12    color12
-set_from_resource $term_color13    color13
-set_from_resource $term_color14    color14
-set_from_resource $term_color15    color15
+# set_from_resource $term_background background
+# set_from_resource $term_foreground foreground
+# set_from_resource $term_color0     color0
+# set_from_resource $term_color1     color1
+# set_from_resource $term_color2     color2
+# set_from_resource $term_color3     color3
+# set_from_resource $term_color4     color4
+# set_from_resource $term_color5     color5
+# set_from_resource $term_color6     color6
+# set_from_resource $term_color7     color7
+# set_from_resource $term_color8     color8
+# set_from_resource $term_color9     color9
+# set_from_resource $term_color10    color10
+# set_from_resource $term_color11    color11
+# set_from_resource $term_color12    color12
+# set_from_resource $term_color13    color13
+# set_from_resource $term_color14    color14
+# set_from_resource $term_color15    color15
 
-# Theme colors
-# class                   border  backgr. text    indic.   child_border
-#  client.focused          #556064 #556064 #80FFF9 #FDF6E3
-  client.focused          #556064 #556064 #80FFF9 #FDF6E3
-  client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
-  client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
-  client.urgent           #CB4B16 #FDF6E3 #1ABC9C #268BD2
-  client.placeholder      #000000 #0c0c0c #ffffff #000000 
-  client.background       #2B2C2B
+### Theme Colors ###
+# class                 border  backgr. text    indicator child_border
+#client.focused          #ffffff #ffffff #ffffff #ffffff   #ffffff
+#client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
+#client.unfocused        #000000 #000000 #000000 #000000   #000000
+#client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+#client.urgent           #2f343a #900000 #ffffff #900000   #900000
+#client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+#client.background       #ffffff
 ###
 
+# class                 border  backgr. text    indicator child_border
+# client.focused          #4c7899 #285577 #ffffff #2e9ef4   #285577
+# client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
+# client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+#client.urgent           #2f343a #900000 #ffffff #900000   #900000
+#client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+
+#client.background       #000000
+
+set_from_resource $fg i3wm.color7 #f0f0f0
+set_from_resource $bg i3wm.color2 #f0f0f0
+
+# class                 border  backgr. text indicator child_border
+client.focused          #ffffff #ffffff #ffffff #ffffff   #ffffff
+#client.focused          $bg     $bg     $fg  $bg       $bg
+client.focused_inactive $bg     $bg     $fg  $bg       $bg
+client.unfocused        $bg     $bg     $fg  $bg       $bg
+client.urgent           $bg     $bg     $fg  $bg       $bg
+client.placeholder      $bg     $bg     $fg  $bg       $bg
+
+client.background       $bg

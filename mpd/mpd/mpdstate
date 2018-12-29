@@ -1,9 +1,9 @@
 sw_volume: 100
 audio_device_state:1:alsamixer-output
 audio_device_state:1:Visualizer feed
-state: play
-current: 15
-time: 4.280000
+state: pause
+current: 11
+time: 36.102000
 random: 0
 repeat: 0
 single: 0
@@ -146,4 +146,28 @@ playlist_begin
 131:Lorn/Vessel/LORN - VESSEL - 08 LOCK BITES KEY.mp3
 132:Lorn/Vessel/LORN - VESSEL - 09 MOUNT KWAKU.mp3
 133:Lorn/Vessel/LORN - VESSEL - 10 MAROONED.mp3
+134:Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3
+135:OST - Deadwood/Deadwood - Season 1 - 01 - Clell Watson - ''No Law...''.mp3
+136:OST - Deadwood/Deadwood - Season 1 - 02 - David Schwartz - Theme From Deadwood.mp3
+137:OST - Deadwood/Deadwood - Season 1 - 03 - Al Swearengen - ''In Life...''.mp3
+138:OST - Deadwood/Deadwood - Season 1 - 04 - Michael Hurley - Hog Of The Forsaken.mp3
+139:OST - Deadwood/Deadwood - Season 1 - 05 - June Carter Cash - Will The Circle Be Unbroken.mp3
+140:OST - Deadwood/Deadwood - Season 1 - 06 - Wild Bill Hickok & Charlie Utter - ''Go To Hell...''.mp3
+141:OST - Deadwood/Deadwood - Season 1 - 07 - Lyle Lovett - Old Friend.mp3
+142:OST - Deadwood/Deadwood - Season 1 - 08 - Margaret - Creek Lullaby.mp3
+143:OST - Deadwood/Deadwood - Season 1 - 09 - Calamity Jane & Charlie Utter - ''Row, Row, Row Your Boat...''.mp3
+144:OST - Deadwood/Deadwood - Season 1 - 10 - Gustavo Santaolalla - Iguazu.mp3
+145:OST - Deadwood/Deadwood - Season 1 - 11 - Al Swearengen & Joanie Stubbs - ''Pardon My French...''.mp3
+146:OST - Deadwood/Deadwood - Season 1 - 12 - Jelly Roll Morton - Stars And Stripes Forever.mp3
+147:OST - Deadwood/Deadwood - Season 1 - 13 - Sonny Terry & Brownie McGhee - God And Man.mp3
+148:OST - Deadwood/Deadwood - Season 1 - 14 - Mark Lee Scott - Fallen From Grace.mp3
+149:OST - Deadwood/Deadwood - Season 1 - 15 - Johnny Klimek & Reinhold Heil - Native Funeral.mp3
+150:OST - Deadwood/Deadwood - Season 1 - 16 - Al Swearengen & Mister Wu - ''Who, Wu...''.mp3
+151:OST - Deadwood/Deadwood - Season 1 - 17 - Mike Seeger, Peggy Seeger, Penny Seeger & Children - Snake Baked A Hoecake.mp3
+152:OST - Deadwood/Deadwood - Season 1 - 18 - Bukka White - High Fever Blues.mp3
+153:OST - Deadwood/Deadwood - Season 1 - 19 - Michael J. Sheehey - Twisted Little Man.mp3
+154:OST - Deadwood/Deadwood - Season 1 - 20 - Al Swearengen - ''Next Round's On the House...''.mp3
+155:OST - Deadwood/Deadwood - Season 1 - 21 - Michael Brook - Arriving In Deadwood.mp3
+156:OST - Deadwood/Deadwood - Season 1 - 22 - Mississippi John Hurt - Farther Along.mp3
+157:OST - Deadwood/Deadwood - Season 1 - 23 - Seth Bullock & Al Swearengen - ''There's Blood...''.mp3
 playlist_end

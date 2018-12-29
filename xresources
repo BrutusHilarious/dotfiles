@@ -1,3 +1,5 @@
+!!! Xresources Config !!!
+
 Xft.dpi: 96
 Xft.antialias: true
 Xft.hinting: true
@@ -81,19 +83,21 @@ URxvt.perl-ext-common: ""
 URxvt.perl-ext: ""
 
 ! Fonts that work
-!URxvt.font: xft:LiberationMono:size=20
-!URxvt.font: xft:Fira Code:size=20
-!URxvt.font: xft:Inconsolata:size=20
+!URxvt.font: xft:Fira Code:size=13
+!URxvt.font: xft:Inconsolata:size=18
 URxvt.font: xft:Hack Nerd Font:size=18
+
 
 URxvt.depth:                      32
 URxvt.background:                 [80]#000000
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       false
 URxvt*cursorBlink:                false
-URxvt*background:                 black
+!URxvt*background:                 black
 URxvt*foreground:                 grey
 URxvt*saveLines:                  5000
+!URxvt*borderColor:               black
+!URxvt*internalBorder:            23
 
 ! URxvt*urgentOnBell:              boolean
 ! URxvt*visualBell:                boolean
@@ -168,7 +172,7 @@ URxvt*saveLines:                  5000
 ! URxvt*cursorColor2:              color
 ! URxvt*pointerColor:              color
 ! URxvt*pointerColor2:             color
-! URxvt*borderColor:               color
+
 ! URxvt*iconFile:                  file
 ! URxvt*font:                      xft:Fira Mono:size=30
 ! URxvt*boldFont:                  fontname
@@ -182,14 +186,14 @@ URxvt*saveLines:                  5000
 ! URxvt*title:                     string
 ! URxvt*iconName:                  string
 ! URxvt*buffered:                  boolean
-n! URxvt*depth:                     number
+! URxvt*depth:                     number
 ! URxvt*visual:                    number
 ! URxvt*transient-for:             windowid
 ! URxvt*override-redirect:         boolean
 ! URxvt*hold:                      boolean
-! URxvt*externalBorder:            number
-! URxvt*internalBorder:            number
-! URxvt*borderLess:                true
+!URxvt*externalBorder:            12px
+
+!URxvt*borderLess:                true
 ! URxvt*lineSpace:                 number
 ! URxvt*letterSpace:               number
 ! URxvt*skipBuiltinGlyphs:         boolean

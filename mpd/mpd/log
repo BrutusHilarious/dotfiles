@@ -48636,3 +48636,1934 @@ Dec 25 05:02 : exception: OutputThread could not get realtime scheduling, contin
 Dec 25 05:02 : client: [0] opened from 127.0.0.1:47824
 Dec 25 05:02 : avahi: Service 'Music Player @ tyrant' successfully established.
 Dec 25 06:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 25 06:12 : player: played "Lorn/Ask the Dust/03 - Weigh Me Down.flac"
+Dec 25 06:29 : player: played "Lorn/Ask the Dust/04 - This.flac"
+Dec 25 06:34 : player: played "Lorn/Ask the Dust/05 - Diamond.flac"
+Dec 25 06:38 : player: played "Lorn/Ask the Dust/06 - Everything Is Violence.flac"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/avi: Format avi detected only with low score of 1, misdetection possible!
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 25 09:36 : update: added transcend-tt-recordings/TASCAM_0004.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/Absolution 2 - It's Payback Time.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/rpg-keepers-00_00_00-absolution-part-2.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/dd-tinker-110517.mp3
+Dec 25 09:36 : update: added transcend-tt-recordings/rpg-keepers-00-00-00-ogremoch.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/Tinker D_D January 30th.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/TASCAM_0001.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/Tinker D&D January 30th.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/Tinker D&D February 25th.m4a
+Dec 25 09:36 : update: added transcend-tt-recordings/TASCAM_0005.m4a
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 25 09:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 25 09:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 25 09:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 25 17:33 : update: added Tabletop - Recordings - KOTR/rpg-keepers-00-00-00-ogremoch.m4a
+Dec 25 17:33 : update: added Tabletop - Recordings - KOTR/TASCAM_0020.wav
+Dec 25 17:33 : update: added Tabletop - Recordings - KOTR/TASCAM_0016.wav
+Dec 25 17:33 : update: added Tabletop - Recordings - KOTR/TASCAM_0021.wav
+Dec 25 17:33 : update: added Tabletop - Recordings - KOTR/TASCAM_0023.wav
+Dec 25 17:33 : update: added Tabletop - Recordings - KOTR/TASCAM_0022.wav
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/TASCAM_0004.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/Absolution 2 - It's Payback Time.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/rpg-keepers-00_00_00-absolution-part-2.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/dd-tinker-110517.mp3
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/rpg-keepers-00-00-00-ogremoch.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/Tinker D_D January 30th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/TASCAM_0001.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/Tinker D&D January 30th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/Tinker D&D February 25th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/transcend-tt-recordings/TASCAM_0005.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/TASCAM_0004.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/Absolution 2 - It's Payback Time.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/rpg-keepers-00_00_00-absolution-part-2.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/dd-tinker-110517.mp3
+Dec 25 17:34 : update: updating Tabletop - Recordings - KOTR/rpg-keepers-00-00-00-ogremoch.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/Tinker D_D January 30th.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/TASCAM_0005.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/TASCAM_0004.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/TASCAM_0001.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/rpg-keepers-00-00-00-ogremoch.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/rpg-keepers-00_00_00-absolution-part-2.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/Absolution 2 - It's Payback Time.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/dd-tinker-110517.mp3
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/Tinker D&D January 30th.m4a
+Dec 25 17:34 : update: removing Tabletop - Recordings - KOTR/transcend-tt-recordings/Tinker D&D February 25th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/Tinker D_D January 30th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/TASCAM_0001.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/Tinker D&D January 30th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/Tinker D&D February 25th.m4a
+Dec 25 17:34 : update: added Tabletop - Recordings - KOTR/TASCAM_0005.m4a
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/17 - God Rest Ye Merry Gentlemen.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/16 - O Holy Night.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/15 - An Angel Returned.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/14 - This Christmas Day.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/13 - Promises To Keep.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/12 - Old City Bar.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/11 - The First Noel.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/10 - Ornament.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/09 - Good King Joy.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/08 - Christmas Eve - Sarajevo 12.24.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/07 - The Prince Of Peace.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/06 - A Mad Russians Christmas.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/05 - The Silent Nutcracker.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/04 - First Snow.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/03 - A Star To Follow.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/02 - O Come All Ye Faithful - O Holy Night.mp3
+Dec 25 17:35 : update: removing Trans Siberian Orchestra - Christmas Eve Other Stories/01 - An Angel Came Down.mp3
+Dec 25 21:23 : player: played "PL - Grunt/05 We're In This Together.mp3"
+Dec 26 08:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 26 08:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 26 08:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 26 08:02 : client: [0] opened from 127.0.0.1:34656
+Dec 26 08:03 : avahi: Service 'Music Player @ tyrant' successfully established.
+Dec 26 08:24 : player: played "PL - Grunt/05 We're In This Together.mp3"
+Dec 26 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 26 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 26 11:02 : client: [0] opened from 127.0.0.1:38140
+Dec 26 11:02 : avahi: Service 'Music Player @ tyrant' successfully established.
+Dec 26 19:25 : player: played "PL - Grunt/05 We're In This Together.mp3"
+Dec 27 07:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 07:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 07:56 : client: [0] opened from 127.0.0.1:56572
+Dec 27 07:56 : avahi: Service 'Music Player @ tyrant' successfully established.
+Dec 27 08:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 08:15 : player: played "Lorn/Ask the Dust/01 - Mercy.flac"
+Dec 27 08:19 : player: played "Lorn/Ask the Dust/02 - Ghosst.flac"
+Dec 27 08:23 : player: played "Lorn/Ask the Dust/03 - Weigh Me Down.flac"
+Dec 27 08:23 : player: played "Lorn/Ask the Dust/04 - This.flac"
+Dec 27 08:32 : player: played "Lorn/Ask the Dust/05 - Diamond.flac"
+Dec 27 08:49 : player: played "Lorn/Ask the Dust/06 - Everything Is Violence.flac"
+Dec 27 08:55 : player: played "Lorn/Ask the Dust/07 - The Well.flac"
+Dec 27 08:58 : player: played "Lorn/Ask the Dust/08 - The Gun.flac"
+Dec 27 09:02 : player: played "Lorn/Ask the Dust/09 - Dead Dogs.flac"
+Dec 27 09:06 : player: played "Lorn/Ask the Dust/10 - Chhurch.flac"
+Dec 27 09:08 : player: played "Lorn/Ask the Dust/11 - I Better.flac"
+Dec 27 09:13 : player: played "Lorn/Ask the Dust/12 - Ghosst(s).flac"
+Dec 27 09:14 : player: played "Lorn/Self Confidence/1995.mp3"
+Dec 27 09:21 : player: played "PL - Grunt/05 We're In This Together.mp3"
+Dec 27 13:23 : player: played "PL - Empire/Celldweller - Eon (Au5 Remix).m4a"
+Dec 27 13:37 : player: played "PL - Empire/Daniel Pemberton - Take You Down.m4a"
+Dec 27 13:44 : player: played "PL - Empire/Ghostwriter - Sidewinder.m4a"
+Dec 27 13:47 : player: played "PL - Empire/04 Hans Zimmer - Oil Rig.mp3"
+Dec 27 14:35 : update: removing transcend-tt-recordings/dd-tinker-110517.mp3
+Dec 27 14:35 : update: removing transcend-tt-recordings/Tinker D&D January 30th.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/Tinker D&D February 25th.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/Tinker D_D January 30th.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/TASCAM_0005.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/TASCAM_0004.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/TASCAM_0001.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/rpg-keepers-00-00-00-ogremoch.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/rpg-keepers-00_00_00-absolution-part-2.m4a
+Dec 27 14:35 : update: removing transcend-tt-recordings/Absolution 2 - It's Payback Time.m4a
+Dec 27 14:35 : update: removing TASCAM_0023.wav
+Dec 27 14:35 : update: removing TASCAM_0022.wav
+Dec 27 14:35 : update: removing TASCAM_0021.wav
+Dec 27 14:35 : update: removing TASCAM_0020.wav
+Dec 27 14:35 : update: removing TASCAM_0016.wav
+Dec 27 14:35 : update: removing rpg-keepers-00-00-00-ogremoch.m4a
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/avi: Format avi detected only with low score of 1, misdetection possible!
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 27 14:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 27 14:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 27 14:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 27 14:43 : client: [0] closed
+Dec 27 14:53 : client: [1] opened from 127.0.0.1:60166
+Dec 27 20:35 : player: played "PL - Empire/10 Hans Zimmer - You Die Or I Do.mp3"
+Dec 28 05:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 05:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 05:12 : client: [0] opened from 127.0.0.1:40968
+Dec 28 05:12 : avahi: Service 'Music Player @ tyrant' successfully established.
+Dec 28 06:01 : player: played "PL - Empire/10 Hans Zimmer - You Die Or I Do.mp3"
+Dec 28 08:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 08:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 08:54 : client: [0] opened from 127.0.0.1:59150
+Dec 28 08:54 : avahi: Service 'Music Player @ tyrant' successfully established.
+Dec 28 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 10:42 : player: played "OST - Deadwood/Deadwood - Season 1 - 01 - Clell Watson - ''No Law...''.mp3"
+Dec 28 10:59 : player: played "PL - Grunt/05 We're In This Together.mp3"
+Dec 28 11:01 : player: played "Lorn/Ask the Dust/01 - Mercy.flac"
+Dec 28 11:09 : player: played "Lorn/Ask the Dust/03 - Weigh Me Down.flac"
+Dec 28 11:09 : player: played "Lorn/Ask the Dust/04 - This.flac"
+Dec 28 11:41 : player: played "Lorn/Ask the Dust/03 - Weigh Me Down.flac"
+Dec 28 11:42 : player: played "Lorn/Ask the Dust/04 - This.flac"
+Dec 28 11:47 : player: played "Lorn/Ask the Dust/05 - Diamond.flac"
+Dec 28 11:50 : player: played "Lorn/Ask the Dust/06 - Everything Is Violence.flac"
+Dec 28 11:57 : player: played "Lorn/Ask the Dust/07 - The Well.flac"
+Dec 28 12:00 : player: played "Lorn/Ask the Dust/08 - The Gun.flac"
+Dec 28 12:05 : player: played "Lorn/Ask the Dust/09 - Dead Dogs.flac"
+Dec 28 12:19 : player: played "Lorn/Ask the Dust/10 - Chhurch.flac"
+Dec 28 12:22 : player: played "Lorn/Ask the Dust/11 - I Better.flac"
+Dec 28 12:26 : player: played "Lorn/Ask the Dust/12 - Ghosst(s).flac"
+Dec 28 12:27 : player: played "Lorn/Self Confidence/1995.mp3"
+Dec 28 12:28 : player: played "Lorn/Self Confidence/2.2 Liters (320).mp3"
+Dec 28 12:29 : player: played "Lorn/Self Confidence/Abracadabra..mp3"
+Dec 28 12:31 : player: played "Lorn/Self Confidence/All I Had.mp3"
+Dec 28 12:35 : player: played "Lorn/Self Confidence/Another Mistake.mp3"
+Dec 28 12:37 : player: played "Lorn/Self Confidence/Arbiter I.mp3"
+Dec 28 12:41 : player: played "Lorn/Self Confidence/Barbara.mp3"
+Dec 28 12:43 : player: played "Lorn/Self Confidence/Beta Beat.mp3"
+Dec 28 12:44 : player: played "Lorn/Self Confidence/Check Your Size.mp3"
+Dec 28 12:45 : player: played "Lorn/Self Confidence/Cheese Grater (V1).mp3"
+Dec 28 12:46 : player: played "Lorn/Self Confidence/Cleanse.mp3"
+Dec 28 12:49 : player: played "Lorn/Self Confidence/Control 3.mp3"
+Dec 28 12:52 : player: played "Lorn/Self Confidence/Critical Failure.mp3"
+Dec 28 12:55 : player: played "Lorn/Self Confidence/Dresden (320).mp3"
+Dec 28 12:58 : player: played "Lorn/Self Confidence/Eat It.mp3"
+Dec 28 13:03 : player: played "Lorn/Self Confidence/Everything II.mp3"
+Dec 28 13:09 : player: played "Lorn/Self Confidence/Everything.aif"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/avi: Format avi detected only with low score of 1, misdetection possible!
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 4092.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 28 13:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 28 13:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 28 13:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 5119.
+Dec 28 13:14 : player: played "Lorn/Ask the Dust/02 - Ghosst.flac"
+Dec 28 13:18 : player: played "Lorn/Ask the Dust/03 - Weigh Me Down.flac"
+Dec 28 13:18 : player: played "Lorn/Ask the Dust/04 - This.flac"
+Dec 28 13:24 : player: played "Lorn/Ask the Dust/05 - Diamond.flac"
+Dec 28 13:29 : player: played "Lorn/Ask the Dust/06 - Everything Is Violence.flac"
+Dec 28 13:38 : player: played "Lorn/Ask the Dust/03 - Weigh Me Down.flac"
+Dec 28 13:39 : player: played "Lorn/Ask the Dust/04 - This.flac"
+Dec 28 13:44 : player: played "Lorn/Ask the Dust/05 - Diamond.flac"
+Dec 28 14:54 : client: [0] closed
+Dec 28 14:57 : client: [1] opened from 127.0.0.1:34436
+Dec 28 17:55 : player: played "PL - Empire/3.17 - Bane.mp3"
+Dec 29 07:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 07:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 07:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 07:52 : client: [0] opened from 127.0.0.1:44670
+Dec 29 07:52 : avahi: Service 'Music Player @ tyrant' successfully established.
+Dec 29 10:09 : player: played "PL - Empire/3.17 - Bane.mp3"
+Dec 29 10:15 : player: played "PL - Empire/3.18 - Selina Kyle.mp3"
+Dec 29 14:05 : player: played "PL - Empire/3.17 - Bane.mp3"
