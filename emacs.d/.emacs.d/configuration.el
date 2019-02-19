@@ -19,11 +19,6 @@
 (set-language-environment "UTF-8")
 (set-default-coding-systems 'utf-8)
 
-(add-to-list 'load-path
-              "~/.emacs.d/plugins/yasnippet")
-(require 'yasnippet)
-(yas-global-mode 1)
-
 (add-hook 'org-mode-hook #'org-bullets-mode)
 (add-hook 'org-mode-hook #'org-indent-mode)
 
@@ -96,19 +91,36 @@
 
 (global-aggressive-indent-mode 1)
 
-(require 'py-autopep8)
-(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
+(add-to-list 'load-path
+              "~/.emacs.d/plugins/yasnippet")
+(require 'yasnippet)
+(yas-global-mode 1)
+
+;(require 'py-autopep8)
+;(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
 
 ;(require 'flycheck)
 ;(global-flycheck-mode t)
 
-(require 'golden-ratio-scroll-screen)
-(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
-(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+;(require 'golden-ratio-scroll-screen)
+;(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
+;(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+
+(global-set-key (kbd "C-c j")  'windmove-left)
+(global-set-key (kbd "C-c l") 'windmove-right)
+(global-set-key (kbd "C-c i")    'windmove-up)
+(global-set-key (kbd "C-c k")  'windmove-down)
 
 (global-set-key (kbd "C-x C-b") 'eval-buffer)
 
 (global-set-key (kbd "C-j") 'emmet-expand-line)
+
+(global-set-key (kbd "M-n")  'switch-to-next-buffer)
+(global-set-key (kbd "M-p")  'switch-to-prev-buffer)
+
+(global-set-key (kbd "C-;") 'newline)
+
+(global-set-key (kbd "M-o") 'other-window)
 
 (require 'helm-config)
 ;(helm-mode 1)

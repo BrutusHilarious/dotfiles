@@ -3,6 +3,9 @@
 # key: <head
 # --
 #+TITLE: ${1:t}
-#+AUTHOR: Brutus Hilarious
+#+AUTHOR: Tiberius Kshatrius Brutus
+#+DATE: (org-time-stamp )
 #+EMAIL: nil
-#+OPTIONS: toc:${2:t||nil} num:${3:t||nil} 
+#+OPTIONS: toc:${2:t||nil} num:${3:t||nil}
+
+[2019-01-05 Sat]

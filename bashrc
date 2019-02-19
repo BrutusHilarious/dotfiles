@@ -20,31 +20,37 @@ HISTFILESIZE=10000
 ###
 
 ### FCEDIT ###
-FCEDIT="emacs"
+FCEDIT="emacs -nw --color"
+###
 
 ### PATH ###
-PATH=$PATH\:/home/evan/_code/scripts ; export PATH
+PATH=$PATH\:/home/evan/code/scripts ; export PATH
 ###
 
 ### Locale Setting for 'ls' Sorting ###
 export LC_COLLATE=C
 ###
 
+#alias emacs="emacs -nw"
+#export VISUAL=emacs
+#export EDITOR='emacs -nw'
+#export NNN_USE_EDITOR=1
+
+
 ### Aliases ###
+alias n="nnn"
 alias ls="LC_ALL=C ls --color=auto -NX"
 alias la="ls -A"
 alias mpv="c;mpv"
 alias feh='feh -ZF -B "#000" --no-fehbg'
 alias ff="~/.firefox/firefox"
+alias dic="clear;sdcv"
 ###
 
 ### Carbon Navigation ###
 alias dl="clear;cd ~/downloads"
-alias org="clear;cd ~/_orgs"
-alias ex="clear;cd ~/_nextcloud"
+alias org="clear;cd ~/org"
 alias ..="cd .."
-
-
 
 ### Music Aliases ###
 alias mp="clear; mpc pause"
@@ -79,10 +85,7 @@ alias python="python3"
 stty -ixon
 
 ### Import Pywal Colors to Bash ###
-#source "$HOME/.cache/wal/colors.sh"
 . "${HOME}/.cache/wal/colors.sh"
-
-# i don't think this is useful.
 ###
 
 ### Example: Content goes betwixt elipses ###
@@ -133,4 +136,16 @@ man() {
 }
 ###
 
-alias config='/usr/bin/git --git-dir=/home/evan/.cfg/ --work-tree=/home/evan'
+#alias config='/usr/bin/git --git-dir=/home/evan/.cfg/ --work-tree=/home/evan'
+
+### nnn config
+export NNN_BMS='o:~/org;b:~/books;d:~/downloads;m:~/music;w:~/watching;v:~/videos'
+export READER="zathura"
+#export NNN_USE_EDITOR=1
+export EDITOR=emacsclient
+#export EDITOR="emacs -nw -Q --color"
+#export VISUAL="emacs -nw -Q --color"
+#export EDITOR="emacs -nw -Q --color"
+
+
+###

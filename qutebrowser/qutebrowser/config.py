@@ -1,5 +1,6 @@
-## Qutebrowser
+# Qutebrowser
 
+import subprocess
 config.load_autoconfig()
 
 c.downloads.location.directory = '/home/evan/downloads'
@@ -21,102 +22,102 @@ c.url.searchengines = {
 
 ### Zoom Level ###
 
-c.zoom.default = '150%'
+c.zoom.default = '175%'
 
 ### Fonts ###
 
-## Font used in the completion categories.
+# Font used in the completion categories.
 ## Type: Font
 c.fonts.completion.category = 'bold 20pt monospace'
 
-## Font used in the completion widget.
+# Font used in the completion widget.
 ## Type: Font
 c.fonts.completion.entry = '20pt monospace'
 
-## Font used for the debugging console.
+# Font used for the debugging console.
 ## Type: QtFont
 c.fonts.debug_console = '20pt monospace'
 
-## Font used for the downloadbar.
+# Font used for the downloadbar.
 ## Type: Font
 c.fonts.downloads = '20pt monospace'
 
-## Font used for the hints.
+# Font used for the hints.
 ## Type: Font
 c.fonts.hints = 'bold 30pt monospace'
 
-## Font used in the keyhint widget.
+# Font used in the keyhint widget.
 ## Type: Font
 c.fonts.keyhint = '20pt monospace'
 
-## Font used for error messages.
+# Font used for error messages.
 ## Type: Font
 c.fonts.messages.error = '20pt monospace'
 
-## Font used for info messages.
+# Font used for info messages.
 ## Type: Font
 c.fonts.messages.info = '20pt monospace'
 
-## Font used for warning messages.
+# Font used for warning messages.
 ## Type: Font
 c.fonts.messages.warning = '20pt monospace'
 
-## Default monospace fonts. Whenever "monospace" is used in a font
-## setting, it's replaced with the fonts listed here.
+# Default monospace fonts. Whenever "monospace" is used in a font
+# setting, it's replaced with the fonts listed here.
 ## Type: Font
 c.fonts.monospace = '"xos4 Terminus", Terminus, Monospace, "DejaVu Sans Mono", Monaco, "Bitstream Vera Sans Mono", "Andale Mono", "Courier New", Courier, "Liberation Mono", monospace, Fixed, Consolas, Terminal'
 
-## Font used for prompts.
+# Font used for prompts.
 ## Type: Font
 c.fonts.prompts = '20pt sans-serif'
 
-## Font used in the statusbar.
+# Font used in the statusbar.
 ## Type: Font
 c.fonts.statusbar = '20pt monospace'
 
-## Font used in the tab bar.
+# Font used in the tab bar.
 ## Type: QtFont
 c.fonts.tabs = '20pt monospace'
 
-## Font family for cursive fonts.
+# Font family for cursive fonts.
 ## Type: FontFamily
 c.fonts.web.family.cursive = ''
 
-## Font family for fantasy fonts.
+# Font family for fantasy fonts.
 ## Type: FontFamily
 c.fonts.web.family.fantasy = ''
 
-## Font family for fixed fonts.
+# Font family for fixed fonts.
 ## Type: FontFamily
 c.fonts.web.family.fixed = ''
 
-## Font family for sans-serif fonts.
+# Font family for sans-serif fonts.
 ## Type: FontFamily
 c.fonts.web.family.sans_serif = ''
 
-## Font family for serif fonts.
+# Font family for serif fonts.
 ## Type: FontFamily
 c.fonts.web.family.serif = ''
 
-## Font family for standard fonts.
+# Font family for standard fonts.
 ## Type: FontFamily
 c.fonts.web.family.standard = ''
 
-## The default font size for regular text.
+# The default font size for regular text.
 ## Type: Int
 c.fonts.web.size.default = 18
 
-## The default font size for fixed-pitch text.
+# The default font size for fixed-pitch text.
 ## Type: Int
 c.fonts.web.size.default_fixed = 18
 
-## The hard minimum font size.
+# The hard minimum font size.
 ## Type: Int
 c.fonts.web.size.minimum = 18
 
-## The minimum logical font size that is applied when zooming out.
+# The minimum logical font size that is applied when zooming out.
 ## Type: Int
-#c.fonts.web.size.minimum_logical = 
+# c.fonts.web.size.minimum_logical =
 
 ### end Fonts ###
 
@@ -125,15 +126,17 @@ c.fonts.web.size.minimum = 18
 
 ### Custom Colors ###
 
-import subprocess
+
 def read_xresources(prefix):
     props = {}
     x = subprocess.run(['xrdb', '-query'], stdout=subprocess.PIPE)
     lines = x.stdout.decode().split('\n')
-    for line in filter(lambda l : l.startswith(prefix), lines):
+    for line in filter(lambda l: l.startswith(prefix), lines):
         prop, _, value = line.partition(':\t')
         props[prop] = value
     return props
+
+
 xresources = read_xresources('*')
 
 ## Hints ##
@@ -170,12 +173,12 @@ c.colors.completion.match.fg = xresources['*.color6']
 #c.colors.downloads.system.fg = ''
 
 #c.colors.completion.item.selected.bg = xresources['*.color6']
-c.colors.completion.item.selected.bg = '#c0392b'  
+c.colors.completion.item.selected.bg = '#c0392b'
 c.colors.completion.item.selected.fg = '#FFF'
 c.colors.completion.item.selected.border.bottom = '#000'
 c.colors.completion.item.selected.border.top = '#000'
 
-#c.colors.completion.match.fg = '#000'
+# c.colors.completion.match.fg = '#000'
 
 #c.colors.keyhint.suffix.fg = ''
 
@@ -198,10 +201,10 @@ c.colors.messages.warning.bg = '#c0392b'
 #c.colors.prompts.selected.bg = ''
 
 ## Colors: Statusbar ##
-#c.colors.statusbar.caret.bg =
-#c.colors.statusbar.caret.fg =
-#c.colors.statusbar.caret.selection.bg =
-#c.colors.statusbar.caret.selection.fg =
+# c.colors.statusbar.caret.bg =
+# c.colors.statusbar.caret.fg =
+# c.colors.statusbar.caret.selection.bg =
+# c.colors.statusbar.caret.selection.fg =
 
 c.colors.statusbar.command.bg = xresources['*.color10']
 #c.colors.statusbar.command.fg = ''
@@ -223,10 +226,10 @@ c.colors.statusbar.normal.bg = xresources['*.color6']
 
 #c.colors.statusbar.progress.bg = ''
 
-##c.colors.statusbar.url.fg = '#FFF'
+# c.colors.statusbar.url.fg = '#FFF'
 #c.colors.statusbar.url.hover.fg = ''
 #c.colors.statusbar.url.success.http.fg = ''
-#c.colors.statusbar.url.success.https.fg = '#27AE60'
+# c.colors.statusbar.url.success.https.fg = '#27AE60'
 #c.colors.statusbar.url.warn.fg = ''
 ##
 
@@ -246,9 +249,9 @@ c.colors.tabs.selected.odd.bg = xresources['*.color6']
 #c.colors.tabs.selected.odd.fg = ''
 ##
 
-#c.colors.webpage.bg = '#000'
+# c.colors.webpage.bg = '#000'
 
-### Misc Settings
+# Misc Settings
 c.content.frame_flattening = True
 c.content.geolocation = False
 c.messages.timeout = 10000
@@ -267,10 +270,10 @@ config.bind('<Ctrl-n>', 'scroll down')
 
 # Scroll Down One Page
 config.unbind('<Ctrl-v>', mode='normal')
-config.bind('<Ctrl-v>', 'scroll-page 0 1')
+config.bind('<Ctrl-v>', 'scroll-page 0 0.65')
 
 # Scroll Up One Page
-config.bind('<Alt-v>', 'scroll-page 0 -1')
+config.bind('<Alt-v>', 'scroll-page 0 -0.65')
 
 # Enter Command
 config.unbind('<:>', mode='normal')
@@ -335,7 +338,7 @@ config.bind('<Ctrl-f>', 'set-cmd-text -s :open', mode='normal')
 #config.unbind('yy', mode='normal')
 #config.bind('Alt-w', 'yank')
 
-## Leave Mode: ESC
+# Leave Mode: ESC
 #config.unbind('Escape', mode='insert')
 #config.unbind('Escape', mode='normal')
 config.bind('<Ctrl-g>', 'leave-mode', mode='insert')
@@ -362,7 +365,7 @@ config.bind('<Ctrl-s>', 'set-cmd-text -s :search ', mode='normal')
 
 # Passthrough Mode
 
-## Editor Mode
+# Editor Mode
 #c.editor.command = ['emacs', '-Q -nw --color', '{file}']
 #c.editor.command = ['urxvt', 'emacs', '{file}']
 
@@ -443,8 +446,7 @@ config.bind('<Ctrl-e>', 'move-to-end-of-line', mode='caret')
 #config.bind('<Ctrl-n>', 'down-line', mode='caret')
 
 #config.unbind('y', 'yank', mode='caret')
-#config.bind('<Alt-w>, yank, mode='caret')
-
+# config.bind('<Alt-w>, yank, mode='caret')
 
 
 ###

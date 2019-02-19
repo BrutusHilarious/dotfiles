@@ -114,8 +114,13 @@ bindsym $mod+Ctrl+d exec qutebrowser
 ##
 
 ## Zathura
-bindsym $mod+Ctrl+q exec zathura
+bindsym $mod+Ctrl+f exec zathura
 ##
+
+### Mouse Move ###
+bindsym $mod+Ctrl+q exec xdotool mousemove 0 0
+###
+
 
 ## Office Suite (Libre Office?)
 ##
@@ -134,7 +139,7 @@ bindsym $mod+Ctrl+q exec zathura
 ## Instantiate "dropdown" Scratchpad
 for_window [title="dropdown"] floating enable
 for_window [instance="dropdown"] move scratchpad
-exec_always --no-startup-id $HOME/_code/scripts/+tmux_dropdown
+exec_always --no-startup-id $HOME/code/scripts/tmux-scratchpad.script
 exec_always --no-startup-id "urxvt -name dropdown -e tmux attach"
 
 #exec_always "urxvt -e wal -i /home/evan/pictures/wallpapers/wallpaper-blue-wave.jpg"
@@ -203,8 +208,8 @@ exec_always --no-startup-id compton -b
 exec --no-startup-id ff-theme-util
 exec --no-startup-id fix_xcursor
 exec --no-startup-id xbindkeys -p
-exec --no-startup-id unclutter -idle 1.0 -root
-exec --no-startup-id $HOME/_code/scripts/+polybar
+#exec --no-startup-id unclutter -idle 1.0 -root
+exec --no-startup-id $HOME/code/scripts/polybar.script
 
 exec --no-startup-id xautolock -time 10 -locker lock.sh
 

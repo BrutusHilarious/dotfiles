@@ -2,28 +2,47 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/evan/downloads/" . "nnn-master/")
+ ("/home/evan/tabletop/" . "zweihander/")
+ ("/home/evan/projects/" . "krohne-date-picker/")
  ("/home/evan/_code/scratch-spellbook/" . "css/")
  ("/home/evan/_code/project-py-spellbook/" . "__pycache__/")
  ("/home/evan/_nextcloud/tabletop/dnd5e/" . "char-moon-moon/")
- ("/etc/" . "NetworkManager/")
+ ("/etc/" . "i3/")
  ("/home/evan/.emacs.d/snippets/" . "org-mode/")
  ("/home/evan/_code/" . "scripts/")
- ("/home/evan/.config/" . "polybar/")
+ ("/home/evan/.config/" . "autostart/")
  ("/home/evan/_nextcloud/tabletop/campaigns/" . "tinker-thunder/")
  ("/home/evan/_nextcloud/tabletop/" . "campaigns/")
  ("/home/evan/_nextcloud/" . "tabletop/")
  ("/home/evan/.emacs.d/" . "themes/")
- ("/home/evan/" . "_org/")
+ ("/home/evan/" . "tabletop/")
  ("/home/" . "evan/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/evan/org/"
+ "/home/evan/projects/krohne-date-picker/"
+ "/home/evan/.config/"
+ "/home/evan/.config/autostart/"
+ "/opt/pia/"
+ "/home/evan/.emacs.d/"
+ "/home/evan/downloads/nnn-master/src/"
  "/home/evan/"
  "/home/evan/.i3/"
- "/home/evan/_org/"
- "/home/evan/.config/"
+ "/home/evan/.config/zathura/"
+ "/home/evan/tabletop/zweihander/"
+ "/home/evan/books/"
+ "/home/evan/.config/qutebrowser/"
+ "/home/evan/.emacs.d/snippets/org-mode/"
  "/home/evan/.config/ranger/"
+ "/home/evan/projects/scratch-spellbook/"
+ "/home/evan/projects/project-spellbook/"
+ "/home/evan/projects/project-basic-ruleset/"
+ "/home/evan/_org/"
+ "/etc/i3/"
+ "/home/evan/.urxvt/"
  "/etc/xdg/"
  "/home/evan/.emacs.d/themes/"
  "/home/evan/_code/scripts/"
@@ -33,20 +52,16 @@
  "_org/"
  "/home/evan/_code/scratch-spellbook/css/"
  "/home/evan/_code/scratch-spellbook/"
- "/home/evan/.emacs.d/"
  "/home/evan/_code/project-py-spellbook/"
  "/home/evan/.emacs.d/emacs-for-python/"
- "/home/evan/.emacs.d/snippets/org-mode/"
  "/home/evan/_code/scratch-bullets-wiki/"
  "/home/evan/_code/project-basic-ruleset/"
  "/home/evan/_code/project-password/"
- "/home/evan/.config/qutebrowser/"
  "/home/evan/_nextcloud/tabletop/dnd5e/char-moon-moon/"
  "/home/evan/_code/project-spellbook/"
  "/home/evan/_code/project-spellbook/css/"
  "/home/evan/templates/"
  "/home/evan/.config/polybar/"
- "/home/evan/.config/autostart/"
  "/etc/NetworkManager/"
  "/home/evan/downloads/"
  "/home/evan/_code/project-homepage/"
@@ -54,39 +69,77 @@
 
 ;; ----- ido-work-file-list -----
 (
- ".bashrc"
- "config"
- "todos.org"
- "carbon.org"
- "compton.conf"
- "rc.conf"
- "xresources-theme.el"
- "agenda.org"
  "logins.org"
- "dotbackup"
+ "index.html"
+ "picker.js"
+ "compton.conf"
+ "moldbug-open-letter.org"
+ "books.org"
+ "nrx.org"
+ "peerless.org"
+ "pia_manager.desktop"
+ "run.sh"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/evan/" (23591 41212 818885 714000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" ".gtk-bookmarks" ".xinitrc" ".elinks/" "./" ".firefox/" ".gnupg/" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".scribus/" "Mail/" ".inputrc" ".stardict/" ".thumbnails/" "music/" ".tmux.conf" ".dmrc" "templates/" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".inxi_info" ".bash_profile" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" "_code/" ".dir_colors" ".running_kernel" ".config/" "downloads/" ".python_history-06708.tmp" "usb/" "_org/" ".Xauthority" ".bash_history" ".wget-hsts" ".gtkrc-2.0" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" "_nextcloud/" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
+ ("/home/evan/" (23659 5196 228791 573000) ".calcurse/" ".xsession-errors.old" ".Xclients" ".vim/" ".lesshst" ".local/" ".emacs.d/" ".cache/" "../" "code/" "documents/" ".gtk-bookmarks" ".xinitrc" ".elinks/" "./" ".firefox/" ".bashrc~" ".wine/" ".gnupg/" ".pia_manager/" ".vimrc" ".w3m/" ".ncmpcpp/" ".audacity-data/" ".openshot_qt/" ".scribus/" ".inputrc" ".stardict/" ".thumbnails/" "music/" "languages/" ".tmux.conf" ".dmrc" ".urxvt/" ".gimp-2.8/" ".lyrics/" ".python_history" "videos/" ".pki/" ".gog/" ".inxi_info" "books/" ".bash_profile" "fitness/" "politics/" ".xsession-errors" ".i3/" ".icons/" ".hplip/" ".cert/" "pictures/" "mail/" ".dir_colors" ".running_kernel" ".config/" "org/" "downloads/" ".python_history-06708.tmp" "watching/" ".Xauthority" ".bash_history" "catholicism/" "tabletop/" "projects/" ".wget-hsts" ".gtkrc-2.0" ".themes/" ".moonchild productions/" ".sdcv_history" ".pia.sh" ".mozilla/" ".fehbg" ".Xmodmap" ".com.privateinternetaccess.vpn/" ".Xresources" ".xbindkeysrc" ".dmenurc" ".gitignore" ".gitconfig" ".viminfo" ".profile" ".bashrc")
 
- ("/home/evan/.i3/" (23590 43928 410622 513000) "../" "./" "config")
+ ("/home/evan/org/" (23658 52966 528734 897000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "mindset.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "lang-latin-pronunciation.org" "workout.org" "lang-latin-phrases.org" "quotes.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "todos.org" "book-python-learning.org" "finances.org" "#xfitness.org#" "todo-coffee-notes.org" "book-your-memory.org" "carbon.org" "phb.org" "order.org" "xdisicpline.org" "notes-cmus.org" "empire.org" "capture.org" "journal.org" "ged.org" "book-foundation-training.org" "book-mastery.org" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "schedule.org" "writing-star-wars.org" "motivation.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "moldbug-open-letter.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "ebay.org" "test.org" "zweihander.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "peerless.org" "lang-high-valyrian.org" "book-python-automate.org" "lang-latin-general.org" "twitter.org" "tt-alternate-rules.org" "lang-latin-wheelock.org" "inspiration.org")
 
- ("/home/evan/_org/" (23590 43247 60635 447000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "mindset.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "todos.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" "carbon.org" "phb.org" "order.org" ".#carbon.org" "xdisicpline.org" "notes-cmus.org" "empire.org" "capture.org" "journal.org" "lang-latin.org" "book-foundation-training.org" "#carbon.org#" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "ebay.org" "test.org" "zweihander.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
+ ("/home/evan/projects/krohne-date-picker/" (23565 11025 563606 419000) "../" "index.html" "./" "picker.js")
 
- ("/home/evan/downloads/" (23590 22608 564360 560000) "lecture-ttc-formal-logic/" "lecture-ttc-ancient-greece/" "View of Jupiter from NASA's Juno spacecraft.mkv" "television/" "epubs/" "BMV_Documentation_List.pdf" "meme-ya-novel.jpg" "books-kindle-mobi/" "SSPUSADV.pdf" "video-python-kvs/" "films/" "The Orville Season 1 Complete 720p HDTV x264 [i_c]/" "pictures/" "Golden Eagle killing wolves..mkv" "Win10_English_x64.iso" "The Revenant _ 'A World Unseen' Documentary _ 20th Century FOX.mkv" "latin_mass_101.pdf" "Crypto101.pdf" "Uechi-ryu hand conditioning 2.webm" "Simple Bank Statement 20181201054906.pdf" "2018-12-25-082145_2560x1440_scrot.png" "../" "./")
+ ("/home/evan/projects/" (23594 1073 151011 989000) "../" "./" "personal-homepage/" "krohne-date-picker/" "archive/")
 
- ("/home/evan/.emacs.d/" (23590 34894 264127 341000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "url/" "py-autopep8.el" "network-security.data" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org")
+ ("/home/evan/.config/" (23648 43864 354072 843000) "nitrogen/" "Mousepad/" "kritadisplayrc" "Trolltech.conf" "fish/" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "inkscape/" "./" "zathura/" "Kvantum/" "sublime-text-3/" "transmission/" "netsurf/" "youtube-dl/" "volumeicon/" "cmus/" "Mullvad VPN/" "kitty/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "okularrc" "oomox/" "ranger/" "wal/" "PrivateInternetAccess/" "viewnior/" "libfm/" "epdfview/" "pikaur.conf" "libreoffice/" "mpd/" "QtProject.conf" "chromium/" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "vlc/" "menus/" "xfce4/" "neofetch/" "bookworm/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/" "Dharkael/" "google-chrome/" "calibre/" "scribus/" "VeraCrypt/")
 
- ("/home/evan/.config/" (23590 36265 120767 985000) "nitrogen/" "Mousepad/" "kritadisplayrc" "Trolltech.conf" "i3-scrot.conf" "autostart/" "htop/" "../" "hexchat/" "inkscape/" "./" "zathura/" "Kvantum/" "sublime-text-3/" "transmission/" "netsurf/" "youtube-dl/" "volumeicon/" "cmus/" "Mullvad VPN/" "user-dirs.locale" "dconf/" "darktable/" "kritarc" "compton.conf" "xarchiver/" "qt5ct/" "procps/" "mcomix/" "qutebrowser/" "ranger/" "wal/" "PrivateInternetAccess/" "viewnior/" "libfm/" "epdfview/" "libreoffice/" "mpd/" "QtProject.conf" "chromium/" "user-dirs.dirs" "GIMP/" "wall.png" "mpv/" "gtk-3.0/" "morc_menu/" "manjaro/" "mimeapps.list" "polybar/" "gconf/" "vlc/" "menus/" "xfce4/" "neofetch/" "pcmanfm/" "gtk-2.0/" "clipit/" "qupzilla/" "calibre/" "scribus/")
+ ("/home/evan/downloads/" (23645 60580 664318 990000) "mac-boots-right.jpg" "f1099k.pdf" "dickCheney/" "marathon-watch-front.JPG" "SanctionEbook_V3.pdf" "label_25012242018.pdf" "mac-boots-both.jpg" "syven - how fare the gods.m4a" "Chesterton G.K/" "DSCF1239.JPG" "DSCF1240.JPG" "pg130.epub" "DSCF1241.JPG" "130.zip" "The Overstory by Richard Powers EPUB/" "DSCF1251.JPG" "DSCF1237.JPG" "DSCF1238.JPG" "marathon-watch-back.JPG" "mac-boots-left.jpg" "SanctionEbook V3 - Sydney Smith.epub" "Westworld - S02E04 - 'Death is always true.“.mkv" "15 Minute Beginner Flexibility Routine! (FOLLOW ALONG).mkv" "Westworld_Theme.pdf" "UC0000437_sik_high_res.pdf" "SanctionEbook V3 - Sydney Smith.pdf" "A Gentle Introduction to Mencius Moldbug [update].m4a" "🎧 Leather hard creak squeaky chair SOUND EFFECT.m4a" "DSCF1252.JPG" "../" "./")
 
- ("/home/evan/.config/ranger/" (23456 49718 17018 136000) "../" "./" "devicons.py~" "__pycache__/" "plugins/" "scope.sh" "rc.conf")
+ ("/home/evan/.emacs.d/" (23645 25925 612714 333000) "auto-save-list/" "snippets/" ".cache/" "../" "smex-items" "./" "url/" "py-autopep8.el" "network-security.data" "#ido.last#" "elpa/" "configuration.org~" "bookmarks" "configuration.el" "eshell/" "plugins/" "ido.last" "themes/" "init.el" "configuration.org")
 
- ("/etc/xdg/" (23565 52599 9483 898000) "kglobalaccel.categories" "sonnet.categories" "kiconthemes.categories" "autostart/" "kcrash.categories" "../" "kitemmodels.categories" "kcoreaddons.categories" "kwallet.categories" "kauth.categories" "systemd/" "./" "attica.categories" "kxmlgui.categories" "kconfigwidgets.categories" "accept-languages.codes" "kservice.categories" "kjobwidgets.categories" "purpose.categories" "solid.categories" "ui/" "kbookmarks.categories" "kshorturifilterrc" "kwindowsystem.categories" "compton.conf" "user-dirs.defaults" "kdbusaddons.categories" "karchive.categories" "libfm/" "compton.conf.example" "dfc/" "knotifications.categories" "okular.categories" "kio.categories" "user-dirs.conf" "kcodecs.categories" "menus/" "kactivities.categories" "xfce4/" "pcmanfm/" "kpackage.categories")
+ ("/etc/NetworkManager/" (23639 58662 824536 951000) "dnsmasq-shared.d/" "NetworkManager.conf" "../" "./" "system-connections/" "conf.d/" "dispatcher.d/" "dnsmasq.d/" "VPN/")
 
- ("/etc/" (23590 24602 907656 35000) "iptables/" "mkinitcpio.d/" "iproute2/" "securetty" "cron.daily/" "udev/" "xml/" "bash.bash_logout" "modules-load.d/" "Muttrc" "services" "audit/" "i3/" "udisks2/" "mpd.conf" "vdpau_wrapper.cfg" "login.defs" "locale.conf" "Muttrc.gpg.dist" "openswap.conf" "polkit-1/" "cups/" "anacrontab" "timezone" "ifplugd/" "mtab" "topdefaultrc" "openvpn/" "nfsmount.conf" "crypttab" "libnl/" "ts.conf" "rpc" "lightdm/" "logrotate.conf" "mail.rc" "ndctl/" "UPower/" "ld.so.cache" "systemd/" "resolv.conf.pacnew" "mke2fs.conf" "arch-release" "cgrules.conf" "manjaro-firefox-kde.ini" "opt/" "os-release" "motd" "pacman.conf.pacnew" "gshadow-" "man_db.conf" "gssproxy/" "sudoers.d/" "request-key.conf" "host.conf" "cgconfig.conf" "exports.d/" "initcpio/" "resolv.conf.bak" "sensors3.conf" "rc_maps.cfg" "manjaro-thunderbird.ini" "rsyncd.conf" "foomatic/" "hosts" ".updated" "php/" "shadow-" "depmod.d/" "krb5.conf" "vpnc/" "adjtime" "dnsmasq.conf" "passwd-" "nscd.conf" "security/" "logrotate.d/" "yaourtrc" "manjaro-firefox.ini" "lsb-release" "issue" "shells.pacnew" "nanorc" "profile.d/" "machine-id" "fonts/" "gimp/" "request-key.d/" "dbus-1/" "pacman-mirrors.conf" "xattr.conf" "cron.monthly/" "X11/" "avahi/" "slsh.rc" "pcmcia/" ".pwd.lock" "nginx/" "cpufreq-bench.conf" "resolv.conf" "group" "zsh/" "ppp/" "bluetooth/" "pacman.d/" "conf.d/" "lvm/" "cron.weekly/" "fstab" "pacman-mirrors.conf.pacnew" "environment" "geoclue/" "pam.d/" "wpa_supplicant/" "audisp/" "updatedb.conf" "sensors.d/" "netctl/" "shadow" "resolvconf.conf" "libpaper.d/" "Muttrc.dist" "NetworkManager/" "signond.conf" "gshadow.pacnew" "passwd.pacnew" "lightdm.conf.save" "ca-certificates/" "alternatives/" "group-" "libao.conf" "ImageMagick-6/" "manjaro-release" "fprintd.conf" "exports" "tmpfiles.d/" "group.pacnew" "hostname" "ssl/" "pacman.conf" "fuse.conf" "pulse/" "vconsole.conf" "netconfig" "mime.types" "libaudit.conf" "xinetd.d/" "hosts.pacnew" "ld.so.conf" "rhashrc" "i3status.conf" "sysctl.d/" "tor/" "ntp.conf" "dhcpcd.conf" "ufw/" "nfs.conf" "libblockdev/" "cron.hourly/" "skel/" "protocols" "libreoffice/" "gufw/" "default/" "healthd.conf" "cgsnapshot_blacklist.conf" "pamac.conf" "xdg/" "crypttab.pacnew" "ethertypes" "bash.bashrc" "mpv/" "gtk-3.0/" "gshadow" "kernel/" "shells" "alsa/" "cupshelpers/" "shadow.pacnew" "ssh/" "drirc" "mailcap" "modprobe.d/" "idmapd.conf" "gss/" "mdadm.conf" "rc_keymaps/" "manjaro-firefox-developer-edition.ini" "printcap" "cron.deny" "binfmt.d/" "cifs-utils/" "apparmor.d/" "trusted-key.key" "hp/" "passwd" "openldap/" "locale.gen.pacnew" "gai.conf" "gconf/" "profile" "vimrc" "sane.d/" "bindresvport.blacklist" "ld.so.conf.d/" "makepkg.conf" "dpkg/" "gtk-2.0/" "grub.d/" "ImageMagick-7/" "syslog-ng/" "inputrc" "locale.gen" "fstab.pacnew" "localtime" "mkinitcpio.conf" "cron.d/" "wgetrc" "papersize" "nsswitch.conf" "sudoers" "pkcs11/" "acpi/" "../" "./")
+ ("/etc/xdg/" (23639 58663 457870 272000) "kglobalaccel.categories" "sonnet.categories" "kiconthemes.categories" "autostart/" "kcrash.categories" "../" "kitemmodels.categories" "kcoreaddons.categories" "kwallet.categories" "kauth.categories" "systemd/" "./" "attica.categories" "kxmlgui.categories" "kconfigwidgets.categories" "accept-languages.codes" "kservice.categories" "kjobwidgets.categories" "purpose.categories" "solid.categories" "ui/" "kbookmarks.categories" "kshorturifilterrc" "kwindowsystem.categories" "compton.conf" "user-dirs.defaults" "kdbusaddons.categories" "karchive.categories" "libfm/" "compton.conf.example" "dfc/" "knotifications.categories" "kio.categories" "user-dirs.conf" "kcodecs.categories" "menus/" "kactivities.categories" "xfce4/" "pcmanfm/" "kpackage.categories")
 
- ("/home/evan/.config/qutebrowser/" (23586 46869 519914 613000) "config.py" "../" "./" "qsettings/" "backup-quickmarks" "autoconfig.yml" "bookmarks/" "config.py~" "quickmarks")
+ ("/home/evan/books/" (23638 9656 630174 678000) "Applied Economics - Thomas Sowell.pdf" "code-emacs-gnu-reference-card.pdf" "Nietzsche, Friedrich - Thus Spoke Zarathustra [trans. Kaufmann] (Penguin, 1978).pdf" "essay-bell-evola-concept-of-race.pdf" "code-python-ethical-hacking.pdf" "book-taleb-black-swan.pdf" "aom-30-days.pdf" "study-wim-hof.pdf" "book-ged-test-dummies.pdf" "book-lang-latin-wheelock.pdf" "code-git-bottom-up.pdf" "Nietzsche, Friedrich - Philosophy in the Tragic Age of the Greeks (Regnery, 1962).pdf" "textbook-algebra-ck12-volume-1.pdf" "putnam-bowling-alone.pdf" "aom-competition.pdf" "imperial-infatrymans-uplifting-primer.pdf" "code-emacs-gnu-manual.pdf" "aom-sandwiches.pdf" "art-design-furniture.pdf" "novel-stephenson-diamond-age.pdf" "Nietzsche, Friedrich - Gay Science, The [trans. Nauckhoff] (Cambridge, 2001).pdf" "html-and-css.pdf" "Economic Facts and Fallacies - Thomas Sowell.pdf" "evola-1934-revolt-against-the-modern-world.pdf" "military-dod-medical-standards.pdf" "code-awk-programming.pdf" "book-starting-strength-2nd.pdf" "study-learning-approximate-data-structures.pdf" "book-locke-john-collection.pdf" "epubs/" "book-fisher-true-history-american.pdf" "aom-charismatic.pdf" "book-evola-revolt.pdf" "book-dawson-glory-of-the-trenches.pdf" "book-mind-for-numbers.pdf" "code-python-deep-learning.pdf" "code-git-progit.pdf" "code-python-hard-way.pdf" "essay-omeara-evolas-anti-semitism.pdf" "nonfiction/" "evola-1971-american-civilization.pdf" "book-james-machiavellians.pdf" "guide-naval-special-warfare.pdf" "Nietzsche, Friedrich - On the Advantage and Disadvantage of History for Life (Hackett, 1980).pdf" "evola-1974-meditation-on-the-peaks.pdf" "paper-tjmf-research-jefferson-hemmings.pdf" "Basic Economics - Thomas Sowell.pdf" "crypto-intensive-intro-cs127.pdf" "Nietzsche, Friedrich - Writings from the Late Notebooks (Cambridge, 2003).pdf" "textbook-algebra-ck12-volume-2.pdf" "unqualified-reservations-gentle-introduction.pdf" "code-python-violent.pdf" "Nietzsche, Friedrich - Anti-Christ, Ecce Homo, Twilight of Idols & Other Writings (Cambridge, 2005).pdf" "evola-1929-introduction-to-magic.pdf" "Nietzsche, Friedrich - Will to Power (Random, 1967).pdf" "code-passionate-programmer.pdf" "book-greene-mastery.pdf" "book-evola-doctrine-awakening.pdf" "whitepaper-satoshi-bitcoin.pdf" "textbook-chemistry-ck12.pdf" "evola-1937-mystery-of-the-grail.pdf" "Nietzsche, Friedrich - On the Genealogy of Morals [trans. Johnston] (Richer Resources, 2009).pdf" "art-draw-boss.pdf" "art-witcher-3-wild-hunt.pdf" "mason-james-siege.pdf" "book-psycho-cybernetics.pdf" "fiction/" "textbook-geometry-ck12-volume-2.pdf" "Nietzsche, Friedrich - Nietzsche Reader, The [eds. Pearson & Large] (Blackwell, 2006).pdf" "textbook-physics-ck12-21st-century.pdf" "code-mythical-man-month.pdf" "evola-1961-ride-the-tiger.pdf" "whitepaper-ethereum.pdf" "Nietzsche, Friedrich - Gay Science, The [trans. Kaufmann] (Vintage, 1974).pdf" "book-schell-battle-leadership.pdf" "book-waitzkin-art-of-learning.pdf" "textbook-trigonometry-ck12.pdf" "code-tmux-practical.pdf" "study-nutrition-red-meat-meta.pdf" "evola-1953-men-among-the-ruins.pdf" "book-brain-on-porn.pdf" "book-kaczynski-industrial-consequences.pdf" "novel-pressfield-gates-of-fire.pdf" "warhammer-40k-bible.pdf" "Nietzsche, Friedrich - On the Genealogy of Morality [trans. Diethe] (Cambridge, 2006).pdf" "Nietzsche, Friedrich - Beyond Good and Evil [trans. Horstmann & Norman] (Cambridge UP, 2002).pdf" "Affirmative Action Around the World - Thomas Sowell.pdf" "code-python-everybody-4th.pdf" "code-python-beginning-3rd.pdf" "study-left-right-brain-resting-state-mri.pdf" "code-python-automate.pdf" "book-scott-habit-stacking.pdf" "evola-1943-doctrine-of-awakening.pdf" "book-morenas-dominate.pdf" "memo-google-damore.pdf" "code-haskell-physics.pdf" "code-javascript-eloquent-2nd.pdf" "evola-1969-metaphysics-of-sex.pdf" "oclc2218385.pdf" "mishima-1968-sun-and-steel.pdf" "Nietzsche, Friedrich - Beyond Good and Evil [trans. Kaufmann] (Vintage, 1966).pdf" "Nietzsche, Friedrich - Human, All Too Human (Cambridge, 1996).pdf" "Julius Evola - A Handbook for Right-Wing Youth (1933-1974) (2017) pdf.pdf" "leguin-omelas.pdf" "essay-evola-tradition-and-the-right.pdf" "study-brain-drain-smartphones.pdf" "Nietzsche, Friedrich - On the Genealogy of Morals & Ecce Homo (Random House, 1967).pdf" "evola-1943-the-yoga-of-power.pdf" "aom-resiliency.pdf" "Nietzsche, Friedrich - Untimely Meditations (Cambridge, 1997).pdf" "furlong-2011-social-political-thought-evola.pdf" "code-emacs-learning-gnu-3rd.pdf" "book-junger-war.pdf" "code-algorithms.pdf" "book-donovan-no-mans-land.pdf" "book-hanson-war-like-no-other.pdf" "study-zwally-antarctica.pdf" "essay-evola-hitler-secret-societies.pdf" "book-gtd.pdf" "code-emacs-mastering.pdf" "Nietzsche, Friedrich - Ecce Homo [trans. Large] (Oxford, 2007).pdf" "textbook-calculus-ck12-foundation.pdf" "study-meditation-concentration.pdf" "Judicial Activism Reconsidered - Thomas Sowell.pdf" "code-algorithms-grokking.pdf" "study-female-representation-boards.pdf" "paper-mathematical-education.pdf" "code-javascript-definitive-6th.pdf" "textbook-geometry-ck12-volume-1.pdf" "book-maps-of-meaning.pdf" "crypto-schneier-cipher-paper-self-study.pdf" "mishima-1961-patriotism.pdf" "Nietzsche, Friedrich - Daybreak (Cambridge, 1997).pdf" "book-doctrine-awakening.pdf" "Nietzsche, Friedrich - Thus Spoke Zarathustra [trans. Del Caro & Pippin] (Cambridge, 2006).pdf" "guide-howto-lab-notebook.pdf" "Nietzsche, Friedrich - Birth of Tragedy & Other Writings (Cambridge, 1999).pdf" "doc-military-pay-table-2018.pdf" "mishima-1967-way-of-the-samurai.pdf" "../" "./")
+
+ ("/opt/pia/" (23504 49765 569844 512000) "openvpn_launcher.64" "../" "nwjs/" "openvpn-32/" "./" "openvpn-64/" "pia_manager/" "root_runner/" "ruby/" "openvpn_launcher.32" "frontend/" "run.sh" "rgloader/")
+
+ ("/opt/" (23591 51059 288698 799000) "../" "pia/" "./" "Mullvad VPN/" "sublime_text/" "oomox/" "brother/")
+
+ ("/home/evan/.config/qutebrowser/" (23624 14815 521306 307000) "config.py" "../" "./" "qsettings/" "backup-quickmarks" "autoconfig.yml" "bookmarks/" "config.py~" "quickmarks")
+
+ ("/home/evan/downloads/nnn-master/src/" (23611 43029 359715 617000) "nnn.c" "../" "./" "nnn.h")
+
+ ("/home/evan/tabletop/" (23610 13442 473447 636000) "../" "aime-loremaster.pdf" "./" "com-core.pdf" "zweihander/" "tfl-core-book.pdf" "tfl" "dnd5e/" "aime-core.pdf")
+
+ ("/home/evan/downloads/nnn-master/" (23611 32028 0 0) ".clang-tidy" "nnn.1" "../" "Makefile" "./" "CHANGELOG" ".travis.yml" "scripts/" "src/" "README.md" "packagecore.yaml" "LICENSE" ".gitignore")
+
+ ("/home/evan/.config/zathura/" (23446 42055 932922 174000) "../" "./" "zathurarc")
+
+ ("/home/evan/.i3/" (23609 57238 927193 649000) "../" "./" "config")
+
+ ("/home/evan/tabletop/zweihander/" (23581 10442 556898 760000) "Ogre Barber Surgeon.pdf" "../" "Human Diabolist.pdf" "unarmed.pdf" "./" "bullet.pdf" "Halfling Charlatan.pdf" "Elf Anarchist.pdf" "crit_blade.pdf" "energy.pdf" "Zweihander sheet HR - Form Caslon Final.pdf" "quad.pdf" "zweihander-blood-night.m4a" "crit_chart.pdf" "crit_arrows.pdf" "monsters.pdf" "shrapnel.pdf" "Gnome Sellsword.pdf" "cutting.pdf" "crit_blunt.pdf" "winged.pdf" "Zweihander_300dpi.pdf" "crit_chart_desc.pdf" "Dwarf_Bailiff.pdf" "crit_fire.pdf" "claw.pdf" "Form-fillable_Character_Sheet_-_ZWEIHNDER_Grim_and_Perilous_RPG.pdf")
+
+ ("/home/evan/.emacs.d/snippets/org-mode/" (23600 64064 392943 126000) "title" "embedded" "figure" "../" "entry" "setup" "book" "include" "elisp" "rv_image_background" "./" "verse" "matrix" "email" "ipython" "rv_background" "uml" "keywords" "style" "spell" "videos" "python" "head" "author" "table" "links" "img" "date" "quote" "exampleblock" "images" "dot" "options" "html" "center" "export" "description" "language")
+
+ ("/home/evan/.config/ranger/" (23595 32816 446627 76000) "../" "./" "devicons.py~" "__pycache__/" "plugins/" "scope.sh" "rc.conf")
+
+ ("/home/evan/projects/project-spellbook/" (23594 406 754357 973000) ".git/" "../" "./" "main.py" "index.org" "spellbook.py" "#index.org#" "__pycache__/" "scratch-phone.py" "scratch-py-spellbook.org")
+
+ ("/home/evan/projects/scratch-spellbook/" (23565 9056 653643 794000) "../" "test.html" "./" "css/" "spellbook.html" "spellbook.org")
+
+ ("/home/evan/projects/project-basic-ruleset/" (23507 23020 443297 42000) "../" "./" "index.org")
+
+ ("/home/evan/_org/" (23591 60907 15178 527000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "mindset.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "todos.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" "carbon.org" "phb.org" "order.org" "xdisicpline.org" "notes-cmus.org" "empire.org" "capture.org" "journal.org" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "ebay.org" "test.org" "zweihander.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
+
+ ("/home/evan/.config/kitty/" (23591 38816 25597 879000) "../" "./")
+
+ ("/etc/i3/" (23542 23828 936251 254000) "config.keycodes" "../" "./" "config")
+
+ ("/etc/" (23591 28150 369133 678000) "iptables/" "mkinitcpio.d/" "iproute2/" "securetty" "cron.daily/" "udev/" "xml/" "bash.bash_logout" "modules-load.d/" "Muttrc" "services" "audit/" "i3/" "udisks2/" "mpd.conf" "vdpau_wrapper.cfg" "login.defs" "locale.conf" "Muttrc.gpg.dist" "openswap.conf" "polkit-1/" "cups/" "anacrontab" "timezone" "ifplugd/" "mtab" "topdefaultrc" "openvpn/" "nfsmount.conf" "crypttab" "libnl/" "ts.conf" "rpc" "lightdm/" "logrotate.conf" "mail.rc" "ndctl/" "UPower/" "ld.so.cache" "systemd/" "resolv.conf.pacnew" "mke2fs.conf" "arch-release" "cgrules.conf" "manjaro-firefox-kde.ini" "opt/" "os-release" "motd" "pacman.conf.pacnew" "gshadow-" "man_db.conf" "gssproxy/" "sudoers.d/" "request-key.conf" "host.conf" "cgconfig.conf" "exports.d/" "initcpio/" "resolv.conf.bak" "sensors3.conf" "rc_maps.cfg" "manjaro-thunderbird.ini" "rsyncd.conf" "foomatic/" "hosts" ".updated" "php/" "shadow-" "depmod.d/" "krb5.conf" "vpnc/" "adjtime" "dnsmasq.conf" "passwd-" "nscd.conf" "security/" "logrotate.d/" "yaourtrc" "manjaro-firefox.ini" "lsb-release" "issue" "shells.pacnew" "nanorc" "profile.d/" "machine-id" "fonts/" "gimp/" "request-key.d/" "dbus-1/" "pacman-mirrors.conf" "xattr.conf" "cron.monthly/" "X11/" "avahi/" "slsh.rc" "pcmcia/" ".pwd.lock" "nginx/" "cpufreq-bench.conf" "resolv.conf" "group" "zsh/" "ppp/" "bluetooth/" "pacman.d/" "conf.d/" "lvm/" "cron.weekly/" "fstab" "pacman-mirrors.conf.pacnew" "environment" "geoclue/" "pam.d/" "wpa_supplicant/" "audisp/" "updatedb.conf" "sensors.d/" "netctl/" "shadow" "resolvconf.conf" "libpaper.d/" "Muttrc.dist" "NetworkManager/" "signond.conf" "gshadow.pacnew" "passwd.pacnew" "lightdm.conf.save" "ca-certificates/" "alternatives/" "group-" "libao.conf" "ImageMagick-6/" "manjaro-release" "fprintd.conf" "exports" "tmpfiles.d/" "group.pacnew" "hostname" "ssl/" "pacman.conf" "fuse.conf" "pulse/" "vconsole.conf" "netconfig" "mime.types" "libaudit.conf" "xinetd.d/" "hosts.pacnew" "ld.so.conf" "rhashrc" "i3status.conf" "sysctl.d/" "tor/" "ntp.conf" "dhcpcd.conf" "ufw/" "nfs.conf" "libblockdev/" "cron.hourly/" "skel/" "protocols" "libreoffice/" "gufw/" "default/" "healthd.conf" "cgsnapshot_blacklist.conf" "pamac.conf" "xdg/" "crypttab.pacnew" "ethertypes" "bash.bashrc" "mpv/" "gtk-3.0/" "gshadow" "kernel/" "shells" "alsa/" "cupshelpers/" "shadow.pacnew" "ssh/" "drirc" "mailcap" "modprobe.d/" "idmapd.conf" "gss/" "mdadm.conf" "rc_keymaps/" "manjaro-firefox-developer-edition.ini" "printcap" "cron.deny" "binfmt.d/" "cifs-utils/" "apparmor.d/" "trusted-key.key" "hp/" "passwd" "openldap/" "locale.gen.pacnew" "gai.conf" "gconf/" "profile" "vimrc" "sane.d/" "bindresvport.blacklist" "ld.so.conf.d/" "makepkg.conf" "dpkg/" "gtk-2.0/" "grub.d/" "ImageMagick-7/" "syslog-ng/" "inputrc" "locale.gen" "fstab.pacnew" "localtime" "mkinitcpio.conf" "cron.d/" "wgetrc" "papersize" "nsswitch.conf" "sudoers" "pkcs11/" "acpi/" "../" "./")
+
+ ("/home/evan/.urxvt/" (23426 52777 148530 961000) "../" "./" "urxvtd-tyrant")
 
  ("/home/evan/_code/scratch-spellbook/" (23565 9056 653643 794000) "../" "test.html" "./" "css/" "spellbook.html" "spellbook.org")
 
@@ -95,8 +148,6 @@
  ("/home/evan/_code/" (23565 8981 70311 896000) "dotfiles/" "resource-harry-emacs/" "../" "./" "project-homepage/" "date-picker/" "project-basic-ruleset/" "resource-rogue-theme/" "scratch-spellbook/" "scripts/" "oneshot/" "project-spellbook/")
 
  ("_org/" (23562 38186 700568 288000) "alt5e.org" "tt-ranger-cohort.org" "notes-emacs.org" "../" "book-mind-for-numbers.org" "xfitness.org" "./" "notes-shell-scripting.org" "logins.org" "nrx.org" "char-moon-moon-hex.org" "post-heroic.org" "xcurriculum.org" "todos.org" "book-python-learning.org" "todo-coffee-notes.org" "book-your-memory.org" "carbon.org" "phb.org" "order.org" "xdisicpline.org" "notes-cmus.org" "empire.org" "capture.org" "journal.org" "lang-latin.org" "book-foundation-training.org" "notes-git.org" "routine.org" "notes-programming.org" "org-guide.org" "writing-star-wars.org" "job-history.org" "monsters.org" "books.org" "agenda.org" "book-wimhoff.org" "writing-scratch.org" "krohne.org" "test.org" "book-bash-hard-way.org" "notes-ruby.org" "notes-bash.org" "writing-jordan.org" "rolodex.org" "book-python-automate.org" "tt-alternate-rules.org")
-
- ("/etc/NetworkManager/" (23542 23855 182917 423000) "dnsmasq-shared.d/" "NetworkManager.conf" "../" "./" "system-connections/" "conf.d/" "dispatcher.d/" "dnsmasq.d/" "VPN/")
 
  ("/home/evan/_nextcloud/tabletop/campaigns/tinker-thunder/" (23540 42242 865254 701000) "sb-roosevelt-june.png" "../" "session-12/" "./" "pdf-thunder-recap.pdf" "maps/" "statblocks-session-10/" "cp-tinker.org_archive" "ch-whitney.org" "roosevelt.org" "blue-dragon-lair-magic-items.odt" "index.org" "arbor lignum malleo.pdf" "cp-tinker.org" "tink-txt-pages-recap.txt" "ho-high-forest.pdf" "giant-blessings.odt" "ch-tim.org" "gercid.org" "arbor warhammer.odt")
 
@@ -129,8 +180,6 @@
  ("/home/evan/_nextcloud/tabletop/" (23508 50714 35889 313000) "../" "campaigns/" "./" "city-of-mist/" "dungeon-world/" "warhammer40k/" "tales-from-the-loop/" "dnd5e/" "cyberpunk-2020/" "adventures-in-middle-earth/" "vampire-the-masquerade/")
 
  ("/home/evan/_nextcloud/" (23500 55383 950899 844000) "../" "documents/" "games/" "./" "languages/" "books/" "fitness/" "politics/" "tabletop/")
-
- ("/home/evan/.emacs.d/snippets/org-mode/" (23507 27577 679877 199000) "title" "embedded" "figure" "../" "entry" "setup" "include" "elisp" "rv_image_background" "./" "verse" "matrix" "email" "ipython" "rv_background" "uml" "keywords" "style" "spell" "videos" "python" "head" "author" "table" "links" "img" "date" "quote" "exampleblock" "images" "dot" "options" "html" "center" "export" "description" "language")
 
  ("/home/evan/_code/project-basic-ruleset/" (23507 23020 443297 42000) "../" "./" "index.org")
 

@@ -1,9 +1,9 @@
 sw_volume: 100
 audio_device_state:1:alsamixer-output
 audio_device_state:1:Visualizer feed
-state: pause
-current: 11
-time: 36.102000
+state: play
+current: 5
+time: 4.204000
 random: 0
 repeat: 0
 single: 0
@@ -12,162 +12,10 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:PL - Empire/Celldweller - Eon (Au5 Remix).m4a
-1:PL - Empire/Daniel Pemberton - Take You Down.m4a
-2:PL - Empire/Ghostwriter - Sidewinder.m4a
-3:PL - Empire/04 Hans Zimmer - Oil Rig.mp3
-4:PL - Empire/10 Hans Zimmer - You Die Or I Do.mp3
-5:PL - Empire/12 Hans Zimmer - Ignition.mp3
-6:PL - Empire/13 Hans Zimmer - I Will Find Him.mp3
-7:PL - Empire/14 Michael Giacchino - Star Trek Main Theme.mp3
-8:PL - Empire/1.16 - Bombers Over Ibiza (Junkie XL Remix).mp3
-9:PL - Empire/3.16 - Wayne Manor.mp3
-10:PL - Empire/3.17 - Bane.mp3
-11:PL - Empire/3.18 - Selina Kyle.mp3
-12:PL - Grunt/05 We're In This Together.mp3
-13:Lorn/Ask the Dust/01 - Mercy.flac
-14:Lorn/Ask the Dust/02 - Ghosst.flac
-15:Lorn/Ask the Dust/03 - Weigh Me Down.flac
-16:Lorn/Ask the Dust/04 - This.flac
-17:Lorn/Ask the Dust/05 - Diamond.flac
-18:Lorn/Ask the Dust/06 - Everything Is Violence.flac
-19:Lorn/Ask the Dust/07 - The Well.flac
-20:Lorn/Ask the Dust/08 - The Gun.flac
-21:Lorn/Ask the Dust/09 - Dead Dogs.flac
-22:Lorn/Ask the Dust/10 - Chhurch.flac
-23:Lorn/Ask the Dust/11 - I Better.flac
-24:Lorn/Ask the Dust/12 - Ghosst(s).flac
-25:Lorn/Self Confidence/1995.mp3
-26:Lorn/Self Confidence/2.2 Liters (320).mp3
-27:Lorn/Self Confidence/Abracadabra..mp3
-28:Lorn/Self Confidence/All I Had.mp3
-29:Lorn/Self Confidence/Another Mistake.mp3
-30:Lorn/Self Confidence/Arbiter I.mp3
-31:Lorn/Self Confidence/Barbara.mp3
-32:Lorn/Self Confidence/Beta Beat.mp3
-33:Lorn/Self Confidence/Check Your Size.mp3
-34:Lorn/Self Confidence/Cheese Grater (V1).mp3
-35:Lorn/Self Confidence/Cleanse.mp3
-36:Lorn/Self Confidence/Control 3.mp3
-37:Lorn/Self Confidence/Critical Failure.mp3
-38:Lorn/Self Confidence/Dresden (320).mp3
-39:Lorn/Self Confidence/Eat It.mp3
-40:Lorn/Self Confidence/Everything II.mp3
-41:Lorn/Self Confidence/Everything.aif
-42:Lorn/Self Confidence/Fake TV Theme.mp3
-43:Lorn/Self Confidence/Fictional.mp3
-44:Lorn/Self Confidence/For Now.aif
-45:Lorn/Self Confidence/Gateway.mp3
-46:Lorn/Self Confidence/Ghetto of the Mind.mp3
-47:Lorn/Self Confidence/Hannah.mp3
-48:Lorn/Self Confidence/Harder, Faster, Stronger (Clip).mp3
-49:Lorn/Self Confidence/Harder, Faster, Stronger RMX 2.mp3
-50:Lorn/Self Confidence/I Be The.mp3
-51:Lorn/Self Confidence/I Wonder.mp3
-52:Lorn/Self Confidence/I'm Best Friends with Lorn.mp3
-53:Lorn/Self Confidence/Lorn - Nine Tomorrows (i) 1.mp3
-54:Lorn/Self Confidence/Lornosaj.mp3
-55:Lorn/Self Confidence/Me is Hot (Lorn Remix).mp3
-56:Lorn/Self Confidence/Me or You.mp3
-57:Lorn/Self Confidence/More Human Than Human (Lorn Remix).mp3
-58:Lorn/Self Confidence/Murphy Bed.mp3
-59:Lorn/Self Confidence/My Single Dancefloor.mp3
-60:Lorn/Self Confidence/Not Today.mp3
-61:Lorn/Self Confidence/Nyse On.mp3
-62:Lorn/Self Confidence/Output 1-2 (7 1 1 1).mp3
-63:Lorn/Self Confidence/Previous Self.mp3
-64:Lorn/Self Confidence/Red Sky (Part II).mp3
-65:Lorn/Self Confidence/Requiem (Ft. Mobb Deep).mp3
-66:Lorn/Self Confidence/She Crawls.mp3
-67:Lorn/Self Confidence/Skinny Girl, Fat Pussy.mp3
-68:Lorn/Self Confidence/Split Mind (Ft. Mobb Deep).mp3
-69:Lorn/Self Confidence/Suicide Note.mp3
-70:Lorn/Self Confidence/superliner_lorn.mp3
-71:Lorn/Self Confidence/Supermassive Black Hole (Lorn Remix).mp3
-72:Lorn/Self Confidence/T.R.E.N.D. (320).mp3
-73:Lorn/Self Confidence/Take It Away (Unfinished).mp3
-74:Lorn/Self Confidence/The Beat Creator.mp3
-75:Lorn/Self Confidence/Thetimewe.mp3
-76:Lorn/Self Confidence/This Means Love.mp3
-77:Lorn/Self Confidence/Touch.mp3
-78:Lorn/Self Confidence/Track 2 - Juggernaught.mp3
-79:Lorn/Self Confidence/Transexual (Lorn Remix).mp3
-80:Lorn/Self Confidence/Travel Well.mp3
-81:Lorn/Self Confidence/Untitled No. 12.mp3
-82:Lorn/Self Confidence/Vision.mp3
-83:Lorn/Self Confidence/What Remains.mp3
-84:Lorn/Self Confidence/01 01 Juggernaught.mp3
-85:Lorn/Self Confidence/01 Anti Life.mp3
-86:Lorn/Self Confidence/01 Contact.mp3
-87:Lorn/Self Confidence/01 Paying Homage.aif
-88:Lorn/Self Confidence/01 REF 316.mp3
-89:Lorn/Self Confidence/02 A Red Sky.aif
-90:Lorn/Self Confidence/02 Internude.mp3
-91:Lorn/Self Confidence/02 Metropolis.mp3
-92:Lorn/Self Confidence/03 Descent.mp3
-93:Lorn/Self Confidence/03 Thighmaster.mp3
-94:Lorn/Self Confidence/04 Eulogy.mp3
-95:Lorn/Self Confidence/04 Friendly Fire.mp3
-96:Lorn/Self Confidence/05 23490u.mp3
-97:Lorn/Self Confidence/05 Outlines.mp3
-98:Lorn/Self Confidence/06 Contrast.mp3
-99:Lorn/Self Confidence/06 Hardy Boys Revisited.mp3
-100:Lorn/Self Confidence/07 Concept of a Mirror.mp3
-101:Lorn/Self Confidence/08 Custom Eyes.mp3
-102:Lorn/Self Confidence/09 Dawn of the Dead.mp3
-103:Lorn/Self Confidence/09 My Flower.mp3
-104:Lorn/Self Confidence/10 Untitled.mp3
-105:Lorn/Self Confidence/11 West Nile Virus (Inst.).mp3
-106:Lorn/Self Confidence/12 R.mp3
-107:Lorn/Self Confidence/13 Tanks 4 Tots.mp3
-108:Lorn/Self Confidence/14 Red Sky.mp3
-109:Lorn/Self Confidence/15 You Sleep Alone.mp3
-110:Lorn/Self Confidence/16 5 Minutes.mp3
-111:Lorn/Self Confidence/17 Megaman Rmx.mp3
-112:Lorn/The Maze to Nowhere - Part 1/LORN - THE MAZE TO NOWHERE - 01 THERE IS STILL TIME.mp3
-113:Lorn/The Maze to Nowhere - Part 1/LORN - THE MAZE TO NOWHERE - 02 OXBOW B.mp3
-114:Lorn/The Maze to Nowhere - Part 1/LORN - THE MAZE TO NOWHERE - 03 BATTY'S THEME.mp3
-115:Lorn/The Maze to Nowhere - Part 1/LORN - THE MAZE TO NOWHERE - 04 UPSIDE DOWN COPS.mp3
-116:Lorn/The Maze to Nowhere - Part 1/LORN - THE MAZE TO NOWHERE - 05 ALL CORRUPT EVERYTHING.mp3
-117:Lorn/The Maze to Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 01 THERE AIN'T NOTHING IT'S JUST PAIN AND THEN YER GONE.mp3
-118:Lorn/The Maze to Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 02 ACID RAIN.mp3
-119:Lorn/The Maze to Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 03 ENTANGLED.mp3
-120:Lorn/The Maze to Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 01 SV_CHEATS 0.mp3
-121:Lorn/The Maze to Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 02 SHELTER.mp3
-122:Lorn/The Maze to Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 03 ALT.VEL.PTCH.mp3
-123:Lorn/The Maze to Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 04 NEGATIVE JUMPSUIT.mp3
-124:Lorn/Vessel/LORN - VESSEL - 01 BROKEN MANTRA.mp3
-125:Lorn/Vessel/LORN - VESSEL - 02 ANVIL.mp3
-126:Lorn/Vessel/LORN - VESSEL - 03 TEMPERED BY YOUR LOVE.mp3
-127:Lorn/Vessel/LORN - VESSEL - 04 CONDUIT.mp3
-128:Lorn/Vessel/LORN - VESSEL - 05 TATTERED FLAG.mp3
-129:Lorn/Vessel/LORN - VESSEL - 06 DIPPED INTO POISON.mp3
-130:Lorn/Vessel/LORN - VESSEL - 07 ICE.mp3
-131:Lorn/Vessel/LORN - VESSEL - 08 LOCK BITES KEY.mp3
-132:Lorn/Vessel/LORN - VESSEL - 09 MOUNT KWAKU.mp3
-133:Lorn/Vessel/LORN - VESSEL - 10 MAROONED.mp3
-134:Celldweller - Wish Upon A Blackstar/16 - Against The Tide.mp3
-135:OST - Deadwood/Deadwood - Season 1 - 01 - Clell Watson - ''No Law...''.mp3
-136:OST - Deadwood/Deadwood - Season 1 - 02 - David Schwartz - Theme From Deadwood.mp3
-137:OST - Deadwood/Deadwood - Season 1 - 03 - Al Swearengen - ''In Life...''.mp3
-138:OST - Deadwood/Deadwood - Season 1 - 04 - Michael Hurley - Hog Of The Forsaken.mp3
-139:OST - Deadwood/Deadwood - Season 1 - 05 - June Carter Cash - Will The Circle Be Unbroken.mp3
-140:OST - Deadwood/Deadwood - Season 1 - 06 - Wild Bill Hickok & Charlie Utter - ''Go To Hell...''.mp3
-141:OST - Deadwood/Deadwood - Season 1 - 07 - Lyle Lovett - Old Friend.mp3
-142:OST - Deadwood/Deadwood - Season 1 - 08 - Margaret - Creek Lullaby.mp3
-143:OST - Deadwood/Deadwood - Season 1 - 09 - Calamity Jane & Charlie Utter - ''Row, Row, Row Your Boat...''.mp3
-144:OST - Deadwood/Deadwood - Season 1 - 10 - Gustavo Santaolalla - Iguazu.mp3
-145:OST - Deadwood/Deadwood - Season 1 - 11 - Al Swearengen & Joanie Stubbs - ''Pardon My French...''.mp3
-146:OST - Deadwood/Deadwood - Season 1 - 12 - Jelly Roll Morton - Stars And Stripes Forever.mp3
-147:OST - Deadwood/Deadwood - Season 1 - 13 - Sonny Terry & Brownie McGhee - God And Man.mp3
-148:OST - Deadwood/Deadwood - Season 1 - 14 - Mark Lee Scott - Fallen From Grace.mp3
-149:OST - Deadwood/Deadwood - Season 1 - 15 - Johnny Klimek & Reinhold Heil - Native Funeral.mp3
-150:OST - Deadwood/Deadwood - Season 1 - 16 - Al Swearengen & Mister Wu - ''Who, Wu...''.mp3
-151:OST - Deadwood/Deadwood - Season 1 - 17 - Mike Seeger, Peggy Seeger, Penny Seeger & Children - Snake Baked A Hoecake.mp3
-152:OST - Deadwood/Deadwood - Season 1 - 18 - Bukka White - High Fever Blues.mp3
-153:OST - Deadwood/Deadwood - Season 1 - 19 - Michael J. Sheehey - Twisted Little Man.mp3
-154:OST - Deadwood/Deadwood - Season 1 - 20 - Al Swearengen - ''Next Round's On the House...''.mp3
-155:OST - Deadwood/Deadwood - Season 1 - 21 - Michael Brook - Arriving In Deadwood.mp3
-156:OST - Deadwood/Deadwood - Season 1 - 22 - Mississippi John Hurt - Farther Along.mp3
-157:OST - Deadwood/Deadwood - Season 1 - 23 - Seth Bullock & Al Swearengen - ''There's Blood...''.mp3
+0:4. New/28 Days Later Theme.m4a
+1:4. New/lissie-electric-eye.mp3
+2:4. New/marilyn-manson-rock-is-dead.m4a
+3:4. New/rob-zombie-dragula.m4a
+4:4. New/Silversun Pickups - Panic Switch (Official Video).m4a
+5:4. New/13. Barabarian Horde.mp3
 playlist_end

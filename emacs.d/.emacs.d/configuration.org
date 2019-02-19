@@ -3,7 +3,6 @@
 #+AUTHOR: Brutus Hilarious
 #+EMAIL: nil
 #+OPTIONS: toc:nil num:nil
-
 * User Experience
 ** General
 
@@ -30,6 +29,7 @@
 #+END_SRC
 
 * Programming Environments
+** Tab Widths
 
 #+BEGIN_SRC emacs-lisp
   (setq-default tab-width 2)
@@ -41,14 +41,7 @@
   (set-default-coding-systems 'utf-8)
 #+END_SRC
 
-* Snippets
-
-#+BEGIN_SRC emacs-lisp
-  (add-to-list 'load-path
-                "~/.emacs.d/plugins/yasnippet")
-  (require 'yasnippet)
-  (yas-global-mode 1)
-#+END_SRC
+* TODO Abbreviations
 
 * Org Mode
 ** Hooks
@@ -100,8 +93,8 @@
 ;https://emacs.stackexchange.com/questions/3729/how-do-i-bind-keys-in-ido
 #+END_SRC
 
-* Org: Make Scratch Org
-* Org: Capture
+* TODO Org Mode: Make Scratch Org
+* Org Mode: Capture
 #+BEGIN_SRC emacs-lisp
   (setq org-use-fast-todo-selection t)
   (setq org-treat-S-cursor-todo-selection-as-state-change nil)
@@ -120,7 +113,7 @@
 
 #+END_SRC
 
-* Org Todo States slash capture
+* Org Mode: TODO States
 
 #+begin_src emacs-lisp
 (setq org-todo-keywords
@@ -158,30 +151,55 @@
 #+END_SRC
 
 * Package: Elpy
+
 #+BEGIN_SRC emacs-lisp
 ;(elpy-enable)
 #+END_SRC
+
 * Package: Aggressive Indent Mode
+
 #+BEGIN_SRC emacs-lisp
 (global-aggressive-indent-mode 1)
 #+END_SRC
 
-* Package: AutoPep8
+* Package: Yasnippet
+
 #+BEGIN_SRC emacs-lisp
-(require 'py-autopep8)
-(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
+  (add-to-list 'load-path
+                "~/.emacs.d/plugins/yasnippet")
+  (require 'yasnippet)
+  (yas-global-mode 1)
 #+END_SRC
+
+* Package: AutoPep8
+
+#+BEGIN_SRC emacs-lisp
+;(require 'py-autopep8)
+;(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
+#+END_SRC
+
 * Package: Flycheck
+
 #+BEGIN_SRC emacs-lisp
 ;(require 'flycheck)
 ;(global-flycheck-mode t)
 #+END_SRC
+
 * Package: Scrolling: Golden Ratio
 
 #+BEGIN_SRC emacs-lisp
-(require 'golden-ratio-scroll-screen)
-(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
-(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+;(require 'golden-ratio-scroll-screen)
+;(global-set-key (kbd "M-v") 'golden-ratio-scroll-screen-down)
+;(global-set-key (kbd "C-v") 'golden-ratio-scroll-screen-up)
+#+END_SRC
+
+* Package: Wind Move
+
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "C-c j")  'windmove-left)
+(global-set-key (kbd "C-c l") 'windmove-right)
+(global-set-key (kbd "C-c i")    'windmove-up)
+(global-set-key (kbd "C-c k")  'windmove-down)
 #+END_SRC
 
 * Magit
@@ -200,6 +218,25 @@
 
 #+BEGIN_SRC emacs-lisp
 (global-set-key (kbd "C-j") 'emmet-expand-line)
+#+END_SRC
+
+* Keybinding: Cycle Buffer
+
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "M-n")  'switch-to-next-buffer)
+(global-set-key (kbd "M-p")  'switch-to-prev-buffer)
+#+END_SRC
+
+* Keybinding: Re-Bind Enter
+
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "C-;") 'newline)
+#+END_SRC
+ 
+* Keybinding: Other Window
+
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "M-o") 'other-window)
 #+END_SRC
 
 * Helm
@@ -256,3 +293,4 @@
        ("marmalade" . "https://marmalade-repo.org/packages/")
        ("melpa" . "https://melpa.org/packages/")))
 #+END_SRC
+
